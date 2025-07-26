@@ -1,0 +1,1539 @@
+{
+  "Questions": {
+    "id": 6420,
+    "type": 1,
+    "title": "Test 5",
+    "level": 5,
+    "time": 45,
+    "score": 180,
+    "pass_score": 80,
+    "parts": [
+      {
+        "time": 10,
+        "min_score": 19,
+        "max_score": 40,
+        "name": "文字・語彙",
+        "content": [
+          {
+            "kind": "cách đọc kanji",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3289,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きのう四人の<u>先生</u>に電話をかけました。",
+                    "answers": [
+                      "せんせん",
+                      "せんせい",
+                      "せいせん",
+                      "せいせい"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "先生 [せんせい]:<br><ul><li>Thầy giáo</li><li>Tiên sinh</li><li>Ông thầy</li><li>Ông giáo</li><li>Giáo viên; giảng viên; thầy</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div><div>Word: 先生<br>How to read: せんせい<br>Meaning: teacher<br>Question: きのう四人の<u>先生</u>に電話をかけました。<br>How to read: きのうよにんの<u>せんせい</u>にでんわをかけました。<br>Meaning: Yesterday, I called four&nbsp;<u>teachers</u>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. せんせい<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. せんせん: This reading is incorrect because it mistakes the 'い' sound for the 'ん' sound.<br>3. せいせん: This reading is incorrect because it reverses the positions of the 'い' and 'ん' sounds.<br>4. せいせい: This reading is incorrect because it mistakes the 'ん' sound for the 'い' sound.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word '先生' (せんせい) is used to refer to teachers, instructors, or people with high expertise in a certain field (such as doctors, writers, etc.). In Japanese, this word is often used with respect.<br>This word is composed of two kanji:<br><ul><li>先 (せん): Before, ahead, leading.</li><li>生 (せい): To be born, life, existence.</li></ul></div></div>",
+                      "id_auto": "<div><div>Kata: 先生<br>Cara membaca: せんせい<br>Arti: guru<br>Pertanyaan: きのう四人の<u>先生</u>に電話をかけました。<br>Cara membaca: きのうよにんの<u>せんせい</u>にでんわをかけました。<br>Arti: Kemarin, saya menelepon empat <u>guru</u>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. せんせい<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. せんせん: Cara baca ini salah karena tertukar antara bunyi 'い' dan 'ん'.<br>3. せいせん: Cara baca ini salah karena posisi 'い' dan 'ん' terbalik.<br>4. せいせい: Cara baca ini salah karena tertukar antara bunyi 'ん' dan 'い'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata '先生' (せんせい) digunakan untuk merujuk kepada guru, instruktur, atau orang yang memiliki keahlian tinggi di bidang tertentu (seperti dokter, penulis, dll.). Dalam bahasa Jepang, kata ini sering digunakan dengan rasa hormat.<br>Kata ini terdiri dari dua kanji:<br><ul><li>先 (せん): Sebelum, di depan, memimpin.</li><li>生 (せい): Lahir, hidup, keberadaan.</li></ul></div></div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.071702686,
+                "scores": [
+                  4
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10398,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "ちちの<u>会社</u>ではたらきます。",
+                    "answers": [
+                      "がいしゃ",
+                      "かいしゃ",
+                      "かえしゃ",
+                      "かいじゃ"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "<p>会社（かいしゃ）：(Hội X&atilde;) C&ocirc;ng ty</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 会社<br>How to read: かいしゃ<br>Meaning: company<br>Question: ちちの<u>会社</u>ではたらきます。<br>How to read: ちちの<u>かいしゃ</u>ではたらきます。<br>Meaning: I work at my father's&nbsp;<u>company</u>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. かいしゃ<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. がいしゃ: This reading is incorrect because it mistakes 'か' for 'が'. '会社' can be read as 'がいしゃ' when used in compound words, such as 株式会社 (かぶしきがいしゃ), which means 'joint-stock company', and 有限会社 (ゆうげんがいしゃ), which means 'limited liability company'. However, in the question above, '会社' is not part of any compound word, so reading it as 'がいしゃ' is incorrect.<br>3. かえしゃ: This reading is incorrect because it mistakes 'い' for 'え'. There is no such word in Japanese with this reading.<br>4. かいじゃ: This reading is incorrect because it mistakes 'しゃ' for 'じゃ'. There is no such word in Japanese with this reading.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Kanji '会社' is composed of two kanji:<br>1. 会 (かい, あ-う): meaning 'meeting', 'to meet'.<br>2. 社 (しゃ): meaning 'company', 'shrine'.<br>These two characters combine to form the word '会社' (かいしゃ), meaning 'company', 'business'. In Japanese, '会社' is commonly used to refer to business organizations where people work.",
+                      "id_auto": "Kata: 会社<br>Cara membaca: かいしゃ<br>Arti: perusahaan<br>Pertanyaan: ちちの<u>会社</u>ではたらきます。<br>Cara membaca: ちちの<u>かいしゃ</u>ではたらきます。<br>Arti: Saya bekerja di <u>perusahaan</u> ayah saya.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. かいしゃ<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. がいしゃ: Pembacaan ini salah karena tertukar antara 'か' dan 'が'. '会社' dapat dibaca sebagai 'がいしゃ' ketika digunakan dalam kata majemuk, seperti 株式会社 (かぶしきがいしゃ), yang berarti 'perseroan terbatas', dan 有限会社 (ゆうげんがいしゃ), yang berarti 'perusahaan dengan tanggung jawab terbatas'. Namun, dalam pertanyaan di atas, '会社' bukan bagian dari kata majemuk apa pun, jadi membacanya sebagai 'がいしゃ' adalah salah.<br>2. かえしゃ: Pembacaan ini salah karena tertukar antara 'い' dan 'え'. Tidak ada kata seperti itu dalam bahasa Jepang dengan pembacaan ini.<br>3. かいじゃ: Pembacaan ini salah karena tertukar antara 'しゃ' dan 'じゃ'. Tidak ada kata seperti itu dalam bahasa Jepang dengan pembacaan ini.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji '会社' terdiri dari dua kanji:<br>1. 会 (かい, あ-う): berarti \"pertemuan\", \"bertemu\".<br>2. 社 (しゃ): berarti \"perusahaan\", \"kuil\".<br>Kedua karakter ini bergabung untuk membentuk kata '会社' (かいしゃ), yang berarti \"perusahaan\", \"bisnis\". Dalam bahasa Jepang, '会社' umumnya digunakan untuk merujuk pada organisasi bisnis tempat orang bekerja."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.121939861,
+                "scores": [
+                  4
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3327,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "九月二十日に<u>友だち</u>に会います。",
+                    "answers": [
+                      "ゆうだち",
+                      "ようだち",
+                      "ともだち",
+                      "てもだち"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 友だち<br>How to read: ともだち<br>Meaning: friends<br>Question: 九月二十日に<u>友だち</u>に会います。<br>How to read: くがつはつかに<u>ともだち</u>にあいます。<br>Meaning: I will meet&nbsp;<u>friends</u>&nbsp;on September 20th.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. ともだち<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. ゆうだち: 'ゆう' is one of the correct readings of '友' but not in this case.<br>2. ようだち: '友' does not have a reading of 'よう'. This is also a non-existent word in Japanese.<br>4. てもだち: This reading is incorrect due to mistaking 'と' for 'て'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>友達 (ともだち) means 'friends' in Japanese. This word is made up of 2 kanji:<span style=\"font-weight: 700;\"><br></span><p style=\"display: inline !important;\">1. 友 (とも, ゆう): friend<br></p>Example:<br><ul><li>友人 (ゆうじん): close friend, friend</li><li>友情 (ゆうじょう): friendship</li><li>親友 (しんゆう): best friend</li><li>友好 (ゆうこう): friendship<br></li></ul><p style=\"display: inline !important;\">2. 達 (たち, だち): indicates plural, often used to refer to a group of people, or means 'to achieve, to reach'.<br></p>Example:<br><ul><li>達成 (たっせい): achievement</li><li>速達 (そくたつ): express delivery</li></ul>",
+                      "id_auto": "Kata: 友だち<br>Cara membaca: ともだち<br>Arti: teman-teman<br>Pertanyaan: 九月二十日に<u>友だち</u>に会います。<br>Cara membaca: くがつはつかに<u>ともだち</u>にあいます。<br>Arti: Saya akan bertemu&nbsp;<u>teman-teman</u>&nbsp;pada tanggal 20 September.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. ともだち<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. ゆうだち: 'ゆう' adalah salah satu cara membaca '友' yang benar tetapi tidak dalam kasus ini.<br>2. ようだち: '友' tidak memiliki cara membaca 'よう'. Ini juga merupakan kata yang tidak ada dalam bahasa Jepang.<br>4. てもだち: Cara membaca ini salah karena keliru mengira 'と' sebagai 'て'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>友達 (ともだち) berarti 'teman' dalam bahasa Jepang. Kata ini terdiri dari 2 kanji:<span style=\"font-weight: 700;\"><br></span><p style=\"display: inline !important;\">1. 友 (とも, ゆう): teman<br></p>Contoh:<br><ul><li>友人 (ゆうじん): teman dekat</li><li>友情 (ゆうじょう): persahabatan</li><li>親友 (しんゆう): sahabat</li><li>友好 (ゆうこう): persahabatan<br></li></ul><p style=\"display: inline !important;\">2. 達 (たち, だち): menunjukkan jamak, sering digunakan untuk merujuk pada sekelompok orang, atau berarti 'untuk mencapai'.<br></p>Contoh:<br><ul><li>達成 (たっせい): pencapaian</li><li>速達 (そくたつ): pengiriman ekspres</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.102510399,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "cách viết từ",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10303,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "つかれましたから、がっこうを　<u>やすみます</u>。",
+                    "answers": [
+                      "体みます",
+                      "本みます",
+                      "休みます",
+                      "何みます"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>休みます（やすみます）：(Hưu) nghỉ ngơi</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: つかれましたから、がっこうを<span style=\"font-weight: 700;\">やすみます</span>。<br>Meaning: Because I'm tired, I will&nbsp;<span style=\"font-weight: 700;\">take a day off from school</span>.<br>###<br>CORRECT CHOICE:<br>3. 休みます<br>###<br>ANALYSIS:<br>1. 体みます: This does not exist in Japanese. This choice can be confusing because the kanji 体 only differs from the kanji 休 in the correct choice by one horizontal line. The kanji 体 is read as からだ, meaning 'body'.<br>2. 本みます: This does not exist in Japanese. The kanji 本 is read as ほん, meaning 'book'.<br>3. 休みます: Read as やすみます, meaning 'to rest, to take a day off from school'.<br>4. 何みます: This does not exist in Japanese. The kanji 何 is read as なに, meaning 'what'.<br>###<br>REFERENCE INFORMATION:<br>休む (やすむ) in Japanese expresses the action of resting, pausing work or activities to recover. It is often used in contexts where someone needs to rest after working hard or needs time to relax.<br>- Example:<br>+ 今日は仕事を休む。<br>きょう は しごと を やすむ<br>I will take a day off from work today.<br>+ 少し休んでください。<br>すこし やすんで ください<br>Please take a short break.<br>+ 彼は風邪で学校を休んだ。<br>かれ は かぜ で がっこう を やすんだ<br>He took a day off from school because he had a cold.<br>+ 明日は会議を休みます。<br>あした は かいぎ を やすみます<br>I will be absent from the meeting tomorrow.",
+                      "id_auto": "Pertanyaan: つかれましたから、がっこうを<span style=\"font-weight: 700;\">やすみます</span>。<br>Arti: Karena saya lelah, saya akan&nbsp;<span style=\"font-weight: 700;\">izin tidak masuk sekolah</span>.<br>###<br>PILIHAN YANG BENAR:<br>3. 休みます<br>###<br>ANALISIS:<br>1. 体みます: Kata ini tidak ada dalam bahasa Jepang. Pilihan ini bisa membingungkan karena kanji 体 hanya berbeda satu garis horizontal dari kanji 休 pada pilihan yang benar. Kanji 体 dibaca sebagai からだ, yang berarti \"tubuh\".<br>2. 本みます: Kata ini tidak ada dalam bahasa Jepang. Kanji 本 dibaca sebagai ほん, yang berarti \"buku\".<br>3. 休みます: Dibaca sebagai やすみます, yang berarti \"beristirahat, izin tidak masuk sekolah\".<br>4. 何みます: Kata ini tidak ada dalam bahasa Jepang. Kanji 何 dibaca sebagai なに, yang berarti \"apa\".<br>###<br>INFORMASI REFERENSI:<br>休む (やすむ) dalam bahasa Jepang mengungkapkan tindakan beristirahat, menghentikan pekerjaan atau aktivitas untuk memulihkan diri. Ini sering digunakan dalam konteks di mana seseorang perlu istirahat setelah bekerja keras atau perlu waktu untuk bersantai.<br>- Contoh:<br>+ 今日は仕事を休む。<br>きょう は しごと を やすむ<br>Saya akan mengambil cuti kerja hari ini.<br>+ 少し休んでください。<br>すこし やすんで ください<br>Silakan istirahat sebentar.<br>+ 彼は風邪で学校を休んだ。<br>かれ は かぜ で がっこう を やすんだ<br>Dia izin tidak masuk sekolah karena dia masuk angin.<br>+ 明日は会議を休みます。<br>あした は かいぎ を やすみます<br>Saya akan absen dari rapat besok."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.137968495,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3223,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "むいかの　<u>ごご</u>に　あいましょう。",
+                    "answers": [
+                      "午役",
+                      "牛役",
+                      "午後",
+                      "牛後"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "午後 [ごご]: Vào buổi chiều; sau 12 giờ trưa; buổi chiều; chiều",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: むいかの<span style=\"font-weight: 700;\">ごご</span>にあいましょう。<br>Meaning: Let's meet on the&nbsp;<span style=\"font-weight: 700;\">afternoon</span>&nbsp;of the 6th.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. 午後<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 午役: Does not exist in Japanese.<br>2. 牛役: Does not exist in Japanese.<br>3. 午後 (ごご): Means 'afternoon, p.m', referring to the time from 12 noon to 12 midnight.<br>4. 牛後: Does not exist in Japanese.<br>The choices present pairs of kanji that are easily confused: 午 and 牛, 役 and 後.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>午後 (ごご) in Japanese has the following meanings and usage contexts:<br>1. Afternoon/evening:<br>- Used to indicate the time from 12 noon to 12 midnight. This word is commonly used in daily conversations to refer to the time of day.<br>- Example:<br>+ 午後3時に会いましょう。<br>ごご さんじ に あいましょう。<br>Let's meet at 3 p.m.<br>+ 午後の予定は何ですか？<br>ごご の よてい は なん です か？<br>What are your plans for the afternoon?<br>2. PM (time):<br>- Used in the context of indicating time in 12-hour format, to distinguish it from morning (AM). Often used in schedules, announcements, or when it is necessary to specify the time of day.<br>- Example:<br>+ 午後5時に閉店します。<br>ごご ごじ に へいてん します。<br>We will close at 5 p.m.<br>+ 午後8時のニュースを見ましたか？<br>ごご はちじ の ニュース を みました か？<br>Did you watch the 8 p.m. news?",
+                      "id_auto": "Pertanyaan: むいかの<span style=\"font-weight: 700;\">ごご</span>にあいましょう。<br>Arti: Mari bertemu pada <span style=\"font-weight: 700;\">sore</span> hari tanggal 6.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. 午後<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 午役: Tidak ada dalam bahasa Jepang.<br>2. 牛役: Tidak ada dalam bahasa Jepang.<br>3. 午後 (ごご): Artinya 'sore, p.m', mengacu pada waktu dari jam 12 siang hingga 12 tengah malam.<br>4. 牛後: Tidak ada dalam bahasa Jepang.<br>Pilihan-pilihan tersebut menyajikan pasangan kanji yang mudah tertukar: 午 dan 牛, 役 dan 後.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>午後 (ごご) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Sore/malam:<br>- Digunakan untuk menunjukkan waktu dari jam 12 siang hingga 12 tengah malam. Kata ini umum digunakan dalam percakapan sehari-hari untuk menyebut waktu dalam sehari.<br>- Contoh:<br>+ 午後3時に会いましょう。<br>ごご さんじ に あいましょう。<br>Mari bertemu pukul 3 sore.<br>+ 午後の予定は何ですか？<br>ごご の よてい は なん です か？<br>Apa rencanamu untuk sore ini?<br>2. PM (waktu):<br>- Digunakan dalam konteks menunjukkan waktu dalam format 12 jam, untuk membedakannya dari pagi (AM). Sering digunakan dalam jadwal, pengumuman, atau ketika perlu menentukan waktu hari itu.<br>- Contoh:<br>+ 午後5時に閉店します。<br>ごご ごじ に へいてん します。<br>Kami akan tutup pukul 5 sore.<br>+ 午後8時のニュースを見ましたか？<br>ごご はちじ の ニュース を みました か？<br>Apakah kamu menonton berita pukul 8 malam?"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.151515151,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3341,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "らいねんのなつはがいこくへ<u>いきたい</u>です。",
+                    "answers": [
+                      "丁きたい",
+                      "行きたい",
+                      "汀きたい",
+                      "体きたい"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: らいねんのなつはがいこくへ<span style=\"font-weight: 700;\">いきたい</span>です。<br>Meaning: Next summer, I&nbsp;<span style=\"font-weight: 700;\">want to go</span>&nbsp;abroad.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. 行きたい<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 丁きたい: Does not exist in Japanese.<br>2. 行きたい (いきたい): is the -tai form of the verb 行く (いく), meaning 'want to go', which is accurate and fits the context of the sentence.<br>3. 汀きたい: Does not exist in Japanese.<br>4. 体きたい: Does not exist in Japanese.<br>Choices 1 and 3 are designed to be confusing because they share the same 丁 component in the first character.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 行く (いく) has the following meanings and usage contexts:<br>1. To go, to move to a location:<br>- Expresses the action of moving from one place to another. This is the most basic and common meaning of the word '行く'. It is often used when talking about going to a place, whether by walking, riding, or using other means of transportation.<br>- Example:<br>+ 学校に行く。<br>がっこう に いく。<br>I go to school.<br>+ 友達の家に行く。<br>ともだち の いえ に いく。<br>I go to my friend's house.<br>2. To go through, to cross:<br>- Example:<br>+ 探検家が山中の道なき道を行った。<br>たんけんかが さんちゅうの みちなきみちを いった。<br>An explorer went through the mountains on an unexplored path.",
+                      "id_auto": "Pertanyaan: らいねんのなつはがいこくへ<span style=\"font-weight: 700;\">いきたい</span>です。<br>Arti: Musim panas tahun depan, saya&nbsp;<span style=\"font-weight: 700;\">ingin pergi</span>&nbsp;ke luar negeri.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. 行きたい<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 丁きたい: Tidak ada dalam bahasa Jepang.<br>2. 行きたい (いきたい): adalah bentuk -tai dari kata kerja 行く (いく), yang berarti 'ingin pergi', yang akurat dan sesuai dengan konteks kalimat.<br>3. 汀きたい: Tidak ada dalam bahasa Jepang.<br>4. 体きたい: Tidak ada dalam bahasa Jepang.<br>Pilihan 1 dan 3 dirancang untuk membingungkan karena mereka berbagi komponen 丁 yang sama pada karakter pertama.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 行く (いく) memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Pergi, bergerak ke suatu lokasi:<br>- Mengungkapkan tindakan bergerak dari satu tempat ke tempat lain. Ini adalah arti paling dasar dan umum dari kata '行く'. Sering digunakan saat berbicara tentang pergi ke suatu tempat, baik dengan berjalan kaki, berkendara, atau menggunakan alat transportasi lain.<br>- Contoh:<br>+ 学校に行く。<br>がっこう に いく。<br>Saya pergi ke sekolah.<br>+ 友達の家に行く。<br>ともだち の いえ に いく。<br>Saya pergi ke rumah teman saya.<br>2. Melewati, menyeberangi:<br>- Contoh:<br>+ 探検家が山中の道なき道を行った。<br>たんけんかが さんちゅうの みちなきみちを いった。<br>Seorang penjelajah melewati pegunungan di jalan yang belum dipetakan."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.031022782,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "điền từ theo văn cảnh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3265,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "わたしはゆうべともだちに&nbsp;________&nbsp;をかきました。",
+                    "answers": [
+                      "ふうとう",
+                      "きって",
+                      "でんわ",
+                      "てがみ"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>Question: わたしはゆうべともだちに________をかきました。<br>Meaning: Last night, I wrote ________ to my friend.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. ふうとう (封筒): Means 'envelope'. 'Writing an envelope' doesn't make sense, because an envelope is used to contain letters or documents, not something to be written on.<br>2. きって (切手): Means 'stamp'. 'Writing a stamp' doesn't make sense, because a stamp is used to stick on envelopes or postal items, not something to be written on.<br>3. でんわ (電話): Means 'telephone'. 'Writing a telephone' doesn't make sense, because a telephone is a device for communication, not something to be written on.<br>4. てがみ (手紙): Means 'letter'. 'Writing a letter' makes sense, because a letter is something to write and send to someone.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>4. てがみ<br>Complete sentence: わたしはゆうべともだちにてがみをかきました。<br>Meaning: Last night, I wrote a letter to my friend.<u></u></div>",
+                      "id_auto": "<div>Pertanyaan: わたしはゆうべともだちに________をかきました。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. ふうとう (封筒): Artinya \"amplop\". \"Menulis amplop\" tidak masuk akal, karena amplop digunakan untuk menyimpan surat atau dokumen, bukan sesuatu yang bisa ditulis.<br>2. きって (切手): Artinya \"perangko\". \"Menulis perangko\" tidak masuk akal, karena perangko digunakan untuk ditempelkan pada amplop atau barang pos, bukan sesuatu yang bisa ditulis.<br>3. でんわ (電話): Artinya \"telepon\". \"Menulis telepon\" tidak masuk akal, karena telepon adalah alat untuk berkomunikasi, bukan sesuatu yang bisa ditulis.<br>4. てがみ (手紙): Artinya \"surat\". \"Menulis surat\" masuk akal, karena surat adalah sesuatu untuk ditulis dan dikirimkan kepada seseorang.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>4. てがみ<br>Kalimat lengkap: わたしはゆうべともだちにてがみをかきました。<br></div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.237813884,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10445,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "あした　ともだちと　ふじさんに&nbsp;________。",
+                    "answers": [
+                      "およぎます",
+                      "とまります",
+                      "のぼります",
+                      "まがります"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>ふじさんに　のぼります：leo n&uacute;i</p>\n<p>Ng&agrave;y mai, t&ocirc;i sẽ đi leo n&uacute;i Ph&uacute; Sĩ c&ugrave;ng với bạn.</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<p>あした　ともだちと　ふじさんに________。<br>Meaning: Tomorrow, I will go to Mount Fuji with my friends ________.<br>###<br><b>ANALYSIS</b><br>1. およぎます (泳ぎます): Means 'to swim'. This word does not fit the context because you cannot 'swim' on Mount Fuji.<br>2. とまります (泊まります): Means 'to stay overnight'. 'ふじさんに泊まります' is not a correct expression in Japanese.<br>3. のぼります (登ります): Means 'to climb'. This is the most suitable word in this context because 'climbing Mount Fuji' is a common and logical activity.<br>4. まがります (曲がります): Means 'to turn'. This word does not fit the context because you cannot 'turn' on Mount Fuji.<br>###<br><b>CORRECT CHOICE</b><br>3. のぼります<br>Complete sentence: あした　ともだちと　ふじさんに<br>のぼります。<br>Meaning: Tomorrow, I will climb Mount Fuji with my friends.</p>",
+                      "id_auto": "<p>あした　ともだちと　ふじさんに________。<br>###<br><b>ANALISIS</b><br>1. およぎます (泳ぎます): Artinya \"berenang\". Kata ini tidak sesuai dengan konteks karena Anda tidak bisa \"berenang\" di Gunung Fuji.<br>2. とまります (泊まります): Artinya \"menginap\". \"ふじさんに泊まります\" bukanlah ekspresi yang tepat dalam bahasa Jepang.<br>3. のぼります (登ります): Artinya \"mendaki\". Ini adalah kata yang paling sesuai dalam konteks ini karena \"mendaki Gunung Fuji\" adalah aktivitas yang umum dan logis.<br>4. まがります (曲がります): Artinya \"berbelok\". Kata ini tidak sesuai dengan konteks karena Anda tidak bisa \"berbelok\" di Gunung Fuji.<br>###<br><b>PILIHAN YANG TEPAT</b><br>3. のぼります<br>Kalimat lengkap: あした　ともだちと　ふじさんに<br>のぼります。</p>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.126760563,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3231,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "とりが&nbsp;________&nbsp;います。",
+                    "answers": [
+                      "あげて",
+                      "あって",
+                      "さして",
+                      "とんで"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>とりが________います。<br>Meaning: The bird is________.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. あげて: Means 'raising' or 'lifting'. This word is typically used to describe the action of lifting something up. In this context, 'The bird is raising' is not suitable because a bird cannot lift itself.<br>2. あって: Means 'to have' or 'to be'. This word is usually used to indicate the existence of something in a certain place. 'The bird is having' is unclear and does not fit in this context.<br>3. さして: Means 'pointing'. This word is usually used to describe the action of pointing at something. 'The bird is pointing' is illogical because birds do not have the ability to point.<br>4. とんで : Means 'flying'. This word is used to describe the action of flying by birds or insects. 'The bird is flying' is a natural and appropriate expression in this context.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>4. とんで<br>Complete sentence: とりがとんでいます。<br>Meaning: The bird is flying.</div>",
+                      "id_auto": "<div>とりが________います。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. あげて: Artinya \"mengangkat\" atau \"menaikkan\". Kata ini biasanya digunakan untuk menggambarkan tindakan mengangkat sesuatu. Dalam konteks ini, \"Burung itu mengangkat\" tidak sesuai karena burung tidak bisa mengangkat dirinya sendiri.<br>2. あって: Artinya \"memiliki\" atau \"berada\". Kata ini biasanya digunakan untuk menunjukkan keberadaan sesuatu di tempat tertentu. \"Burung itu memiliki\" tidak jelas dan tidak cocok dalam konteks ini.<br>3. さして: Artinya \"menunjuk\". Kata ini biasanya digunakan untuk menggambarkan tindakan menunjuk sesuatu. \"Burung itu menunjuk\" tidak logis karena burung tidak memiliki kemampuan untuk menunjuk.<br>4. とんで : Artinya \"terbang\". Kata ini digunakan untuk menggambarkan tindakan terbang oleh burung atau serangga. \"Burung itu terbang\" adalah ungkapan yang alami dan tepat dalam konteks ini.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>4. とんで<br>Kalimat lengkap: とりがとんでいます。</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.129657228,
+                "scores": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "thay đổi cách nói",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 19556,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p>かわのちかくに、こどもが　あそぶのは　<u>きけん</u>　だとおもいます。</p>",
+                    "image": "",
+                    "answers": [
+                      "あぶない",
+                      "たのしい",
+                      "へん",
+                      "さびしい"
+                    ],
+                    "correctAnswer": 0,
+                    "explain_vn": "<p>きけん=<u>&nbsp;</u>あぶない</p><p>1. nguy hiểm</p><p>2. vui vẻ</p><p>3. kỳ lạ</p><p>4. c&ocirc; đơn</p>",
+                    "explainAll": {
+                      "en": "かわのちかくに、こどもがあそぶのは<span style=\"font-weight: 700;\">きけん</span>だとおもいます。<br>Meaning: I think it is&nbsp;<span style=\"font-weight: 700;\">dangerous</span>&nbsp;for children to play near the river.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. あぶない: Means 'dangerous'. This word has a similar meaning to 'きけん', indicating a situation that could cause harm or risk. This is the closest synonym for the given word.<br>2. たのしい: Means 'fun'. This word describes a positive feeling and is not synonymous with 'きけん' at all.<br>3. へん: Means 'strange, weird'. This word does not have a similar meaning to 'きけん'.<br>4. さびしい: Means 'sad, lonely'. This word is not a synonym for 'きけん'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. あぶない<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 'きけん' (危険) means 'dangerous'. Here are some synonyms or near-synonyms that can be used in this case:<br>1. 危険性 (きけんせい - danger): This word also indicates the nature of being dangerous, and is often used in contexts describing the degree of danger in a situation.<br>2. 危害 (きがい - harm): Refers to harm or damage that may occur, often emphasizing the negative consequences.<br>3. 危険度 (きけんど - risk level): Indicates a determined level of danger, often used in the field of safety.<br>4. リスク (risk): This word is borrowed from English and is often used in modern contexts, especially related to situations that may lead to loss or damage.",
+                      "id_auto": "かわのちかくに、こどもがあそぶのは<span style=\"font-weight: 700;\">きけん</span>だとおもいます。<br>Arti: Saya pikir <span style=\"font-weight: 700;\">berbahaya</span> bagi anak-anak bermain di dekat sungai.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. あぶない: Artinya \"berbahaya\". Kata ini memiliki arti yang mirip dengan \"きけん\", menunjukkan situasi yang dapat menyebabkan kerugian atau risiko. Ini adalah sinonim terdekat untuk kata yang diberikan.<br><br>2. たのしい: Artinya \"menyenangkan\". Kata ini menggambarkan perasaan positif dan sama sekali tidak sinonim dengan \"きけん\".<br><br>3. へん: Artinya \"aneh, ganjil\". Kata ini tidak memiliki arti yang mirip dengan \"きけん\".<br><br>4. さびしい: Artinya \"sedih, kesepian\". Kata ini bukan sinonim untuk \"きけん\".<br><br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. あぶない<br><br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata \"きけん\" (危険) berarti \"berbahaya\". Berikut adalah beberapa sinonim atau hampir sinonim yang dapat digunakan dalam kasus ini:<br><br>1. 危険性 (きけんせい - bahaya): Kata ini juga menunjukkan sifat berbahaya, dan sering digunakan dalam konteks yang menggambarkan tingkat bahaya dalam suatu situasi.<br><br>2. 危害 (きがい - bahaya): Mengacu pada bahaya atau kerusakan yang mungkin terjadi, seringkali menekankan konsekuensi negatif.<br><br>3. 危険度 (きけんど - tingkat risiko): Menunjukkan tingkat bahaya yang ditentukan, sering digunakan di bidang keselamatan.<br><br>4. リスク (risiko): Kata ini dipinjam dari bahasa Inggris dan sering digunakan dalam konteks modern, terutama yang berkaitan dengan situasi yang dapat menyebabkan kerugian atau kerusakan."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.231707317,
+                "scores": [
+                  5
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 19359,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p><u>ともだちがおみやげをくれました。</u></p>",
+                    "image": "",
+                    "answers": [
+                      "私はともだちにおみやげをかいます",
+                      "私はともだちにおみやげをあげました",
+                      "ともだちは私におみやげをもらいました",
+                      "私はともだちにおみやげをもらいました"
+                    ],
+                    "correctAnswer": 3,
+                    "explain_vn": "<p>ともだちがおみやげをくれます=私はともだちにおみやげをもらいました : Bạn tặng qu&agrave; cho t&ocirc;i</p><p>Bạn t&ocirc;i tặng qu&agrave; cho t&ocirc;i</p><p>1.T&ocirc;i mua qu&agrave; cho bạn</p><p>2.T&ocirc;i tặng qu&agrave; cho bạn</p><p>3.Bạn nhận qu&agrave; từ t&ocirc;i</p><p>4.T&ocirc;i nhận qu&agrave; từ bạn</p>",
+                    "explainAll": {
+                      "en": "<span style=\"font-weight: 700;\">ともだちがおみやげをくれました。</span><br>Meaning:&nbsp;<span style=\"font-weight: 700;\">My friend gave me a souvenir.</span><br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 私はともだちにおみやげをかいます: Meaning 'I will buy a souvenir for my friend.' This sentence has a completely different meaning from the original sentence.<br>2. 私はともだちにおみやげをあげました: Meaning 'I gave a souvenir to my friend.' This sentence has a similar meaning in giving a gift, but the subject and action do not match the original sentence.<br>3. ともだちは私におみやげをもらいました : Meaning 'My friend received a souvenir from me.' This sentence describes the opposite exchange and is not synonymous with the original sentence.<br>4. 私はともだちにおみやげをもらいました: Meaning 'I received a souvenir from my friend.' This sentence expresses a similar meaning to the original sentence, just in a different way, so this is the correct answer.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. 私はともだちにおみやげをもらいました<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Below are some synonyms or similar words to おみやげ that can be used in this context:<br>1. プレゼント: Gift. This word is often used to refer to gifts for special occasions.<br>2. 贈り物 (おくりもの): Gift. This is a more formal way of referring to a gift.<br>3. ギフト: Gift. This term is borrowed from English and is quite commonly used in Japanese.<br>4. ちょっとしたもの: A small gift, usually implying that it is not something too big or valuable.",
+                      "id_auto": "<span style=\"font-weight: 700;\">ともだちがおみやげをくれました。</span><br>Arti:&nbsp;<span style=\"font-weight: 700;\">Teman saya memberi saya oleh-oleh.</span><br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 私はともだちにおみやげをかいます: Arti 'Saya akan membeli oleh-oleh untuk teman saya.' Kalimat ini memiliki arti yang sangat berbeda dari kalimat aslinya.<br>2. 私はともだちにおみやげをあげました: Arti 'Saya memberi oleh-oleh kepada teman saya.' Kalimat ini memiliki arti yang mirip dalam memberikan hadiah, tetapi subjek dan tindakannya tidak sesuai dengan kalimat aslinya.<br>3. ともだちは私におみやげをもらいました : Arti 'Teman saya menerima oleh-oleh dari saya.' Kalimat ini menggambarkan pertukaran yang berlawanan dan tidak sinonim dengan kalimat aslinya.<br>4. 私はともだちにおみやげをもらいました: Arti 'Saya menerima oleh-oleh dari teman saya.' Kalimat ini mengungkapkan arti yang mirip dengan kalimat aslinya, hanya dengan cara yang berbeda, jadi ini adalah jawaban yang benar.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. 私はともだちにおみやげをもらいました<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Di bawah ini adalah beberapa sinonim atau kata-kata serupa dengan おみやげ yang dapat digunakan dalam konteks ini:<br>1. プレゼント: Hadiah. Kata ini sering digunakan untuk merujuk pada hadiah untuk acara-acara khusus.<br>2. 贈り物 (おくりもの): Hadiah. Ini adalah cara yang lebih formal untuk menyebut hadiah.<br>3. ギフト: Hadiah. Istilah ini dipinjam dari bahasa Inggris dan cukup umum digunakan dalam bahasa Jepang.<br>4. ちょっとしたもの: Hadiah kecil, biasanya menyiratkan bahwa itu bukan sesuatu yang terlalu besar atau berharga."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.491007194,
+                "scores": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "time": 20,
+        "min_score": 19,
+        "max_score": 80,
+        "name": "文法・読解",
+        "content": [
+          {
+            "kind": "lựa chọn ngữ pháp",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 5321,
+                "title": "もんだい　（　　　）に　何を　入れますか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "ゆうびんきょくは、レストランのみぎです&nbsp;________&nbsp;、ひだりです&nbsp;________&nbsp;。",
+                    "answers": [
+                      "ね；ね",
+                      "が；が",
+                      "か；か",
+                      "よ；よ"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>ゆうびんきょくは、レストランのみぎです<u>か</u>、ひだりですか<u>か</u>。</div><i>Is the post office on the right <u>or</u> left of the restaurant?</i><div><i>1. isn't it/isn't it</i></div><div><i>2. but/but</i></div><div><i><u>3. or</u></i></div><div><i>4. there/there</i></div><div><i>###</i></div><p>■Explanation:</p><p>This is an A or B choice question</p><p>=&gt;「3か；か」&nbsp;is correct<br></p><div>■Structure:</div><div>　～か、～か: 　Or&nbsp;</div>",
+                      "id_auto": "<div> 「ゆうびんきょくは」、「レストランのみぎです」 <u> 「か」 </u> 、「ひだりですか」 <u> 「か」 </u> 。 </div>  <i> Apakah kantor pos ada di sebelah kanan? <u> Atau </u> Kiri dari restoran? </i>  <div>  <i> 1. bukan begitu/kan? </i>  </div>  <div>  <i> 2. tetapi/tapi </i>  </div>  <div>  <i>  <u> 3. atau </u>  </i>  </div>  <div>  <i> 4. di sana/di sana </i>  </div>  <div>  <i> ### </i>  </div>  <p> Penjelasan: </p>  <p> Ini adalah pertanyaan pilihan A atau B. </p>  <p> =&gt;「3「か」；「か」」 adalah benar <br>  </p>  <div> Struktur: </div>  <div> ～「か」、～「か」: Atau. </div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "lựa chọn ngữ pháp",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.42562674,
+                "scores": [
+                  4
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 5512,
+                "title": "もんだい　（　　　）に　何を　入れますか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "わたしは　きのう　おとうと&nbsp;________&nbsp;テニスを　しました。",
+                    "answers": [
+                      "と",
+                      "や",
+                      "を",
+                      "か"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>わたしは　きのう　おとうと　<u>と</u>　テニスを　しました。</div><i>I played tennis <u>with</u> my brother yesterday.</i><div><i><u>1. with</u></i></div><div><i>2. and</i></div><div><i>3. particle wo</i></div><div><i>4. or</i></div><div><i>###</i></div><p>■Explanation:</p><p>Doing something with someone, use \"と\"</p><div>=&gt; 「1と」is correct</div><div>■Structure:</div><div>　～と :　With, and</div>",
+                      "id_auto": "<div> 「わたしは」　「きのう」　「おとうと」　 <u> 「と」 </u> 　「テニスを」　「しました」。 </div>  <i> Saya bermain tenis. <u> Dengan </u> Saudaraku kemarin. </i>  <div>  <i>  <u> 1. dengan </u>  </i>  </div>  <div>  <i> 2. dan </i>  </div>  <div>  <i> 3. partikel wo </i>  </div>  <div>  <i> 4. atau </i>  </div>  <div>  <i> ### </i>  </div>  <p> Penjelasan: </p>  <p> Melakukan sesuatu bersama seseorang, gunakan 「と」. </p>  <div> =&gt; 「1「と」」benar </div>  <div> Struktur: </div>  <div> 「と」: Dengan, dan </div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "lựa chọn ngữ pháp",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.247079964,
+                "scores": [
+                  4
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 5649,
+                "title": "もんだい　（　　　）に　何を　入れますか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "へやを&nbsp;________ そうじしました。",
+                    "answers": [
+                      "きれいだ",
+                      "きれいく",
+                      "きれいな",
+                      "きれいに"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>へやを　<u>きれいに</u>　そうじしました。<br></div>I cleaned the room <u>clearly</u>.<div><div>1. clean</div><div>2. wrong conjugation</div><div>3. clear</div><div><u>4. clearly</u></div></div><div><div>###</div><p>■Explanation:</p><p>In this sentence, the adjective ending in na is placed in front of the verb to modify the verb has the following structure: \"A<strike>な</strike>＋に＋V\"</p><p>=&gt;「4きれいに」 is correct</p><p>■Structure:　</p><p>Adj <strike>な</strike>＋に＋V : 　do something adv</p></div>",
+                      "id_auto": "<div> 「へやを」　 <u> 「きれいに」 </u> 　「そうじしました」。 <br>  </div> Saya membersihkan kamar. <u> Jelas </u> . <div>  <div> Bersih </div>  <div> 2. konjugasi yang salah </div>  <div> 3. jelas </div>  <div>  <u> 4. jelas </u>  </div>  </div>  <div>  <div> ### </div>  <p> Penjelasan: </p>  <p> Dalam kalimat ini, kata sifat yang berakhiran na ditempatkan di depan kata kerja untuk memodifikasi struktur kata kerja yang memiliki pola berikut: A. <strike> 「な」 </strike> ＋「に」＋V </p>  <p> =&gt;「4「きれいに」」 adalah benar </p>  <p> Struktur: </p>  <p> Adj (Kata sifat) <strike> 「な」 </strike> ＋「に」＋V : 　melakukan sesuatu dengan cara yang lebih baik </p>  </div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "lựa chọn ngữ pháp",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.355629539,
+                "scores": [
+                  4
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 5550,
+                "title": "もんだい　（　　　）に　何を　入れますか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きのう　デパート&nbsp;________ かいものを　しました。",
+                    "answers": [
+                      "が",
+                      "に",
+                      "で",
+                      "へ"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>きのう　デパート<u>で</u>　かいものを　しました。</div><i>Yesterday I went shopping <u>at</u> a department store.</i><div><div><i>1. particle ga</i></div><div><i>2. in</i></div><div><u><i>3. at</i></u></div><div><i>4. particle he</i></div></div><div><i>###</i></div><p>■Explanation:</p><p>Doing something at somewhere, use \"で\"</p><div>=&gt;&nbsp; 「3で」is correct</div><div>■Structure:　</div><div>（場所）＋　で :　In, on, at - location of the action</div>",
+                      "id_auto": "<div> 「きのう」　「デパート」 <u> 「で」 </u> 　「かいものを」　「しました」。 </div>  <i> Kemarin saya pergi berbelanja. <u> Pada </u> sebuah toko serba ada. </i>  <div>  <div>  <i> 1. partikel ga </i>  </div>  <div>  <i> 2. di </i>  </div>  <div>  <u>  <i> 3. pada </i>  </u>  </div>  <div>  <i> 4. partikel dia. </i>  </div>  </div>  <div>  <i> ### </i>  </div>  <p> Penjelasan: </p>  <p> Melakukan sesuatu di suatu tempat, gunakan 「で」. </p>  <div> =&gt; 「3「で」」 adalah benar </div>  <div> Struktur: </div>  <div> （Tempat）＋「di」: Di, pada, di - lokasi tindakan </div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "lựa chọn ngữ pháp",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.385090768,
+                "scores": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "lắp ghép câu",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10167,
+                "title": "もんだい　（★） に　入る　ものは　どれですか。１·　２　·３　·４　から　いちばん　いい　ものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "それ ＿ ＿ ＊ ＿ です。<br>",
+                    "answers": [
+                      "田中さん",
+                      "の",
+                      "は",
+                      "本"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>それ　(3)は　(1)田中さん　(2*)の　(4)本　です。</div><div>That is Mr. Tanaka's book.</div><div>###</div><div>Structure</div><div>N1のN2: N2 is owned by N1</div>",
+                      "id_auto": "<div> 「それ」　(3)「は」　(1)「田中さん」　(2*)「の」　(4)「本」　「です」。 </div>  <div> Itu adalah buku milik Mr. Tanaka. </div>  <div> ### </div>  <div> Struktur </div>  <div> N1「の」N2: N2 dimiliki oleh N1. </div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "lắp ghép câu",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.223350253,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 19650,
+                "title": "もんだい　（★） に　入る　ものは　どれですか。１·　２　·３　·４　から　いちばん　いい　ものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "しょうらい、＿　＊＿　　＿。",
+                    "image": "",
+                    "answers": [
+                      "コンビニにちかい",
+                      "かりたいです",
+                      "ひろくて",
+                      "アパートを"
+                    ],
+                    "correctAnswer": 0,
+                    "explain_vn": "<p>しょうらい、ひろくて　コンビニに　ちかいアパートを　かりたいです。</p><p>Tương lai t&ocirc;i muốn thu&ecirc; một căn hộ rộng r&atilde;i v&agrave; gần cửa h&agrave;ng tiện lợi.</p><p>1. gần cửa h&agrave;ng tiện lợi</p><p>2. muốn thu&ecirc;</p><p>3. rộng r&atilde;i</p><p>4. căn hộ</p>",
+                    "explainAll": {
+                      "en": "<div><p>しょうらい、(3)ひろくて　(1)コンビニに　ちかい(4)アパートを　(2)かりたいです。</p>In the future I want to rent a spacious apartment near a convenience store.</div><div><p>###</p><p>Structure</p><p>Vたいです: want to do something</p></div>",
+                      "id_auto": "<div><p>しょうらい、<u>ひろくて</u>&nbsp;<span style=\"font-weight: 700;\"><u>コンビニにちかい</u>&nbsp;</span><u>アパートを</u>&nbsp;<u>かりたいです</u>。</p><p>Di masa depan, saya ingin menyewa apartemen yang luas dekat dengan toko serba ada.</p></div>  <div>  <p> ### </p>  <p> Struktur </p>  <p> V「たいです」: ingin melakukan sesuatu </p>  </div>"
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "lắp ghép câu",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.435028248,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "ngữ pháp theo đoạn văn",
+            "Questions": [
+              {
+                "count_question": 4,
+                "id": 13436,
+                "title": "問題　次の文章を読んで、文章全体の内容を考えて、（１）から（４）の中に入る最もよいものを、１・２・３・４から一つ選びなさい。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "<p>日本で　べんきょうして　いる　学生が「じこしょうかい」の　ぶんしょうを　書いて、クラスの　みんなの　前で　読みました。</p><p>1.リサさんの　ぶんしょう</p><p>はじめまして。わたしは　リサです。ブラジル（　1　）来ました。わたしは　日本の　映画が　すきです。わたしの国で　日本の　映画を　たくさん　みました。わたしは　日本語で　日本の　映画を　みたいです。（　2　）、まだ　日本語が　あまり　わかりませんから、みることが　できません。これから、日本語の　べんきょうを　がんばります。みなさん、こんど　いっしょに　日本の　映画みましょう。よろしくおねがいします。</p><p>2.キムさんの　ぶんしょう</p><p>みなさん、はじめまして。わたしは　かんこくの　キムです。わたしは　せんげつ　日本へ　来ました。わたしは　今日本の　会社で（　3　）。</p><p>わたしは　日本の　食べ物が　好きです。先週、会社の　人と　おすしを　食べに　行きました。おすしは　とても　おいしかったです。また、食べに（　4　）。みなさんは　日本の　食べ物で　（　何　）が　いちばん　すきですか。おいしい　食べ物を　いろいろ　おしえて　くださいね。</p>",
+                  "text_read_en": "<div>Students studying in Japan wrote an essay on \"Introduce Yourself\" and read it in class.</div><div>1. Lisa's essay</div><div>Nice to meet you. I am Lisa. I'm from Brazil. I like Japanese movies. I have watched a lot of Japanese movies in my country. I want to watch Japanese movies in Japanese. But I still don't understand Japanese so I can't watch them. From now on, I will try to learn Japanese. Everyone, let's watch Japanese movies some times. Looking forward to your help.</div><div>2. Kim's essay</div><div>Nice to meet you. I'm Kim from Korea. I have been to Japan since last month. Now, I am working at a Japanese company.</div><div>I like Japanese food. Last week, I went to eat sushi with company employees. Sushi is delicious. I want to go to eat again. What is your most favorite Japanese food? Please suggest me some good dishes.</div>",
+                  "text_read_id": "<div> Mahasiswa yang belajar di Jepang menulis esai tentang Perkenalan Diri dan membacanya di kelas. </div>  <div> 1. Esai Lisa. </div>  <div> Senang bertemu denganmu. Saya Lisa. Saya berasal dari Brasil. Saya suka film Jepang. Saya sudah menonton banyak film Jepang di negara saya. Saya ingin menonton film Jepang dalam bahasa Jepang. Tapi saya masih tidak mengerti bahasa Jepang sehingga saya tidak bisa menontonnya. Mulai sekarang, saya akan mencoba belajar bahasa Jepang. Semua orang, mari kita menonton film Jepang bersama-sama. Saya berharap bisa mendapatkan bantuanmu. </div>  <div> 2. Esai Kim </div>  <div> Senang bertemu denganmu. Saya Kim dari Korea. Saya telah berada di Jepang sejak bulan lalu. Saat ini, saya bekerja di sebuah perusahaan Jepang. </div>  <div> Saya suka makanan Jepang. Minggu lalu, saya pergi makan sushi dengan karyawan perusahaan. Sushi enak. Saya ingin pergi makan lagi. Apa makanan Jepang favoritmu? Tolong sarankan beberapa hidangan yang enak. </div>",
+                  "audios": {
+                    "audio_time": null
+                  }
+                },
+                "content": [
+                  {
+                    "question": "1",
+                    "image": "",
+                    "answers": [
+                      "まで",
+                      "から",
+                      "に",
+                      "と"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "〜N +のほうが…です: …thì ….hơn<br>Dịch nghĩa: Hôm qua là lần đầu tiên tôi đến cửa hàng bách hoá với bạn",
+                    "explainAll": {
+                      "en": "<div>ブラジルから来ました。<br></div><div>I'm from Brazil.</div><div>1. Until</div><div>2. From</div><div>3. In</div><div>4. When</div><div>###</div><div>Explanation:</div><div><div>Country name+ から来ました: I come from ....</div></div>",
+                      "id_auto": "<div> 「ブラジルから来ました」。 <br>  </div>  <div> Saya berasal dari Brasil. </div>  <div> 1. Sampai </div>  <div> 2. Dari </div>  <div> 3. Di </div>  <div> 4. Ketika </div>  <div> ### </div>  <div> Penjelasan: </div>  <div>  <div> Nama negara + 「から来ました」: Saya berasal dari .... </div>  </div>"
+                    }
+                  },
+                  {
+                    "question": "2",
+                    "image": "",
+                    "answers": [
+                      "でも",
+                      "それから",
+                      "だから",
+                      "では"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "〜でも：Nhưng nối 2 đoạn văn trái nghĩa<br>Dịch nghĩa:  Tôi thích đọc truyện tranh Nhật bản nhưng lại không  hiểu nhiều Nhật",
+                    "explainAll": {
+                      "en": "<div>わたしは　日本語で　日本の　映画を　みたいです。でも、まだ　日本語が　あまり　わかりませんから、みることが　できません。<br></div><div>I want to watch Japanese movies in Japanese. But I still don't understand Japanese so I can't watch them.</div><div>1. But</div><div>2. then</div><div>3. So</div><div>4. Then</div><div><div><div>###</div><div>Explanation</div></div><div><div>でも: But.... (connect two sentences with opposite meaning)</div></div></div>",
+                      "id_auto": "<div> 「わたしは」　「日本語で」　「日本の」　「映画を」　「みたいです」。「でも」、「まだ」　「日本語が」　「あまり」　「わかりませんから」、「みることが」　「できません」。 <br>  </div>  <div> Saya ingin menonton film Jepang dalam bahasa Jepang. Namun, saya masih tidak mengerti bahasa Jepang sehingga saya tidak bisa menontonnya. </div>  <div> Tetapi </div>  <div> 2. kemudian </div>  <div> 3. Jadi </div>  <div> 4. Kemudian </div>  <div>  <div>  <div> ### </div>  <div> Penjelasan </div>  </div>  <div>  <div> 「でも」: Tapi... (menghubungkan dua kalimat dengan makna yang berlawanan) </div>  </div>  </div>"
+                    }
+                  },
+                  {
+                    "question": "3",
+                    "image": "",
+                    "answers": [
+                      "はたらきます",
+                      "はたらきません",
+                      "はたらいています",
+                      "はたらいていませんでした"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "〜ています：Thể tiếp diễn<br>Dịch nghĩa:  Hiện tại tôi đang làm cho công ty của Nhật",
+                    "explainAll": {
+                      "en": "<div>わたしは　今日本の　会社ではたらいています</div><div>Now, I am working at a Japanese company.</div><div>1. Work</div><div>2. Does not work</div><div>3. Working</div><div>4. Did not work</div><div>###</div><div><div><div>Explanation</div></div><div>〜ています：doing ~ (indicating ongoing action or daily repetitive action)</div></div>",
+                      "id_auto": "<div> 「わたしは」　「今日本の」　「会社ではたらいています」 </div>  <div> Sekarang, saya bekerja di sebuah perusahaan Jepang. </div>  <div> 1. Kerja </div>  <div> Tidak berfungsi. </div>  <div> 3. Bekerja </div>  <div> Tidak berhasil </div>  <div> ### </div>  <div>  <div>  <div> Penjelasan </div>  </div>  <div> 「ています」: melakukan ~ (menunjukkan tindakan yang sedang berlangsung atau tindakan yang dilakukan secara rutin setiap hari) </div>  </div>"
+                    }
+                  },
+                  {
+                    "question": "4",
+                    "image": "",
+                    "answers": [
+                      "行きましょう",
+                      "行きたいです",
+                      "行きませんか",
+                      "行っていませんでした"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "～たいです：Muốn...<br>Dịch nghĩa:  Tôi vẫn muốn đi ăn thêm nữa",
+                    "explainAll": {
+                      "en": "<div>また、食べに行きたいです。<div><div>I want to go to eat again.</div><div>1. let's go</div><div>2. want to go</div><div>3. Would you like to go</div><div>4. Did not go</div></div></div><div>###</div><div>Explanation</div><div>~ V（-ます）たいです：want to do...</div><div>～Ｖ<strike>ます</strike>＋に＋行きます：go...to do...<br></div>",
+                      "id_auto": "<div> 「また」、「食べに行きたいです」。 <div>  <div> Saya ingin pergi makan lagi. </div>  <div> Mari pergi. </div>  <div> 2. ingin pergi </div>  <div> 3. Apakah kamu ingin pergi? </div>  <div> Tidak pergi. </div>  </div>  </div>  <div> ### </div>  <div> Penjelasan </div>  <div> ~ V(-「ます」)「たいです」: ingin melakukan... </div>  <div> ～Ｖ <strike> 「ます」 </strike> ＋「に」＋「行きます」: pergi...untuk melakukan... <br>  </div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "ngữ pháp theo đoạn văn",
+                "correct_answers": [
+                  1,
+                  0,
+                  2,
+                  1
+                ],
+                "score_difficult": 0.350372208,
+                "scores": [
+                  5,
+                  5,
+                  5,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "đoạn văn ngắn",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 16535,
+                "title": "もんだい　つぎの（１）から（３）の　ぶんしょうを　読んで、しつもんに　こたえて　ください。こたえは、１·２·３·４　から　いちばん　いい　ものを　一つ　えらんでください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "<p>わたしの　ペットは　小さい　いぬです。名前（なまえ）は　ワンです。毎日　さんぽに　いくと、いっしょに　いきます。はやく　いきます。あねも　ワンが　だいすきです。</p>",
+                  "text_read_en": "My pet is a small dog. Its name is Wan. Every day when I go for a walk, it also goes with me. It walks very fast. (i) My elder sister also likes Wan.",
+                  "text_read_id": "Hewan peliharaanku adalah anjing kecil. Namanya Wan. Setiap hari ketika aku pergi jalan-jalan, dia juga ikut bersamaku. Dia berjalan sangat cepat. (i) Kakak perempuanku juga suka Wan.",
+                  "audios": {
+                    "audio_time": ""
+                  }
+                },
+                "content": [
+                  {
+                    "question": "だれが　はやく　いきますか。",
+                    "image": "",
+                    "answers": [
+                      "ワンと　あねです。",
+                      "ワンと　わたしです。",
+                      "わたしです。",
+                      "ワンです。"
+                    ],
+                    "correctAnswer": 3,
+                    "explain_vn": "<p>Ai l&agrave; người đi rất nhanh?</p><p>1. Wan v&agrave; chị g&aacute;i</p><p>2. Wan v&agrave; t&ocirc;i</p><p>3. T&ocirc;i</p><p>4. Wan</p>",
+                    "explainAll": {
+                      "en": "<div>Who walks very fast?</div><div>1. Wan and the elder sister</div><div>2. Wan and me</div><div>3. Me</div><div>4. Wan</div><div><p>###</p><p>Information:</p><p>毎日　さんぽに　いくと、いっしょに　いきます。はやく　いきます。</p></div><div>Every day when I go for a walk, it also goes with me. It walks very fast. (i)<br></div>",
+                      "id_auto": " <div> Siapa yang berjalan sangat cepat? </div>  <div> 1. Wan dan kakak perempuan. </div>  <div> 2. Wan dan saya. </div>  <div> 3. Saya </div>  <div> Tidak ada konteks yang jelas dalam kalimat 4. Wan. Apakah Anda memiliki kalimat atau konteks tambahan yang dapat saya terjemahkan? </div>  <div>  <p> ### </p>  <p> Informasi. </p>  <p> 「毎日」　「さんぽに」　「いくと」、「いっしょに」　「いきます」。「はやく」　「いきます」。 </p>  </div>  <div> Setiap hari ketika saya pergi berjalan, itu juga ikut bersama saya. Itu berjalan sangat cepat. (i) <br>  </div> "
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "đoạn văn ngắn",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.597173144,
+                "scores": [
+                  15
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "đoạn văn vừa",
+            "Questions": [
+              {
+                "count_question": 3,
+                "id": 13524,
+                "title": "もんだい　つぎの　ぶんしょうを　読んで、しつもんに　こたえて　ください。こたえは、１·２·３·４　から　うちばん　いいものを　一つ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "<p>  <ruby><span lang=\"\\&quot;JA\\&quot;\">昔</span>    <rp>(</rp>    <rt>むかし</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">日本人</span>    <rp>(</rp>    <rt>にほんじん</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">は</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">大人</span>    <rp>(</rp>    <rt>おとな</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">も</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">子供</span>    <rp>(</rp>    <rt>こども</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">も　みんな</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">毎日着物</span>    <rp>(</rp>    <rt>まいにちきもの</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">を</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">着</span>    <rp>(</rp>    <rt>き</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">て</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">生活</span>    <rp>(</rp>    <rt>せいかつ</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">していた。（</span>A<span lang=\"\\&quot;JA\\&quot;\"></span><span lang=\"\\&quot;JA\\&quot;\">）、着物を着るのは</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">難</span>    <rp>(</rp>    <rt>むずか</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">しいし、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">時間</span>    <rp>(</rp>    <rt>じかん</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">もかかって、　たいへんだ。また　歩くときや、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">仕事</span>    <rp>(</rp>    <rt>しごと</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">を　するとき、着物は</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">不便</span>    <rp>(</rp>    <rt>ふべん</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">なので、みんな</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">洋服</span>    <rp>(</rp>    <rt>ようふく</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">を　着るようになった。洋服は　着るのが</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">簡単</span>    <rp>(</rp>    <rt>かんたん</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">だ。それに　日本人の</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">生活</span>    <rp>(</rp>    <rt>せいかつ</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">も</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">西洋化</span>    <rp>(</rp>    <rt>せいようか</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">したので、着物より　洋服のほうが　生活に</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">合</span>    <rp>(</rp>    <rt>あ</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">う。</span></p><p class=\"\\&quot;MsoNormal\\&quot;\"><span lang=\"\\&quot;JA\\&quot;\">今では　着物は</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">結婚式</span>    <rp>(</rp>    <rt>けっこんしき</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">葬式</span>    <rp>(</rp>    <rt>そうしき</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">成人式</span>    <rp>(</rp>    <rt>せいじんしき</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">正月</span>    <rp>(</rp>    <rt>しょうがつ</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">など、</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">特別</span>    <rp>(</rp>    <rt>とくべつ</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">な</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">機会</span>    <rp>(</rp>    <rt>きかい</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">だけに着る</span>  <ruby><span lang=\"\\&quot;JA\\&quot;\">物</span>    <rp>(</rp>    <rt>もの</rt>    <rp>)</rp>  </ruby><span lang=\"\\&quot;JA\\&quot;\">に　なってしまった。</span></p>",
+                  "text_read_en": "<p>In the past, Japanese people, both adults and children, wore kimonos in their everyday lives. (A), wearing a kimono is difficult and time-consuming, so it’s rather trouble. Also, when walking or doing work, kimono is inconvenient, so everyone began wearing western-style clothes instead. (1) Western clothes are easy to wear. Also, because the lifestyle of Japanese people has been westernized, it seems that western clothing is more suitable for everyday life than kimono.</p><p>Nowadays, kimono has become something that can only be worn on special occasions, such as wedding ceremony, funeral ceremony, coming-of-age ceremony, or on New Year's occasion.</p>",
+                  "text_read_id": "<p> Di masa lalu, orang Jepang, baik dewasa maupun anak-anak, mengenakan kimono dalam kehidupan sehari-hari mereka. (A), mengenakan kimono sulit dan memakan waktu, sehingga agak merepotkan. Selain itu, saat berjalan atau melakukan pekerjaan, kimono tidak nyaman, sehingga semua orang mulai mengenakan pakaian gaya barat. (1) Pakaian barat mudah dipakai. Juga, karena gaya hidup orang Jepang telah di-baratkan, tampaknya pakaian barat lebih cocok untuk kehidupan sehari-hari daripada kimono. </p>  <p> Saat ini, kimono telah menjadi sesuatu yang hanya dapat dipakai pada acara-acara khusus, seperti upacara pernikahan, upacara pemakaman, upacara dewasa, atau pada acara Tahun Baru. </p>",
+                  "audios": {
+                    "audio_time": null
+                  }
+                },
+                "content": [
+                  {
+                    "question": "どうしてみんな洋服を着るようになりましたか。",
+                    "image": "",
+                    "answers": [
+                      "洋服は着るのが簡単ですから",
+                      "着物より洋服のほうが生活に合いますから。",
+                      "仕事のとき着物はべんりではありませんから。",
+                      "ほかの着物を着る機会がありませんから。"
+                    ],
+                    "correctAnswer": 2,
+                    "explain_vn": "<p>Tại sao mọi người bắt đầu mặc âu phục?</p><p>1. Vì âu phục dễ mặc.</p><p>2. Vì âu phục hợp với đời sống sinh hoạt hơn kimono.</p><p><u>3. Vì kimono không thuận tiện lúc làm việc.</u></p><p>4. Vì không có dịp khác mặc kimono.</p>",
+                    "explainAll": {
+                      "en": "<p>Why did everyone start wearing&nbsp;western&nbsp;clothes?</p><p>1. Because western clothes are easy to wear.</p><p>2. Because western clothes are suitable to everyday life than kimono.</p><p>3. Because kimono is not convenient when doing work.</p><p>4. Because they don’t have other occasions to wear kimono.</p><p>###</p><p><span lang=\"\\&quot;JA\\&quot;\">Information:</span></p><p><span lang=\"\\&quot;JA\\&quot;\">着物を着るのは</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">難</span><rt>むずか</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">しいし、</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">時間</span><rt>じかん</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">もかかって、　たいへんだ。また　歩くときや、</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">仕事</span><rt>しごと</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">を　するとき、着物は</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">不便</span><rt>ふべん</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">なので、みんな</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">洋服</span><rt>ようふく</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">を　着るようになった。</span><br></p><p>wearing a kimono is difficult and time-consuming, so it’s rather trouble. Also, when walking or doing work, kimono is inconvenient, so everyone began wearing western-style clothes instead. (1)&nbsp;<br></p>",
+                      "id_auto": "<p> Mengapa semua orang mulai mengenakan pakaian barat? </p>  <p> 1. Karena pakaian barat mudah dipakai. </p>  <p> 2. Karena pakaian barat lebih cocok untuk kehidupan sehari-hari daripada kimono. </p>  <p> 3. Karena kimono tidak nyaman saat bekerja. </p>  <p> 4. Karena mereka tidak memiliki kesempatan lain untuk mengenakan kimono. </p>  <p> ### </p>  <p>  <span lang=\"\\&quot;JA\\&quot;\"> Informasi. </span>  </p>  <p>  <span lang=\"\\&quot;JA\\&quot;\"> 「着物を着るのは」 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「難」 </span>  <rt> 「むずか」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「しいし」、 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「時間」 </span>  <rt> 「じかん」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「もかかって」、　「たいへんだ」。「また」　「歩くときや」、 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「仕事」 </span>  <rt> 「しごと」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「を」　「するとき」、「着物は」 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「不便」 </span>  <rt> 「ふべん」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「なので」、「みんな」 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「洋服」 </span>  <rt> 「ようふく」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「を」　「着るようになった」。 </span>  <br>  </p>  <p> Mengenakan kimono sulit dan memakan waktu, sehingga agak merepotkan. Selain itu, saat berjalan atau melakukan pekerjaan, kimono tidak nyaman, sehingga semua orang mulai mengenakan pakaian bergaya barat sebagai gantinya. (1) <br>  </p>"
+                    },
+                    "explain_en": "<p>Why did everyone start wearing&nbsp;western&nbsp;clothes?</p><p>1. Because western clothes are easy to wear.</p><p>2. Because western clothes are suitable to everyday life than kimono.</p><p><u>3. Because kimono is not convenient when doing work.</u></p><p>4. Because they don’t have other occasions to wear kimono.</p>"
+                  },
+                  {
+                    "question": "（　A　）は何ですか。",
+                    "image": "",
+                    "answers": [
+                      "それから",
+                      "そして",
+                      "しかし",
+                      "たったいま"
+                    ],
+                    "correctAnswer": 2,
+                    "explain_vn": "<p>(A) là gì?</p><p>1. Do đó</p><p>2. Và</p><p><u>3. Tuy nhiên</u></p><p>4. Vừa nãy</p>",
+                    "explainAll": {
+                      "en": "<p>What is (A)?</p><p>1. Then</p><p>2. And</p><p>3. However</p><p>4. Just now</p><p>###</p><p><span lang=\"\\&quot;JA\\&quot;\">Information:</span></p><p><span lang=\"\\&quot;JA\\&quot;\">（</span>しかし<span lang=\"\\&quot;JA\\&quot;\">）、着物を着るのは</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">難</span><rt>むずか</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">しいし、</span>&nbsp;<ruby><span lang=\"\\&quot;JA\\&quot;\">時間</span><rt>じかん</rt></ruby><span lang=\"\\&quot;JA\\&quot;\">もかかって、　たいへんだ。</span><br></p><p><span lang=\"\\&quot;JA\\&quot;\">(However), wearing a kimono is difficult and time-consuming, so it’s rather trouble.<br></span></p>",
+                      "id_auto": "<p> Apa itu (A)? </p>  <p> Tidak bisa diterjemahkan karena tidak ada konteks. Then dapat memiliki banyak arti tergantung pada konteksnya. </p>  <p> 2. Dan </p>  <p> 3. Namun </p>  <p> 4. Baru saja. </p>  <p> ### </p>  <p>  <span lang=\"\\&quot;JA\\&quot;\"> Informasi. </span>  </p>  <p>  <span lang=\"\\&quot;JA\\&quot;\"> （ </span> 「しかし」 <span lang=\"\\&quot;JA\\&quot;\"> ）、「着物を着るのは」 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「難」 </span>  <rt> 「むずか」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「しいし」、 </span>   <ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「時間」 </span>  <rt> 「じかん」 </rt>  </ruby>  <span lang=\"\\&quot;JA\\&quot;\"> 「もかかって」、　「たいへんだ」。 </span>  <br>  </p>  <p>  <span lang=\"\\&quot;JA\\&quot;\"> (Namun), mengenakan kimono sulit dan memakan waktu, sehingga agak merepotkan. <br>  </span>  </p>"
+                    },
+                    "explain_en": "<p>What is (A)?</p><p>1. Then</p><p>2. And</p><p><u>3. However</u></p><p>4. Just now</p>"
+                  },
+                  {
+                    "question": "<適当(てきとう)>なタイトルはなんですか。",
+                    "image": "",
+                    "answers": [
+                      "着物を着る機会",
+                      "西洋化",
+                      "着物",
+                      "昔の日本人の着物"
+                    ],
+                    "correctAnswer": 2,
+                    "explain_vn": "<p>Tiêu đề thích hợp là gì?</p><p>1. Dịp để mặc kimono.</p><p>2. Sự âu hóa.</p><p><u>3. Kimono.</u></p><p>4. Kimono của người Nhật xưa.</p><p>---------</p><p>Đoạn văn:</p><p>Ngày xưa, người Nhật, cả người lớn và trẻ con, mọi người đều mặc kimono hàng ngày và sinh hoạt. (A), mặc kimono thì khó, lại mất thời gian, nên khá phiền phức. Ngoài ra kimono cũng bất tiện khi đi lại hay làm việc, nên mọi người dần chuyển sang mặc âu phục. Âu phục mặc rất đơn giản. Vả lại, cuộc sống của người Nhật cũng đã bị âu hóa nên âu phục hợp với đời sống sinh hoạt hơn là kimono.</p><p>Hiện tại kimono đã trở thành trang phục chỉ mặc trong các dịp đặc biệt như lễ kết hôn, tang lễ, lễ trưởng thành hoặc dịp năm mới.</p>",
+                    "explainAll": {
+                      "en": "<p>What is an appropriate title?</p><p>1. Opportunity to wear kimono.</p><p>2. Westernization</p><p>3. Kimono</p><p>4. Kimono of Japanese people in the past.</p>",
+                      "id_auto": "<p> Apa judul yang tepat? </p>  <p> 1. Kesempatan untuk mengenakan kimono. </p>  <p> 2. Pembaratan Barat. </p>  <p> 3. Kimono = Kimono </p>  <p> 4. Kimono orang Jepang di masa lalu. </p>"
+                    },
+                    "explain_en": "<p>What is an appropriate title?</p><p>1. Opportunity to wear kimono.</p><p>2. Westernization</p><p><u>3. Kimono</u></p><p>4. Kimono of Japanese people in the past.</p><p>---------</p><p>Paragraph:</p><p>In the past, Japanese people, both adults and children, wore kimonos in their everyday lives. (A), wearing a kimono is difficult and time-consuming, so it’s rather trouble. Also, when walking or doing work, kimono is inconvenient, so everyone began wearing western-style clothes instead. Western clothes are easy to wear. Also, because the lifestyle of Japanese people has been westernized, it seems that western clothing is more suitable for everyday life than kimono.</p><p>Nowadays, kimono has become something that can only be worn on special occasions, such as wedding ceremony, funeral ceremony, coming-of-age ceremony, or on New Year's occasion.</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "đoạn văn vừa",
+                "correct_answers": [
+                  2,
+                  2,
+                  2
+                ],
+                "score_difficult": 0.51228421,
+                "scores": [
+                  6,
+                  5,
+                  5
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "tìm thông tin",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 16569,
+                "title": "つぎの　ぶんしょうを　読よんで、しつもんに　こたえて　ください。こたえは、1 .2 .3 .4から　いちばん　いい　ものを　ひとつ　えらんでください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "<p>田中さんは　せんげつ　けっこんしました。それで、あたらしいへやに　ひっこししたいです。田中さんは　毎日　でんしゃで　かいしゃへ　いきますから、えきに　ちかいところが　すきです。おくさんは　うちで　インターネットで　しごとを　しています。ふたりは　やすいところが　いいです。</p><table style=\"width: 100%;\">    <tbody>        <tr>            <td style=\"width: 18.0723%;\">                <div style=\"text-align: center;\">アパート</div>            </td>            <td style=\"width: 29.432%;\">                <div style=\"text-align: center;\">駅から　あるき</div>            </td>            <td style=\"width: 27.0224%;\">                <div style=\"text-align: center;\">インターネット・</div>                <div style=\"text-align: center;\">おふろ</div>            </td>            <td style=\"width: 25.4733%;\">                <div style=\"text-align: center;\">おかね</div>            </td>        </tr>        <tr>            <td style=\"width: 18.0723%;\">                <div style=\"text-align: center;\">A</div>            </td>            <td style=\"width: 29.432%;\">                <div style=\"text-align: center;\">5分</div>            </td>            <td style=\"width: 27.0224%;\">                <div style=\"text-align: center;\">インターネット・</div>                <div style=\"text-align: center;\">おふろ</div>            </td>            <td style=\"width: 25.4733%;\">                <div style=\"text-align: center;\">70000円</div>            </td>        </tr>        <tr>            <td style=\"width: 18.0723%;\">                <div style=\"text-align: center;\">B</div>            </td>            <td style=\"width: 29.432%;\">                <div style=\"text-align: center;\">7分</div>            </td>            <td style=\"width: 27.0224%;\">                <div style=\"text-align: center;\">おふろ</div>            </td>            <td style=\"width: 25.4733%;\">                <div style=\"text-align: center;\">65000円</div>            </td>        </tr>        <tr>            <td style=\"width: 18.0723%;\">                <div style=\"text-align: center;\">C</div>            </td>            <td style=\"width: 29.432%;\">                <div style=\"text-align: center;\">10分</div>            </td>            <td style=\"width: 27.0224%;\">                <div style=\"text-align: center;\">インターネット</div>            </td>            <td style=\"width: 25.4733%;\">                <div style=\"text-align: center;\">50000円</div>            </td>        </tr>        <tr>            <td style=\"width: 18.0723%;\">                <div style=\"text-align: center;\">D</div>            </td>            <td style=\"width: 29.432%;\">                <div style=\"text-align: center;\">12分</div>            </td>            <td style=\"width: 27.0224%;\">                <div style=\"text-align: center;\">おふろ</div>            </td>            <td style=\"width: 25.4733%;\">                <div style=\"text-align: center;\">45000円</div>            </td>        </tr>    </tbody></table>",
+                  "text_read_en": "<div>Tanaka got married last month. So he wants to move to a new house. Tanaka goes to the company by train every day, so he prefers a place near the station. His wife works on the internet from home. Two of them like cheap places.</div><div>Apartment&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Walking from the station&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Internet・Bathtub&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fee</div><div>A&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5 minutes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Internet・Bathtub&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 70000 yen</div><div>B&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7 minutes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Internet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 65000 yen</div><div>C&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10 minutes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Internet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 50000 yen (1)</div><div>D&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;12 minutes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bathtub&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;45000 yen</div>",
+                  "text_read_id": " <div> Tanaka menikah bulan lalu. Jadi dia ingin pindah ke rumah baru. Tanaka pergi ke perusahaan dengan kereta setiap hari, jadi dia lebih suka tempat yang dekat dengan stasiun. Istrinya bekerja di internet dari rumah. Keduanya menyukai tempat yang murah. </div>  <div> Apartemen         Berjalan kaki dari stasiun            Internet「・」Bak mandi          Biaya </div>  <div> Lima menit Internet「・」Bak mandi seharga 70000 yen. </div>  <div> B                       7 menit                                           Internet                  65000 yen </div>  <div> C                     10 menit                                           Internet                  50000 yen (1) </div>  <div> Dalam 12 menit, biaya mandi di bak mandi adalah 45000 yen. </div> ",
+                  "audios": {
+                    "audio_time": ""
+                  }
+                },
+                "content": [
+                  {
+                    "question": "ふたりは　どのアパートに　ひっこしますか。",
+                    "image": "",
+                    "answers": [
+                      "A　アパート",
+                      "B　アパート",
+                      "C　アパート",
+                      "D　アパート"
+                    ],
+                    "correctAnswer": 2,
+                    "explain_vn": "<p>Hai người sẽ chuyển đến căn hộ n&agrave;o?</p><p>1. Căn hộ A</p><p>2. Căn hộ B</p><p>3. Căn hộ C</p><p>4. Căn hộ D</p>",
+                    "explainAll": {
+                      "en": "<div>Which apartment will those two move to?</div><div>1. Apartment A</div><div>2. Apartment B</div><div>3. Apartment C</div><div>4. Apartment D</div><div><p>###</p><p>Information:</p><p>田中さんは　毎日　でんしゃで　かいしゃへ　いきますから、えきに　ちかいところが　すきです。おくさんは　うちで　インターネットで　しごとを　しています。ふたりは　やすいところが　いいです。</p><p>C&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10分&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;インターネット&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50000円</p></div><div>Tanaka goes to the company by train every day, so he prefers a place near the station. His wife works on the internet from home. Two of them like cheap places.</div><div><div>C&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10 minutes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Internet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 50000 yen (1)</div></div>",
+                      "id_auto": " <div> Ke apartemen mana dua orang itu akan pindah? </div>  <div> 1. Apartemen A. </div>  <div> 2. Apartemen B. </div>  <div> 3. Apartemen C. </div>  <div> 4. Apartemen D. </div>  <div>  <p> ### </p>  <p> Informasi. </p>  <p> 「田中さんは」　「毎日」　「でんしゃで」　「かいしゃへ」　「いきますから」、「えきに」　「ちかいところが」　「すきです」。「おくさんは」　「うちで」　「インターネットで」　「しごとを」　「しています」。「ふたりは」　「やすいところが」　「いいです」。 </p>  <p> C          10「分」           「インターネット」         50000「円」 </p>  </div>  <div> Tanaka pergi ke perusahaan dengan kereta setiap hari, jadi dia lebih suka tempat yang dekat dengan stasiun. Istrinya bekerja di internet dari rumah. Keduanya menyukai tempat yang murah. </div>  <div>  <div> C                    10 menit            Internet                  50000 yen (1) </div>  </div> "
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "tìm thông tin",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.2,
+                "scores": [
+                  9
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "time": 15,
+        "min_score": 19,
+        "max_score": 60,
+        "name": "聴解",
+        "content": [
+          {
+            "kind": "nghe hiểu chủ đề",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 21122,
+                "title": "もんだいでは、はじめに　しつもんを　きいて　ください。　それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHCD_q22.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>Two students are talking. Who is the male student living with?</div><div><br></div><div>G: Hey, after studying in China, how's life going for you? Did you have fun?</div><div>B: Yeah, it was fun. Plus, I've made new friends.</div><div>G: Are you living in the school dormitory right now?</div><div>B: Yes, I'm living with 2 friends. One is Korean, the other is Vietnamese. (i) If I lived alone, I would be lonely.</div><div>G: That's right.</div><div><br></div><div>? Who is the male student living with?</div><div>1. 1 Korean, 1 Chinese</div><div>2. 1 Korean, 1 Vietnamese</div><div>3. 2 Chinese people</div><div>4. Alone</div><div><p>###</p><p>Information</p><p>男：うん、２人の友だちと一緒に住んでいます。一人は韓国人です。もう一人はベトナム人ですよ。<br></p><p>B: Yes, I'm living with 2 friends. One is Korean, the other is Vietnamese. (i)&nbsp;<br></p></div>",
+                  "text_read_id": " <div> Dua siswa sedang berbicara. Siapa siswa laki-laki yang tinggal bersamanya? </div>  <div>  <br>  </div>  <div> G: Hei, setelah belajar di China, bagaimana kehidupanmu sekarang? Apakah kamu bersenang-senang? </div>  <div> B: Ya, itu menyenangkan. Selain itu, saya telah membuat teman-teman baru. </div>  <div> G: Apakah kamu tinggal di asrama sekolah saat ini? </div>  <div> B: Ya, saya tinggal dengan 2 teman. Satu orang Korea, yang lain orang Vietnam. (i) Jika saya tinggal sendiri, saya akan merasa kesepian. </div>  <div> G: Benar. </div>  <div>  <br>  </div>  <div> Siapa siswa laki-laki yang tinggal bersama? </div>  <div> 1 orang Korea, 1 orang Tiongkok. </div>  <div> 2. 1 orang Korea, 1 orang Vietnam. </div>  <div> 3. 2 orang Cina. </div>  <div> Sendirian. </div>  <div>  <p> ### </p>  <p> Informasi </p>  <p> 「男」：「うん」、２「人の友だちと一緒に住んでいます」。「一人は韓国人です」。「もう一人はベトナム人ですよ」。 <br>  </p>  <p> B: Ya, saya tinggal dengan 2 teman. Satu orang Korea, yang lainnya orang Vietnam. (i) <br>  </p>  </div> ",
+                  "audios": {
+                    "audio_time": 57.905
+                  }
+                },
+                "content": [
+                  {
+                    "question": "？男の学生は　だれと　住んでいますか。",
+                    "image": "",
+                    "answers": [
+                      "一人のかんこくじん　と　一人のちゅうごくじん",
+                      "一人のかんこくじん　と　ベトナム人",
+                      "ふたりのちゅうごくじん",
+                      "ひとりで"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>女の学生と男の学生が話しています。男の学生は　だれと　住んでいますか。</p><p>&nbsp;</p><p>女：ねえ、中国に留学してから、生活はどうですか。たのしいですか。</p><p>男：うん、そうです。そして、新しい友達もできましたよ。</p><p>女：いま、大学の寮に住んでいますね。</p><p>男：うん、２人の友だちと一緒に住んでいます。一人は韓国人です。もう一人はベトナム人ですよ。一人で住んだら、きっと寂しいですよ</p><p>女：そうですよね。</p><p>&nbsp;</p><p>？男の学生は　だれと　住んでいますか。</p>",
+                    "explainAll": {
+                      "en": "<p>女の学生と男の学生が話しています。男の学生は　だれと　住んでいますか。</p><p>&nbsp;</p><p>女：ねえ、中国に留学してから、生活はどうですか。たのしいですか。</p><p>男：うん、そうです。そして、新しい友達もできましたよ。</p><p>女：いま、大学の寮に住んでいますね。</p><p>男：うん、２人の友だちと一緒に住んでいます。一人は韓国人です。もう一人はベトナム人ですよ。(i) 一人で住んだら、きっと寂しいですよ</p><p>女：そうですね。</p><p>&nbsp;</p><p>？男の学生は　だれと　住んでいますか。</p>",
+                      "id_auto": " <p> 「女の学生と男の学生が話しています」。「男の学生は」　「だれと」　「住んでいますか」。 </p>  <p>   </p>  <p> 「女」：「ねえ」、「中国に留学してから」、「生活はどうですか」。「たのしいですか」。 </p>  <p> 「男」：「うん」、「そうです」。「そして」、「新しい友達もできましたよ」。 </p>  <p> 「女」：「いま」、「大学の寮に住んでいますね」。 </p>  <p> 「男」：「うん」、２「人の友だちと一緒に住んでいます」。「一人は韓国人です」。「もう一人はベトナム人ですよ」。(i) 「一人で住んだら」、「きっと寂しいですよ」 </p>  <p> 「女」：「そうですね」。 </p>  <p>   </p>  <p> ？「男の学生は」　「だれと」　「住んでいますか」。 </p> "
+                    },
+                    "explain_en": "<p>女の学生と男の学生が話しています。男の学生は　だれと　住んでいますか。</p><p>&nbsp;</p><p>女：ねえ、中国に留学してから、生活はどうですか。たのしいですか。</p><p>男：うん、そうです。そして、新しい友達もできましたよ。</p><p>女：いま、大学の寮に住んでいますね。</p><p>男：うん、２人の友だちと一緒に住んでいます。一人は韓国人です。もう一人はベトナム人ですよ。一人で住んだら、きっと寂しいですよ</p><p>女：そうですね。</p><p>&nbsp;</p><p>？男の学生は　だれと　住んでいますか。</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu chủ đề",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.267759562,
+                "scores": [
+                  7
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 21174,
+                "title": "もんだいでは、はじめに　しつもんを　きいて　ください。　それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHCD_q74.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>A teacher and a female student are talking to each other. Where will the following student go?</div><div><br></div><div>Male: Linh, can I ask for a favor?</div><div>Please return this key to Mr. Yamada. Room 218</div><div>Female: Okay, it's 211 right?</div><div>Male: No, 218. Not 1 but 8. Ah, but before that, give Mr. Tanaka this report. He is at the library now. (i)</div><div><br></div><div>Where will the following student go?</div><div>1. Room 211</div><div>2. Room 218</div><div>3. Room 8</div><div>4. The library</div><div><p>###</p><p>Information</p><p>男:いいえ、218。1ではなく8ですよ。あ、でもその前にこのレポートを田中先生に渡してください。田中先生は図書館にいます。<br></p><div>Male: No, 218. Not 1 but 8. Ah, but before that, give Mr. Tanaka this report. He is at the library now. (i)</div></div>",
+                  "text_read_id": " <div> Seorang guru dan seorang siswi perempuan sedang berbicara satu sama lain. Ke mana siswi berikutnya akan pergi? </div>  <div>  <br>  </div>  <div> Laki-laki: Linh, bisakah aku meminta sebuah permintaan? </div>  <div> Silakan mengembalikan kunci ini kepada Bapak Yamada. Kamar 218. </div>  <div> Perempuan: Oke, itu 211 kan? </div>  <div> Laki-laki: Tidak, 218. Bukan 1 tapi 8. Ah, tapi sebelum itu, berikan laporan ini kepada Bapak Tanaka. Dia sedang berada di perpustakaan sekarang. (i) </div>  <div>  <br>  </div>  <div> Ke mana siswa berikut akan pergi? </div>  <div> Kamar 211. </div>  <div> 2. Kamar 218. </div>  <div> 3. Kamar 8. </div>  <div> 4. Perpustakaan. </div>  <div>  <p> ### </p>  <p> Informasi </p>  <p> 「男」:「いいえ」、218。1「ではなく」8「ですよ」。「あ」、「でもその前にこのレポートを田中先生に渡してください」。「田中先生は図書館にいます」。 <br>  </p>  <div> Laki-laki: Tidak, 218. Bukan 1 tapi 8. Ah, tapi sebelum itu, berikan laporan ini kepada Mr. Tanaka. Dia sedang berada di perpustakaan sekarang. (i) </div>  </div> ",
+                  "audios": {
+                    "audio_time": 54.02
+                  }
+                },
+                "content": [
+                  {
+                    "question": "学生はこのあとどこに行きますか。",
+                    "image": "",
+                    "answers": [
+                      "211のへや",
+                      "218のへや",
+                      "8のへや",
+                      "としょかん"
+                    ],
+                    "correctAnswer": 3,
+                    "explain_vn": "<p>先生と女の学生が話しています。学生はこのあとどこに行きますか。</p><p>男:リンさん、ちょっといいですか。この鍵を山田先生に返してください。218の部屋です。</p><p>女:はい、分かりました。211ですね。</p><p>男:いいえ、218。1ではなく8ですよ。あ、でもその前にこのレポートを田中先生に渡してください。田中先生は図書館にいます。</p><p><br></p><p>学生はこのあとどこに行きますか。</p><p>1. 211のへや</p><p>2.218のへや</p><p>3.8のへや</p><p>4.としょかん</p>",
+                    "explainAll": {
+                      "en": "<p>先生と女の学生が話しています。学生はこのあとどこに行きますか。</p><p>男:リンさん、ちょっといいですか。この鍵を山田先生に返してください。218の部屋です。</p><p>女:はい、分かりました。211ですね。</p><p>男:いいえ、218。1ではなく8ですよ。あ、でもその前にこのレポートを田中先生に渡してください。田中先生は図書館にいます。(i)</p><p><br></p><p>学生はこのあとどこに行きますか。</p><p>1. 211のへや</p><p>2.218のへや</p><p>3.8のへや</p><p>4.としょかん</p>",
+                      "id_auto": " <p> 「先生と女の学生が話しています」。「学生はこのあとどこに行きますか」。 </p>  <p> 「男」:「リンさん」、「ちょっといいですか」。「この鍵を山田先生に返してください」。218「の部屋です」。 </p>  <p> 「女」:「はい」、「分かりました」。211「ですね」。 </p>  <p> 「男」:「いいえ」、218。1「ではなく」8「ですよ」。「あ」、「でもその前にこのレポートを田中先生に渡してください」。「田中先生は図書館にいます」。(i) </p>  <p>  <br>  </p>  <p> 「学生はこのあとどこに行きますか」。 </p>  <p> 1. 211「のへや」 </p>  <p> 2.218「のへや」 </p>  <p> 3.8「のへや」 </p>  <p> 4.「としょかん」 </p> "
+                    },
+                    "explain_en": "<p>先生と女の学生が話しています。学生はこのあとどこに行きますか。</p><p>男:リンさん、ちょっといいですか。この鍵を山田先生に返してください。218の部屋です。</p><p>女:はい、分かりました。211ですね。</p><p>男:いいえ、218。1ではなく8ですよ。あ、でもその前にこのレポートを田中先生に渡してください。田中先生は図書館にいます。</p><p><br></p><p>学生はこのあとどこに行きますか。</p><p>1. 211のへや</p><p>2.218のへや</p><p>3.8のへや</p><p>4.としょかん</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu chủ đề",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.47,
+                "scores": [
+                  7
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 21170,
+                "title": "もんだいでは、はじめに　しつもんを　きいて　ください。　それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHCD_q70.wav",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>Two people are talking. Where will the two of them study?</div><div>B: Where can I study tomorrow morning?</div><div>G: Looks like there's a famous cafe that just opened recently</div><div>B: Tomorrow morning is Sunday so it will probably be crowded. How about at home?</div><div>G: It's a little...umm....the library is fine, right?</div><div>B: It's quiet. So let's decide that then. (i)</div><div><br></div><div>Where will the two of them study?</div><div>1. The cafe</div><div>2. The library</div><div>3. The boy's house</div><div>4. The girl's house</div><div><p>###</p><p>Information</p><p>女：うちはちょっとね。図書館いいじゃん。</p><p>男：静かなだね。じゃ、そこにしよう&nbsp;</p><div>G: It's a little...umm....the library is fine, right?</div><div>B: It's quiet. So let's decide that then. (i)</div></div>",
+                  "text_read_id": "<div> Dua orang sedang berbicara. Di mana mereka berdua akan belajar? </div>  <div> B: Di mana saya bisa belajar besok pagi? </div>  <div> G: Sepertinya ada kafe terkenal yang baru saja dibuka akhir-akhir ini. </div>  <div> B: Besok pagi hari Minggu jadi kemungkinan akan ramai. Bagaimana kalau di rumah saja? </div>  <div> G: Sedikit...umm...perpustakaannya baik-baik saja, kan? </div>  <div> B: Hening. Jadi mari kita putuskan itu. (i) </div>  <div>  <br>  </div>  <div> Di mana mereka berdua akan belajar? </div>  <div> 1. Kafe </div>  <div> 2. Perpustakaan. </div>  <div> 3. Rumah anak laki-laki. </div>  <div> 4. Rumah gadis itu. </div>  <div>  <p> ### </p>  <p> Informasi </p>  <p> 「女」：「うちはちょっとね」。「図書館いいじゃん」。 </p>  <p> 「男」：「静かなだね」。「じゃ」、「そこにしよう」  </p>  <div> G: Sedikit...umm...perpustakaannya baik-baik saja, kan? </div>  <div> B: Hening. Jadi mari kita putuskan itu. (i) </div>  </div>",
+                  "audios": {
+                    "audio_time": "63.535"
+                  }
+                },
+                "content": [
+                  {
+                    "question": "？二人はどこで勉強しますか。",
+                    "image": "",
+                    "answers": [
+                      "喫茶店(きっさてん)",
+                      "図書館(としょかん)",
+                      "男の人の家",
+                      "女の人の家"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>男の人と女の人が話しています。二人はどこで勉強しますか。</p><p>男：明日、どこで英語を勉強したらいいの？</p><p>女：近くに有名な喫茶店が始まったばかりみたいよ。</p><p>男：明日、日曜日なので、きっと人が込むだろう。うちは？女：うちはちょっとね。図書館いいじゃん。</p><p>男：静かなだね。じゃ、そこにしよう&nbsp;</p><p>？二人はどこで勉強しますか。</p>",
+                    "explainAll": {
+                      "en": "<p>男の人と女の人が話しています。二人はどこで勉強しますか。</p><p>男：明日、どこで英語を勉強したらいいの？</p><p>女：近くに有名な喫茶店が始まったばかりみたいよ。</p><p>男：明日、日曜日なので、きっと人が込むだろう。うちは？女：うちはちょっとね。図書館いいじゃん。</p><p>男：静かなだね。じゃ、そこにしよう (i)</p><p>？二人はどこで勉強しますか。　　　　　　　　　　　　　　</p>",
+                      "id_auto": "<p> 「男の人と女の人が話しています」。「二人はどこで勉強しますか」。 </p>  <p> 「男」：「明日」、「どこで英語を勉強したらいいの」？ </p>  <p> 「女」：「近くに有名な喫茶店が始まったばかりみたいよ」。 </p>  <p> 「男」：「明日」、「日曜日なので」、「きっと人が込むだろう」。「うちは」？「女」：「うちはちょっとね」。「図書館いいじゃん」。 </p>  <p> 「男」：「静かなだね」。「じゃ」、「そこにしよう」 (i) </p>  <p> ？「二人はどこで勉強しますか」。　　　　　　　　　　　　　　 </p>"
+                    },
+                    "explain_en": "<p>男の人と女の人が話しています。二人はどこで勉強しますか。</p><p>男：明日、どこで英語を勉強したらいいの？</p><p>女：近くに有名な喫茶店が始まったばかりみたいよ。</p><p>男：明日、日曜日なので、きっと人が込むだろう。うちは？女：うちはちょっとね。図書館いいじゃん。</p><p>男：静かなだね。じゃ、そこにしよう&nbsp;</p><p>？二人はどこで勉強しますか。　　　　　　　　　　　　　　</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu chủ đề",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.079497907,
+                "scores": [
+                  7
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "nghe hiểu điểm chính",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 14399,
+                "title": "もんだい では、はじめに　しつもんを　きいて　ください。　それから、はなしを　きいて、もんだいようしの　1から　４の　ながから、いちばん いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "http://mytest.eupgroup.net/assets/audio/N5/N5_062020/042020_audio_N5_T2_NHDC_q8.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<p>A man and a woman are talking. Where are the two going to meet?</p><p><br></p><p>Man: The movie starts at 1:00 tomorrow, right? So should we have lunch before the movie?</p><p>Woman: Yeah, we should.</p><p>Man: Then, let's meet at the station. There are many restaurants near the station. (i)</p><p>Woman: Yeah. The department store is also near the station, we can eat there.</p><p>Man: Ah, that's good. Let's do that.</p><p><br></p><p>Where are the two going to meet?</p><p>1. Cinema</p><p>2. Station</p><p>3. Restaurant</p><p>4. Department store</p><p>###</p><p>Information</p><p>男：じゃ、駅で会いましょうか。駅の近くにいろいろレストランがありますから。</p><p>Man: Then, let's meet at the station. There are many restaurants near the station. (i)</p>",
+                  "text_read_id": " <p> Seorang pria dan seorang wanita sedang berbicara. Di mana kedua orang tersebut akan bertemu? </p>  <p>  <br>  </p>  <p> Pria: Film dimulai jam 1:00 besok, benar? Jadi, apakah kita harus makan siang sebelum menonton film? </p>  <p> Wanita: Ya, kita seharusnya. </p>  <p> Pria: Lalu, mari kita bertemu di stasiun. Ada banyak restoran di dekat stasiun. (i) </p>  <p> Wanita: Ya. Toko departemen juga dekat dengan stasiun, kita bisa makan di sana. </p>  <p> Pria: Ah, bagus. Mari kita lakukan itu. </p>  <p>  <br>  </p>  <p> Di mana dua orang itu akan bertemu? </p>  <p> 1. Bioskop </p>  <p> 2. Stasiun </p>  <p> 3. Restoran </p>  <p> 4. Toko departemen. </p>  <p> ### </p>  <p> Informasi </p>  <p> 「男」：「じゃ」、「駅で会いましょうか」。「駅の近くにいろいろレストランがありますから」。 </p>  <p> Pria: Lalu, mari kita bertemu di stasiun. Ada banyak restoran di dekat stasiun. (i) </p> ",
+                  "audios": {
+                    "audio_time": 83.266
+                  }
+                },
+                "content": [
+                  {
+                    "question": "",
+                    "image": "",
+                    "answers": [
+                      "えいがかん",
+                      "えき",
+                      "レストラン",
+                      "デパート"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>男の人と女の人が話しています。二人は、どこで会いますか。</p><p><br></p><p>男：明日の映画は1時からですね。じゃ、映画の前に昼ご飯を食べましょうか。</p><p>女：そうですか。</p><p>男：じゃ、駅で会いましょうか。駅の近くにいろいろレストランがありますから。</p><p>女：ええ、デパートも近くにありますから、その中で食べてもいいですね。</p><p>男：ああ、それがいいですね。そうしましょう。</p><p><br></p><p>二人は、どこで会いますか。</p><p>--------------</p><p>Người đ&agrave;n &ocirc;ng v&agrave; người phụ nữ đang n&oacute;i chuyện. Hai người sẽ gặp nhau ở đ&acirc;u?</p><p><br></p><p>Nam: Phim ng&agrave;y mai bắt đầu l&uacute;c 1h nhỉ? Vậy m&igrave;nh ăn trưa ở trước khi xem phim nh&eacute;?</p><p>Nữ: Ừ nhỉ.</p><p>Nam: Vậy m&igrave;nh gặp nhau ở nh&agrave; ga nh&eacute;. Ở gần nh&agrave; ga c&oacute; nhiều nh&agrave; h&agrave;ng đấy.</p><p>Nữ: Ừ. B&aacute;ch h&oacute;a cũng gần đấy, m&igrave;nh ăn trưa ở đ&oacute; cũng được.</p><p>Nam: Ồ, vậy cũng được. Quyết định vậy nh&eacute;.</p><p><br></p><p>Hai người sẽ gặp nhau ở đ&acirc;u?</p><p>1. Rạp chiếu phim</p><p>2. Nh&agrave; ga</p><p>3. Nh&agrave; h&agrave;ng</p><p>4. B&aacute;ch h&oacute;a</p>",
+                    "explainAll": {
+                      "en": "<p>男の人と女の人が話しています。二人は、どこで会いますか。</p><p><br></p><p>男：明日の映画は1時からですね。じゃ、映画の前に昼ご飯を食べましょうか。</p><p>女：そうですか。</p><p>男：じゃ、駅で会いましょうか。駅の近くにいろいろレストランがありますから。(i)</p><p>女：ええ、デパートも近くにありますから、その中で食べてもいいですね。</p><p>男：ああ、それがいいですね。そうしましょう。</p><p><br></p><p>二人は、どこで会いますか。</p>",
+                      "id_auto": " <p> 「男の人と女の人が話しています」。「二人は」、「どこで会いますか」。 </p>  <p>  <br>  </p>  <p> 「男」：「明日の映画は」1「時からですね」。「じゃ」、「映画の前に昼ご飯を食べましょうか」。 </p>  <p> 「女」：「そうですか」。 </p>  <p> 「男」：「じゃ」、「駅で会いましょうか」。「駅の近くにいろいろレストランがありますから」。(i) </p>  <p> 「女」：「ええ」、「デパートも近くにありますから」、「その中で食べてもいいですね」。 </p>  <p> 「男」：「ああ」、「それがいいですね」。「そうしましょう」。 </p>  <p>  <br>  </p>  <p> 「二人は」、「どこで会いますか」。 </p> "
+                    },
+                    "explain_en": "<p>男の人と女の人が話しています。二人は、どこで会いますか。</p><p><br></p><p>男：明日の映画は1時からですね。じゃ、映画の前に昼ご飯を食べましょうか。</p><p>女：そうですか。</p><p>男：じゃ、駅で会いましょうか。駅の近くにいろいろレストランがありますから。</p><p>女：ええ、デパートも近くにありますから、その中で食べてもいいですね。</p><p>男：ああ、それがいいですね。そうしましょう。</p><p><br></p><p>二人は、どこで会いますか。</p><p>--------------</p><p>A man and a woman are talking. Where are the two going to meet?</p><p><br></p><p>Man: The movie starts from 1:00 tomorrow, right? So should we have lunch before the movie?</p><p>Woman: Yeah, we should.</p><p>Man: Then, let&#39;s meet at the station. There are many restaurant near the station.</p><p>Woman: Yeah. The department store is also near the station, we can eat in there.</p><p>Man: Ah, that&#39;s good. Let&#39;s do that.</p><p><br></p><p>Where are the two going to meet?</p><p>1. Cinema</p><p>2. Station</p><p>3. Restaurant</p><p>4. Department store</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu điểm chính",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.418918918,
+                "scores": [
+                  6
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 21306,
+                "title": "もんだい では、はじめに　しつもんを　きいて　ください。　それから、はなしを　きいて、もんだいようしの　1から　４の　ながから、いちばん いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHDC_q206.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>A woman and a man are talking. Where is the rhetoric contest being held?</div><div><br></div><div>G: Excuse me, is the rhetoric contest held here?</div><div>B: Yes, that's right.</div><div>G: On what floor? The second floor or the third floor?</div><div>B : Both are not correct. It is held in the hall on the fourth floor. (i)</div><div>G: Ok, thank you.</div><div><br></div><div>? Where is the rhetoric contest being held?</div><div>1. Floor 1</div><div>2. Floor 2</div><div>3. Floor 3</div><div>4. Floor 4</div><div><p>###</p><p>Information</p><p>男：二つとも違いますよ。４階での会場で行っていますよ。<br></p><div>B : Both are not correct. It is held in the hall on the fourth floor. (i)</div></div>",
+                  "text_read_id": " <div> Seorang wanita dan seorang pria sedang berbicara. Di mana kontes retorika diadakan? </div>  <div>  <br>  </div>  <div> G: Permisi, apakah kontes retorika diadakan di sini? </div>  <div> B: Ya, itu benar. </div>  <div> G: Di lantai berapa? Lantai dua atau lantai tiga? </div>  <div> B: Keduanya tidak benar. Acaranya diadakan di aula di lantai empat. (i) </div>  <div> G: Baik, terima kasih. </div>  <div>  <br>  </div>  <div> Di mana kontes retorika diadakan? </div>  <div> Lantai 1 </div>  <div> Lantai 2 </div>  <div> Lantai 3 </div>  <div> Lantai 4. </div>  <div>  <p> ### </p>  <p> Informasi </p>  <p> 「男」：「二つとも違いますよ」。４「階での会場で行っていますよ」。 <br>  </p>  <div> B: Keduanya tidak benar. Acaranya diadakan di aula di lantai empat. (i) </div>  </div> ",
+                  "audios": {
+                    "audio_time": 69.542
+                  }
+                },
+                "content": [
+                  {
+                    "question": "？スピーチコンテストは今　どこで行っていますか。",
+                    "image": "",
+                    "answers": [
+                      "１かい",
+                      "２かい",
+                      "３がい",
+                      "４かい"
+                    ],
+                    "correctAnswer": 3,
+                    "explain_vn": "<p>女の人と男の人が話しています。スピーチコンテストは今　どこで行われていますか</p><p>女：すみません、スピーチコンテストはここで行われていますか。</p><p>男：はい、そうです。</p><p>女：何階でですか。２階ですか。３階ですか。</p><p>男：二つとも違いますよ。４階での会場で行っていますよ。</p><p>女：はい、ありがとうございます。</p><p>&nbsp;</p><p>？スピーチコンテストは今　どこで行われていますか.</p>",
+                    "explainAll": {
+                      "en": "<p>女の人と男の人が話しています。スピーチコンテストは今　どこで行われていますか</p><p>女：すみません、スピーチコンテストはここで行われていますか。</p><p>男：はい、そうです。</p><p>女：何階でですか。２階ですか。３階ですか。</p><p>男：二つとも違いますよ。４階での会場で行っていますよ。(i)</p><p>女：はい、ありがとうございます。</p><p>&nbsp;</p><p>？スピーチコンテストは今　どこで行われていますか.</p>",
+                      "id_auto": " <p> 「女の人と男の人が話しています」。「スピーチコンテストは今」　「どこで行われていますか」 </p>  <p> 「女」：「すみません」、「スピーチコンテストはここで行われていますか」。 </p>  <p> 「男」：「はい」、「そうです」。 </p>  <p> 「女」：「何階でですか」。２「階ですか」。３「階ですか」。 </p>  <p> 「男」：「二つとも違いますよ」。４「階での会場で行っていますよ」。(i) </p>  <p> 「女」：「はい」、「ありがとうございます」。 </p>  <p>   </p>  <p> ？「スピーチコンテストは今」　「どこで行われていますか」. </p> "
+                    },
+                    "explain_en": "<p>女の人と男の人が話しています。スピーチコンテストは今　どこで行われていますか</p><p>女：すみません、スピーチコンテストはここで行われていますか。</p><p>男：はい、そうです。</p><p>女：何階でですか。２階ですか。３階ですか。</p><p>男：二つとも違いますよ。４階での会場で行っていますよ。</p><p>女：はい、ありがとうございます。</p><p>&nbsp;</p><p>？スピーチコンテストは今　どこで行われていますか.</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu điểm chính",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.102272727,
+                "scores": [
+                  6
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 21282,
+                "title": "もんだい では、はじめに　しつもんを　きいて　ください。　それから、はなしを　きいて、もんだいようしの　1から　４の　ながから、いちばん いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHDC_q182.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>A woman and a man are talking. What is the woman's favorite flower?</div><div><br></div><div>B: Do you often take pictures of flowers? You must be very fond of flowers.</div><div>G: Yes, I've loved it since I was little. For example roses, cherry blossoms, tulips, chrysanthemums.</div><div>B: That's a lot of variety. Which flower do you like the most? Is it rose?</div><div>G: No. It's not rose, but daisy. Because it is the typical flower of Japan. (i)</div><div><br></div><div>? What is the woman's favorite flower?</div><div>1. Peach blossom</div><div>2. Cherry blossom</div><div>3. Tulip</div><div>4. Chrysanthemum</div><div>###<br><p></p><p>Information</p><p>女：いいえ。ロースじゃなくて、きくです。日本の特徴の花ですから。<br></p><div>G: No. It's not rose, but daisy. Because it is the typical flower of Japan. (i)</div></div>",
+                  "text_read_id": " <div> Seorang wanita dan seorang pria sedang berbicara. Apa bunga favorit wanita itu? </div>  <div>  <br>  </div>  <div> B: Apakah kamu sering mengambil foto bunga? Kamu pasti sangat menyukai bunga. </div>  <div> G: Ya, aku sudah menyukainya sejak kecil. Misalnya mawar, bunga sakura, tulip, krisan. </div>  <div> B: Itu banyak variasi. Bunga mana yang paling kamu sukai? Apakah itu mawar? </div>  <div> G: Tidak. Ini bukan mawar, tapi bunga daisy. Karena itu adalah bunga khas Jepang. (i) </div>  <div>  <br>  </div>  <div> Apa bunga favorit wanita itu? </div>  <div> 1. Bunga persik. </div>  <div> 2. Bunga sakura. </div>  <div> 3. Tulip = 3. Bunga Tulip </div>  <div> 4. Krisan </div>  <div> ### <br>  <p>  </p>  <p> Informasi </p>  <p> 「女」：「いいえ」。「ロースじゃなくて」、「きくです」。「日本の特徴の花ですから」。 <br>  </p>  <div> G: Tidak. Ini bukan mawar, tapi bunga daisy. Karena itu adalah bunga khas Jepang. (i) </div>  </div> ",
+                  "audios": {
+                    "audio_time": 73.812
+                  }
+                },
+                "content": [
+                  {
+                    "question": "? 女の人が一番好きなのは　どれですか。",
+                    "image": "",
+                    "answers": [
+                      "ロース",
+                      "さくら",
+                      "チューリップ",
+                      "きく"
+                    ],
+                    "correctAnswer": 3,
+                    "explain_vn": "<p>女の人と男の人が話しています。女の人が一番好きなのは　どれですか。</p><p><br></p><p>男：花の写真をよく撮っていますね。それがきっと好きでしょう　</p><p>女：うん、子供の時から、好きですよ。例えば、ロース、桜、チューリップ、菊です。</p><p>男：いろんな種類ですね。その中、何が一番好きですか。ロースですか。</p><p>女：いいえ。ロースじゃなくて、きくです。日本の特徴の花ですから。</p><p>? 女の人が一番好きなのは　どれですか。</p>",
+                    "explainAll": {
+                      "en": "<p>女の人と男の人が話しています。女の人が一番好きなのは　どれですか。</p><p><br></p><p>男：花の写真をよく撮っていますね。それがきっと好きでしょう　</p><p>女：うん、子供の時から、好きですよ。例えば、ロース、桜、チューリップ、菊です。</p><p>男：いろんな種類ですね。その中、何が一番好きですか。ロースですか。</p><p>女：いいえ。ロースじゃなくて、きくです。日本の特徴の花ですから。(i)</p><p>? 女の人が一番好きなのは　どれですか。</p>",
+                      "id_auto": " <p> 「女の人と男の人が話しています」。「女の人が一番好きなのは」　「どれですか」。 </p>  <p>  <br>  </p>  <p> 「男」：「花の写真をよく撮っていますね」。「それがきっと好きでしょう」　 </p>  <p> 「女」：「うん」、「子供の時から」、「好きですよ」。「例えば」、「ロース」、「桜」、「チューリップ」、「菊です」。 </p>  <p> 「男」：「いろんな種類ですね」。「その中」、「何が一番好きですか」。「ロースですか」。 </p>  <p> 「女」：「いいえ」。「ロースじゃなくて」、「きくです」。「日本の特徴の花ですから」。(i) </p>  <p> ? 「女の人が一番好きなのは」　「どれですか」。 </p> "
+                    },
+                    "explain_en": "<p>女の人と男の人が話しています。女の人が一番好きなのは　どれですか。</p><p><br></p><p>男：花の写真をよく撮っていますね。それがきっと好きでしょう　</p><p>女：うん、子供の時から、好きですよ。例えば、ロース、桜、チューリップ、菊です。</p><p>男：いろんな種類ですね。その中、何が一番好きですか。ロースですか。</p><p>女：いいえ。ロースじゃなくて、きくです。日本の特徴の花ですから。</p><p>? 女の人が一番好きなのは　どれですか。</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu điểm chính",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.274193548,
+                "scores": [
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "nghe hiểu diễn đạt",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 21449,
+                "title": "１から３の　ながから、いちばん　いい　ものを　ひとつ　えらんでください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHDD_q349.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>What does he say when the elevator door opens?</div><div>Male: 1. Please go first.</div><div>2. Get well soon.</div><div>3. Allow me to go first.</div>",
+                  "text_read_id": " <div> Apa yang dia katakan ketika pintu lift terbuka? </div>  <div> Laki-laki: 1. Silakan pergi duluan. </div>  <div> Sembuh segera. </div>  <div> 3. Biarkan saya pergi duluan. </div> ",
+                  "audios": {
+                    "audio_time": 31.066
+                  }
+                },
+                "content": [
+                  {
+                    "question": "",
+                    "image": "https://mytest.eupgroup.net/assets/copyright/image/092020_image_N5_NHDD_q349.png",
+                    "answers": [
+                      "1",
+                      "2",
+                      "3"
+                    ],
+                    "correctAnswer": 0,
+                    "explain_vn": "<p>エレベーターのドアがあきました。何と言いますか。</p><p><br></p><p>男:1.どうぞ。</p><p>2.お大事に。</p><p>3.お先に失礼します。</p>",
+                    "explainAll": {
+                      "en": "<p>エレベーターのドアがあきました。何と言いますか。</p><p><br></p><p>男:1.どうぞ。</p><p>2.お大事に。</p><p>3.お先に失礼します。</p>",
+                      "id_auto": " <p> 「エレベーターのドアがあきました」。「何と言いますか」。 </p>  <p>  <br>  </p>  <p> 「男」:1.「どうぞ」。 </p>  <p> 2.「お大事に」。 </p>  <p> 3.「お先に失礼します」。 </p> "
+                    },
+                    "explain_en": "<p>エレベーターのドアがあきました。何と言いますか。</p><p><br></p><p>男:1.どうぞ。</p><p>2.お大事に。</p><p>3.お先に失礼します。</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu diễn đạt",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.338308457,
+                "scores": [
+                  7
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 21416,
+                "title": "１から３の　ながから、いちばん　いい　ものを　ひとつ　えらんでください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_NHDD_q316.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>What does she say when her friend failed a test?</div><div>Female: 1. Are you okay? I'll help you.</div><div>2. What now. You failed.</div><div>3. Be strong. There will still be next time.</div>",
+                  "text_read_id": " <div> Apa yang dia katakan ketika temannya gagal ujian? </div>  <div> Perempuan: 1. Apakah kamu baik-baik saja? Aku akan membantumu. </div>  <div> 2. Apa sekarang. Kamu gagal. </div>  <div> 3. Jadilah kuat. Masih akan ada kesempatan lain. </div> ",
+                  "audios": {
+                    "audio_time": 32.753
+                  }
+                },
+                "content": [
+                  {
+                    "question": "",
+                    "image": "https://mytest.eupgroup.net/assets/copyright/image/092020_image_N5_NHDD_q316.png",
+                    "answers": [
+                      "1",
+                      "2",
+                      "3"
+                    ],
+                    "correctAnswer": 2,
+                    "explain_vn": "<p>友達が試験に落ちました。何と言いますか。</p><p><br></p><p>女:1.大丈夫?てつだおうか?</p><p>2.困ったな。失敗しちゃった。</p><p>3.元気でして。次があるよ</p>",
+                    "explainAll": {
+                      "en": "<p>友達が試験に落ちました。何と言いますか。</p><p><br></p><p>女:1.大丈夫?てつだおうか?</p><p>2.困ったな。失敗しちゃった。</p><p>3.元気でして。次があるよ</p>",
+                      "id_auto": " <p> 「友達が試験に落ちました」。「何と言いますか」。 </p>  <p>  <br>  </p>  <p> 「女」:1.「大丈夫」?「てつだおうか」? </p>  <p> 2.「困ったな」。「失敗しちゃった」。 </p>  <p> 3.「元気でして」。「次があるよ」 </p> "
+                    },
+                    "explain_en": "<p>友達が試験に落ちました。何と言いますか。</p><p><br></p><p>女:1.大丈夫?てつだおうか?</p><p>2.困ったな。失敗しちゃった。</p><p>3.元気でして。次があるよ</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "nghe hiểu diễn đạt",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.341614906,
+                "scores": [
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "trả lời nhanh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 21525,
+                "title": "もんだい は、えなどが　ありません。ふんを　きいて、１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_TLN_q425.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>Male: Suzuki-san, can you get the documents for me?</div><div>Female: 1. I already have it.</div><div>2. Where?</div><div>3. No problem.</div>",
+                  "text_read_id": " <div> Laki-laki: Suzuki-san, bisakah kamu mengambil dokumen untukku? </div>  <div> Perempuan: 1. Saya sudah memilikinya. </div>  <div> 2. Di mana? </div>  <div> Tidak ada masalah. </div> ",
+                  "audios": {
+                    "audio_time": 26.81
+                  }
+                },
+                "content": [
+                  {
+                    "question": "",
+                    "image": "",
+                    "answers": [
+                      "1",
+                      "2",
+                      "3"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>男:鈴木さん、資料をとってくれませんか。</p><p><br></p><p>女:1.とりませんでした。</p><p>2.どこですか。</p><p>3.どういたしまして。</p>",
+                    "explainAll": {
+                      "en": "<p>男:鈴木さん、資料をとってくれませんか。</p><p><br></p><p>女:1.とりませんでした。</p><p>2.どこですか。</p><p>3.どういたしまして。</p>",
+                      "id_auto": " <p> 「男」:「鈴木さん」、「資料をとってくれませんか」。 </p>  <p>  <br>  </p>  <p> 「女」:1.「とりませんでした」。 </p>  <p> 2.「どこですか」。 </p>  <p> 3.「どういたしまして」。 </p> "
+                    },
+                    "explain_en": "<p>男:鈴木さん、資料をとってくれませんか。</p><p><br></p><p>女:1.とりませんでした。</p><p>2.どこですか。</p><p>3.どういたしまして。</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "trả lời nhanh",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.517006802,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 21507,
+                "title": "もんだい は、えなどが　ありません。ふんを　きいて、１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "https://mytest.eupgroup.net/assets/copyright/audio/092020_audio_N5_TLN_q407_fixed.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<div>Woman: Who is the person wearing the hat?</div><div>Man: 1. Over there, right?</div><div>2. That's Tanaka.</div><div>3. Isn't that person beautiful?</div>",
+                  "text_read_id": " <div> Wanita: Siapa orang yang memakai topi itu? </div>  <div> Pria: Di sana, kan? </div>  <div> 2. Itu Tanaka. </div>  <div> 3. Apakah orang itu cantik? </div> ",
+                  "audios": {
+                    "audio_time": 36.171
+                  }
+                },
+                "content": [
+                  {
+                    "question": "",
+                    "image": "",
+                    "answers": [
+                      "1",
+                      "2",
+                      "3"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>女:あのうぼうしをかぶっている人はだれですか。</p><p><br></p><p>男:1.あそこにいますね。</p><p>2.田中さんですよ。</p><p>3.ええ、きれいな人ですね。</p>",
+                    "explainAll": {
+                      "en": "<p>女:あのうぼうしをかぶっている人はだれですか。</p><p><br></p><p>男:1.あそこにいますね。</p><p>2.田中さんですよ。</p><p>3.ええ、きれいな人ですね。</p>",
+                      "id_auto": " <p> 「女」:「あのうぼうしをかぶっている人はだれですか」。 </p>  <p>  <br>  </p>  <p> 「男」:1.「あそこにいますね」。 </p>  <p> 2.「田中さんですよ」。 </p>  <p> 3.「ええ」、「きれいな人ですね」。 </p> "
+                    },
+                    "explain_en": "<p>女:あのうぼうしをかぶっている人はだれですか。</p><p><br></p><p>男:1.あそこにいますね。</p><p>2.田中さんですよ。</p><p>3.ええ、きれいな人ですね。</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "trả lời nhanh",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.0625,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 12117,
+                "title": "もんだい は、えなどが　ありません。ふんを　きいて、１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "http://mytest.eupgroup.net/uploads/audios/N5_1/tra_loi_nhanh/Vidu.mp3",
+                  "image": "",
+                  "txt_read": "",
+                  "text_read_en": "<p>Example&nbsp; Correct answer: 2</p><p>F: Where is the convenience store?</p><p>M: 1. It's shopping.</p><p>2. Over there.</p><p>3. Me too.</p>",
+                  "text_read_id": " <p> Contoh Jawaban Benar: 2 </p>  <p> F: Di mana toko serba ada? </p>  <p> M: 1. Ini belanja. </p>  <p> Di sana. </p>  <p> Saya juga. </p> ",
+                  "audios": {
+                    "audio_time": 52.037
+                  }
+                },
+                "content": [
+                  {
+                    "question": "",
+                    "image": "",
+                    "answers": [
+                      "1",
+                      "2",
+                      "3"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "<p>れい　正答２</p> <p>F：コンビニは、どこですか。</p> <p>M：１買い物です。</p> <p>２あそこです。</p> <p>３こちらこそ。</p>",
+                    "explainAll": {
+                      "en": "<p>れい　正答２</p><p>F：コンビニは、どこですか。</p><p>M：１. 買い物です。</p><p>２. あそこです。</p><p>３. こちらこそ。</p>",
+                      "id_auto": " <p> 「れい」　「正答」２ </p>  <p> F：「コンビニは」、「どこですか」。 </p>  <p> M：１. 「買い物です」。 </p>  <p> ２. 「あそこです」。 </p>  <p> ３. 「こちらこそ」。 </p> "
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "trả lời nhanh",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.070564516,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_at": "2023-08-25T09:48:18.000Z",
+    "updated_at": "2025-06-06T01:02:04.000Z"
+  }
+}
