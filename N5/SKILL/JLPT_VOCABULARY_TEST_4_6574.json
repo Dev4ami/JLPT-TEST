@@ -1,0 +1,496 @@
+{
+  "Questions": {
+    "id": 6574,
+    "type": 3,
+    "title": "Vocabulary Test 4",
+    "level": 5,
+    "time": 10,
+    "score": 40,
+    "pass_score": 19,
+    "parts": [
+      {
+        "time": 10,
+        "min_score": 19,
+        "max_score": 40,
+        "name": "文字・語彙",
+        "content": [
+          {
+            "kind": "cách đọc kanji",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10329,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "えんぴつを<u>五本</u>かいました。",
+                    "answers": [
+                      "さんぽん",
+                      "ごほん",
+                      "ろっぽん",
+                      "じっぽん"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "<p><span style=\"caret-color: #2076b8; color: #2076b8; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-align: justify; background-color: #eff5f9;\">T&ocirc;i đ&atilde; mua 5 c&acirc;y viết ch&igrave;.</span></p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 五本<br>How to read: ごほん<br>Meaning: five (counting long, slender objects)<br>Question: えんぴつを<u>五本</u>かいました。<br>How to read: えんぴつを<u>ごほん</u>かいました。<br>Meaning: I bought&nbsp;<u>five</u>&nbsp;pencils.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. ごほん<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. さんぽん: This is how to read 'three' (3本).<br>3. ろっぽん: This is how to read 'six' (6本).<br>4. じっぽん: This is how to read 'ten' (10本).<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>In Japanese, when counting long, slender objects such as pencils, trees, or bottles, we use the counter '本 (ほん)'. The reading of this counter changes depending on the quantity:<br>- 1本 (いっぽん)<br>- 2本 (にほん)<br>- 3本 (さんぼん)<br>- 4本 (よんほん)<br>- 5本 (ごほん)<br>- 6本 (ろっぽん)<br>- 7本 (ななほん)<br>- 8本 (はっぽん)<br>- 9本 (きゅうほん)<br>- 10本 (じっぽん)",
+                      "id_auto": "Kata: 五本<br>Cara membaca: ごほん<br>Arti: lima (menghitung benda panjang dan ramping)<br>Pertanyaan: えんぴつを<u>五本</u>かいました。<br>Cara membaca: えんぴつを<u>ごほん</u>かいました。<br>Arti: Saya membeli <u>lima</u> pensil.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. ごほん<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. さんぽん: Ini adalah cara membaca 'tiga' (3本).<br>3. ろっぽん: Ini adalah cara membaca 'enam' (6本).<br>4. じっぽん: Ini adalah cara membaca 'sepuluh' (10本).<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Dalam bahasa Jepang, saat menghitung benda panjang dan ramping seperti pensil, pohon, atau botol, kita menggunakan kata bantu bilangan '本 (ほん)'. Cara membaca kata bantu bilangan ini berubah tergantung pada jumlahnya:<br>- 1本 (いっぽん)<br>- 2本 (にほん)<br>- 3本 (さんぼん)<br>- 4本 (よんほん)<br>- 5本 (ごほん)<br>- 6本 (ろっぽん)<br>- 7本 (ななほん)<br>- 8本 (はっぽん)<br>- 9本 (きゅうほん)<br>- 10本 (じっぽん)"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.113796576,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10395,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<u>お先</u> にしつれいします。",
+                    "answers": [
+                      "おさけ",
+                      "おしき",
+                      "おさき",
+                      "おさっき"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>お先（おさき）：(Ti&ecirc;n) trước</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>Word: お先<br>How to read: おさき<br>Meaning: Ahead, before<br>Question:&nbsp;<u>お先</u>にしつれいします。<br>How to read:&nbsp;<u>おさき</u>に しつれい します。<br>Meaning: Excuse me for leaving&nbsp;<u>before</u>&nbsp;you.<br>###<br>CORRECT CHOICE:<br>3. おさき<br>###<br>ANALYSIS:<br>1. おさけ: This reading is incorrect because it mistakes 'き' for 'け'.&nbsp;This is the reading for the word 'お酒', which means alcohol.<br>2. おしき: This reading is incorrect because it mistakes the sound 'さ' for 'し'.<br>4. おさっき: This reading incorrectly adds an extra 'っ' sound in the middle of 'さき'.<br>###<br>REFERENCE INFORMATION:<br>The word '先' (さき) means 'before' or 'destination'. When the prefix 'お' is added, it becomes 'お先' (おさき), which has a more polite meaning and is often used in polite communication, such as when excusing oneself to leave before others in a meeting or when leaving a place.<br>'先' also has an on'yomi reading of 'せん'.&nbsp;</div><div>For example:<br><li>先週 (せんしゅう): Last week</li><li>先月 (せんげつ): Last month</li><li>先輩 (せんぱい): Senior, predecessor</li></div>",
+                      "id_auto": "```html<br><div>Kata: お先<br>Cara membaca: おさき<br>Arti: Duluan, lebih dulu<br>Pertanyaan:&nbsp;<u>お先</u>にしつれいします。<br>Cara membaca:&nbsp;<u>おさき</u>に しつれい します。<br>Arti: Permisi saya pulang/pergi&nbsp;<u>duluan</u>.<br>###<br>PILIHAN YANG TEPAT:<br>3. おさき<br>###<br>ANALISIS:<br>1. おさけ: Pembacaan ini salah karena tertukar antara 'き' dan 'け'.&nbsp;Ini adalah cara membaca untuk kata 'お酒', yang berarti alkohol.<br>2. おしき: Pembacaan ini salah karena tertukar antara bunyi 'さ' dan 'し'.<br>4. おさっき: Pembacaan ini salah karena menambahkan bunyi 'っ' di tengah 'さき'.<br>###<br>INFORMASI REFERENSI:<br>Kata '先' (さき) berarti 'sebelum' atau 'tujuan'. Ketika awalan 'お' ditambahkan, menjadi 'お先' (おさき), yang memiliki makna lebih sopan dan sering digunakan dalam komunikasi sopan, seperti ketika meminta izin untuk pergi lebih dulu dari yang lain dalam rapat atau ketika meninggalkan suatu tempat.<br>'先' juga memiliki pembacaan on'yomi yaitu 'せん'.&nbsp;</div><div>Contoh:<br><li>先週 (せんしゅう): Minggu lalu</li><li>先月 (せんげつ): Bulan lalu</li><li>先輩 (せんぱい): Senior, pendahulu</li></div><br>```"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.260895779,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10295,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "おきゃくさん、ぜんぶで<u>三千五百</u>えんです。",
+                    "answers": [
+                      "さんぜんごひゃく",
+                      "さんせんごきゃく",
+                      "さんぜんごびゃく",
+                      "さんせんごぴゃく"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "<p>三千五百（さんぜんごひゃく）：(Tam/ Thi&ecirc;n/ Ngũ/ B&aacute;ch) 3 ngh&igrave;n 5 trăm</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 三千五百<br>How to read: さんぜんごひゃく<br>Meaning: 3500<br>Question: おきゃくさん、ぜんぶで<u>三千五百</u>えんです。<br>How to read: おきゃくさん、ぜんぶで<u>さんぜんごひゃく</u>えんです。<br>Meaning: The total is&nbsp;<u>3500</u>&nbsp;yen, sir/madam.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. さんぜんごひゃく<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>2. さんせんごきゃく: This reading is incorrect because '千' is read as 'ぜん' due to sound change when it follows '三'. Also, this reading is wrong because it mistakes 'ひゃく' for 'きゃく'.<br>3. さんぜんごびゃく: This reading is incorrect because it mistakes 'ひゃく' for 'びゃく'.<br>4. さんせんごぴゃく: This reading is incorrect because '千' is read as 'ぜん' due to sound change when it follows '三'. Also, this reading is wrong because it mistakes 'ひゃく' for 'ぴゃく'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Kanji 千 and 百 mean 1000 and 100 respectively in Japanese.<br>1. 千 is usually read as せん. Some cases have special pronunciations, such as:<br><ul><li>三千 (さんぜん) - 3000<br></li><li>八千 (はっせん) - 8000</li></ul>2. 百 usually has the reading ひゃく, but in some cases, the pronunciation may change, for example:<br><ul><li>三百 (さんびゃく) - 300</li><li>六百 (ろっぴゃく) - 600</li><li>八百 (はっぴゃく) - 800</li></ul>",
+                      "id_auto": "Kata: 三千五百<br>Cara membaca: さんぜんごひゃく<br>Arti: 3500<br>Pertanyaan: おきゃくさん、ぜんぶで<u>三千五百</u>えんです。<br>Cara membaca: おきゃくさん、ぜんぶで<u>さんぜんごひゃく</u>えんです。<br>Arti: Totalnya adalah <u>3500</u> yen, tuan/nyonya.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. さんぜんごひゃく<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>2. さんせんごきゃく: Pembacaan ini salah karena '千' dibaca sebagai 'ぜん' karena perubahan bunyi ketika mengikuti '三'. Selain itu, pembacaan ini salah karena salah mengira 'ひゃく' menjadi 'きゃく'.<br>3. さんぜんごびゃく: Pembacaan ini salah karena salah mengira 'ひゃく' menjadi 'びゃく'.<br>4. さんせんごぴゃく: Pembacaan ini salah karena '千' dibaca sebagai 'ぜん' karena perubahan bunyi ketika mengikuti '三'. Selain itu, pembacaan ini salah karena salah mengira 'ひゃく' menjadi 'ぴゃく'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji 千 dan 百 masing-masing berarti 1000 dan 100 dalam bahasa Jepang.<br>1. 千 biasanya dibaca sebagai せん. Beberapa kasus memiliki pengucapan khusus, seperti:<br><ul><li>三千 (さんぜん) - 3000<br></li><li>八千 (はっせん) - 8000</li></ul>2. 百 biasanya memiliki bacaan ひゃく, tetapi dalam beberapa kasus, pengucapannya dapat berubah, misalnya:<br><ul><li>三百 (さんびゃく) - 300</li><li>六百 (ろっぴゃく) - 600</li><li>八百 (はっぴゃく) - 800</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.227183303,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "cách viết từ",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3263,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "あには、ちいさいラジオをポケットにいれてでかけます。そして、でんしゃのなかで<u>ききながら</u>かいしゃにいきます。",
+                    "answers": [
+                      "閉きながら",
+                      "開きながら",
+                      "問きながら",
+                      "聞きながら"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div style=\"outline: 0px;\">Question: あには、ちいさいラジオをポケットにいれてでかけます。そして、でんしゃのなかで<span style=\"font-weight: 700;\">ききながら</span>かいしゃにいきます。<br>Meaning: My brother puts a small radio in his pocket and goes out. Then, he goes to the company&nbsp;<span style=\"font-weight: 700;\">while listening</span>&nbsp;to the radio on the train.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. 聞きながら<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 閉きながら: This form does not exist in Japanese. It can be rewritten as 閉めながら (しめながら), meaning 'while closing something'.<br>2. 開きながら (ひらきながら): means 'while opening something'.<br>3. 問きながら: This form does not exist in Japanese. It can be rewritten as 問いながら (といながら), meaning 'while asking something'.<br>4. 聞きながら (ききながら): means 'while listening'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The verb 聞く (きく) in Japanese has the following meanings and usage contexts:<br>1. Listen:<br>- Expresses the action of listening to sounds, speech, music, etc. This is the most basic meaning of the word '聞く' and is widely used in everyday situations when you want to talk about listening to something.<br>- Example:<br>+ 音楽を聞く。<br>おんがく を きく<br>Listen to music.<br>+ 彼の話を聞く。<br>かれ の はなし を きく<br>Listen to his story.<br>2. Ask:<br>- Used to express the action of asking for information from someone. In this context, '聞く' means to ask for information or opinions.<br>- Example:<br>+ 先生に質問を聞く。<br>せんせい に しつもん を きく<br>Ask the teacher a question.<br>+ 道を聞く。<br>みち を きく<br>Ask for directions.<br>3. Obey, follow:<br>- Used to refer to listening to the advice, instructions, or orders of someone. In this context, '聞く' means to obey or follow what has been said.<br>- Example:<br>+ 親の言うことを聞く。<br>おや の いう こと を きく<br>Listen to your parents.</div>",
+                      "id_auto": "<div style=\"outline: 0px;\">Pertanyaan: あには、ちいさいラジオをポケットにいれてでかけます。そして、でんしゃのなかで<span style=\"font-weight: 700;\">ききながら</span>かいしゃにいきます。<br>Arti: Kakak laki-laki saya memasukkan radio kecil ke dalam saku dan pergi. Kemudian, dia pergi ke kantor sambil <span style=\"font-weight: 700;\">mendengarkan</span> radio di kereta.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. 聞きながら<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 閉きながら: Bentuk ini tidak ada dalam bahasa Jepang. Bisa ditulis ulang sebagai 閉めながら (しめながら), yang berarti 'sambil menutup sesuatu'.<br>2. 開きながら (ひらきながら): berarti 'sambil membuka sesuatu'.<br>3. 問きながら: Bentuk ini tidak ada dalam bahasa Jepang. Bisa ditulis ulang sebagai 問いながら (といながら), yang berarti 'sambil bertanya sesuatu'.<br>4. 聞きながら (ききながら): berarti 'sambil mendengarkan'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata kerja 聞く (きく) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Mendengarkan:<br>- Mengungkapkan tindakan mendengarkan suara, pidato, musik, dll. Ini adalah arti paling dasar dari kata '聞く' dan banyak digunakan dalam situasi sehari-hari ketika Anda ingin berbicara tentang mendengarkan sesuatu.<br>- Contoh:<br>+ 音楽を聞く。<br>おんがく を きく<br>Mendengarkan musik.<br>+ 彼の話を聞く。<br>かれ の はなし を きく<br>Mendengarkan ceritanya.<br>2. Bertanya:<br>- Digunakan untuk mengungkapkan tindakan meminta informasi dari seseorang. Dalam konteks ini, '聞く' berarti meminta informasi atau pendapat.<br>- Contoh:<br>+ 先生に質問を聞く。<br>せんせい に しつもん を きく<br>Bertanya pertanyaan kepada guru.<br>+ 道を聞く。<br>みち を きく<br>Bertanya arah.<br>3. Mematuhi, mengikuti:<br>- Digunakan untuk merujuk pada mendengarkan nasihat, instruksi, atau perintah seseorang. Dalam konteks ini, '聞く' berarti mematuhi atau mengikuti apa yang telah dikatakan.<br>- Contoh:<br>+ 親の言うことを聞く。<br>おや の いう こと を きく<br>Dengarkan orang tuamu.</div><br>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.069293478,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3302,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<u>がっこう</u>がおわってから、えいがをみに行きます。",
+                    "answers": [
+                      "学校",
+                      "学積",
+                      "学枚",
+                      "学穂"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "学校 [がっこう]:<br><ul><li>Nhà trường</li><li>Học đường</li><li>Học hiệu</li><li>Trường</li><li>Trường học</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question:&nbsp;<span style=\"font-weight: 700;\">がっこう</span>がおわってから、えいがをみに行きます。<br>Meaning: After&nbsp;<span style=\"font-weight: 700;\">school</span>, I will go to see a movie.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. 学校<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 学校 (がっこう): means 'school'.<br>2. 学積: This does not exist in Japanese.<br>3. 学枚: This does not exist in Japanese.<br>4. 学穂: This does not exist in Japanese.<br>The incorrect choices are designed to be confusing because the 木 (tree) radical in the second kanji of 校 (こう, school) looks similar to the 禾 (grain) radical in 積.<div>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 学校 (がっこう) in Japanese refers to an educational institution where students come to study. This word is used to refer to all types of schools, from elementary school to university.<br>- Example:<br>+ 学校に行く。<br>がっこう に いく<br>Go to school.<br>+ 彼女は新しい学校に通っています。<br>かのじょ は あたらしい がっこう に かよっています<br>She is attending a new school.</div>",
+                      "id_auto": "Pertanyaan:&nbsp;<span style=\"font-weight: 700;\">がっこう</span>がおわってから、えいがをみに行きます。<br>Arti: Setelah&nbsp;<span style=\"font-weight: 700;\">sekolah</span>, saya akan pergi menonton film.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. 学校<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 学校 (がっこう): artinya \"sekolah\".<br>2. 学積: Ini tidak ada dalam bahasa Jepang.<br>3. 学枚: Ini tidak ada dalam bahasa Jepang.<br>4. 学穂: Ini tidak ada dalam bahasa Jepang.<br>Pilihan yang salah dibuat agar membingungkan karena radikal 木 (pohon) pada kanji kedua dari 校 (こう, sekolah) terlihat mirip dengan radikal 禾 (biji-bijian) pada 積.<div>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 学校 (がっこう) dalam bahasa Jepang merujuk pada institusi pendidikan tempat siswa datang untuk belajar. Kata ini digunakan untuk merujuk pada semua jenis sekolah, dari sekolah dasar hingga universitas.<br>- Contoh:<br>+ 学校に行く。<br>がっこう に いく<br>Pergi ke sekolah.<br>+ 彼女は新しい学校に通っています。<br>かのじょ は あたらしい がっこう に かよっています<br>Dia bersekolah di sekolah baru.</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.05778382,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10433,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "その　ほんを　<u>よみました</u>か。",
+                    "answers": [
+                      "読みました",
+                      "話みました",
+                      "言みました",
+                      "語みました"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "<p>読みます（よみます）：(Độc) đọc</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: その　ほんを　<span style=\"font-weight: 700;\">よみました</span>か。<br>Meaning: Did you&nbsp;<span style=\"font-weight: 700;\">read</span>&nbsp;that book?<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. 読みました<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 読みました (よみました): Is the past form of the verb 読む (to read).<br>2. 話みました: Does not exist in Japanese, could be rewritten as 話しました (はなしました - spoke).<br>3. 言みました: Does not exist in Japanese, could be rewritten as 言いました (いいました - said).<br>4. 語みました: Does not exist in Japanese, could be rewritten as 語りました (かたりました - narrated).<br>The kanji all have the radical 言 and are added with みました to confuse the reader.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The dictionary form: 読む (よむ) in Japanese has the following meanings and usage contexts:<br>1. Read:<br>- Expresses the action of reading books, newspapers, documents, or any text. This is the most common meaning of the word and is used in many different contexts, from reading entertainment books to reading study materials.<br>- Example:<br>+ 本を読む。<br>ほん を よむ<br>Read a book.<br>+ 新聞を読む。<br>しんぶん を よむ<br>Read a newspaper.<div>2. Read and understand, decode:<br>- Used to indicate reading and understanding the meaning of a text or message. In this context, '読む' can be used to talk about decoding or analyzing the deeper meaning of a text.<br>- Example:<br>+ 彼の意図を読む。<br>かれ の いと を よむ<br>Read and understand his intentions.</div><div>3. Predict:<br>- In some cases, '読む' can be used to refer to predicting something based on available information. This is a less common usage but can still be encountered in contexts such as market analysis or trend forecasting.<br>- Example:<br>+ 市場の動きを読む。<br>しじょう の うごき を よむ<br>Predict market trends.</div>",
+                      "id_auto": "Pertanyaan: その　ほんを　<span style=\"font-weight: 700;\">よみました</span>か。<br>Arti: Apakah kamu sudah&nbsp;<span style=\"font-weight: 700;\">membaca</span>&nbsp;buku itu?<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG BENAR:</span><br>1. 読みました<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 読みました (よみました): Adalah bentuk lampau dari kata kerja 読む (membaca).<br>2. 話みました: Tidak ada dalam bahasa Jepang, bisa ditulis ulang sebagai 話しました (はなしました - berbicara).<br>3. 言みました: Tidak ada dalam bahasa Jepang, bisa ditulis ulang sebagai 言いました (いいました - berkata).<br>4. 語みました: Tidak ada dalam bahasa Jepang, bisa ditulis ulang sebagai 語りました (かたりました - menceritakan).<br>Kanji dari pilihan-pilihan ini semuanya memiliki radikal 言 dan ditambahkan dengan みました untuk membingungkan pembaca.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Bentuk kamus: 読む (よむ) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Membaca:<br>- Menyatakan tindakan membaca buku, koran, dokumen, atau teks apa pun. Ini adalah arti yang paling umum dari kata tersebut dan digunakan dalam banyak konteks yang berbeda, mulai dari membaca buku hiburan hingga membaca materi pelajaran.<br>- Contoh:<br>+ 本を読む。<br>ほん を よむ<br>Membaca buku.<br>+ 新聞を読む。<br>しんぶん を よむ<br>Membaca koran.<div>2. Membaca dan memahami, menguraikan:<br>- Digunakan untuk menunjukkan membaca dan memahami makna suatu teks atau pesan. Dalam konteks ini, '読む' dapat digunakan untuk berbicara tentang menguraikan atau menganalisis makna yang lebih dalam dari suatu teks.<br>- Contoh:<br>+ 彼の意図を読む。<br>かれ の いと を よむ<br>Membaca dan memahami niatnya.</div><div>3. Memprediksi:<br>- Dalam beberapa kasus, '読む' dapat digunakan untuk merujuk pada memprediksi sesuatu berdasarkan informasi yang tersedia. Ini adalah penggunaan yang kurang umum tetapi masih dapat ditemui dalam konteks seperti analisis pasar atau peramalan tren.<br>- Contoh:<br>+ 市場の動きを読む。<br>しじょう の うごき を よむ<br>Memprediksi tren pasar.</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.114247311,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "điền từ theo văn cảnh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10444,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "かいぎしつに&nbsp;________&nbsp;いません。",
+                    "answers": [
+                      "なにか",
+                      "だれも",
+                      "いつ",
+                      "どこか"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "<p>だれも いません：kh&ocirc;ng c&oacute; ai cả</p>\n<p>Trong ph&ograve;ng họp kh&ocirc;ng c&oacute; ai cả.</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<p>Question: かいぎしつに________いません。<br>Meaning: There is no ________ in the meeting room.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. なにか: Means 'something'. This word is typically used to refer to an unspecified object or matter. In this context, 'something' is not suitable because the sentence discusses the presence of people or objects in the meeting room.<br>2. だれも: Means 'no one'. This word fits the context because it indicates the absence of people in the meeting room. The sentence 'There is no one in the meeting room' is a natural and appropriate expression in this context.<br>3. いつ: Means 'when'. This word refers to time and does not fit the context of the sentence, as the sentence discusses presence in a space (the meeting room) rather than time.<br>4. どこか: Means 'somewhere'. This word refers to an unspecified location. In this context, 'somewhere' is not suitable because the sentence discusses presence in a specific location, which is the meeting room.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>2. だれも<br>Complete sentence: かいぎしつに<br>だれも<br>いません。<br>Meaning: There is no one in the meeting room.</p>",
+                      "id_auto": "```html\n<p>Pertanyaan: かいぎしつに________いません。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. なにか: Artinya \"sesuatu\". Kata ini biasanya digunakan untuk merujuk pada objek atau hal yang tidak spesifik. Dalam konteks ini, \"sesuatu\" tidak cocok karena kalimat tersebut membahas keberadaan orang atau benda di ruang rapat.<br>2. だれも: Artinya \"tidak seorang pun\". Kata ini cocok dengan konteks karena menunjukkan tidak adanya orang di ruang rapat. Kalimat \"Tidak ada seorang pun di ruang rapat\" adalah ekspresi yang alami dan tepat dalam konteks ini.<br>3. いつ: Artinya \"kapan\". Kata ini mengacu pada waktu dan tidak sesuai dengan konteks kalimat, karena kalimat tersebut membahas keberadaan di suatu tempat (ruang rapat) daripada waktu.<br>4. どこか: Artinya \"di suatu tempat\". Kata ini mengacu pada lokasi yang tidak spesifik. Dalam konteks ini, \"di suatu tempat\" tidak cocok karena kalimat tersebut membahas keberadaan di lokasi tertentu, yaitu ruang rapat.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>2. だれも<br>Kalimat lengkap: かいぎしつに<br>だれも<br>いません。</p>\n```"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.138716356,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3266,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "わたしのすきなスポーツは&nbsp;________&nbsp;です。",
+                    "answers": [
+                      "ピアノ",
+                      "レコード",
+                      "スキー",
+                      "テーブル"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "わたしのすきなスポーツは________です。<br>Meaning: My favorite sport is ________.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. ピアノ: Means 'piano'. This is a musical instrument, not a sport, so it is not suitable to fill in the blank.<br>2. レコード: Means 'record'. This is also not a sport, so it does not fit the context of the sentence.<br>3. スキー: Means 'skiing'. This is a sport, which fits the context of the question.<br>4. テーブル : Means 'table'. This is an object, not a sport, so it is not suitable to fill in the blank.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>3. スキー<br>Complete sentence: わたしのすきなスポーツはスキーです。<br>Meaning: My favorite sport is skiing.",
+                      "id_auto": "わたしのすきなスポーツは________です。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. ピアノ: Artinya 'piano'. Ini adalah alat musik, bukan olahraga, jadi tidak cocok untuk mengisi bagian kosong.<br>2. レコード: Artinya 'rekaman'. Ini juga bukan olahraga, jadi tidak sesuai dengan konteks kalimat.<br>3. スキー: Artinya 'ski'. Ini adalah olahraga, yang sesuai dengan konteks pertanyaan.<br>4. テーブル : Artinya 'meja'. Ini adalah sebuah benda, bukan olahraga, jadi tidak cocok untuk mengisi bagian kosong.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>3. スキー<br>Kalimat lengkap: わたしのすきなスポーツはスキーです。"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.102803738,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3423,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "それはとても&nbsp;________&nbsp;もんだいです。",
+                    "answers": [
+                      "たいせつな",
+                      "いろいろな",
+                      "じょうぶな",
+                      "にぎやかな"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "That is a very________problem.<br>Meaning: That is a very ________ problem.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. たいせつな (大切な): Means 'important'. Saying 'a very important problem' sounds natural and reasonable, as 'problems' are often evaluated by their level of importance.<br>2. いろいろな (色々な): Means 'various' or 'diverse'. 'A very diverse problem' is not a natural expression, as 'diverse' is not typically used with 'very' in this context.<br>3. じょうぶな (丈夫な): Means 'durable' or 'strong'. This word is usually used to describe objects or bodies, not suitable for describing a 'problem'.<br>4. にぎやかな (賑やかな): Means 'lively' or 'bustling'. This word is usually used to describe atmospheres or places, not suitable for describing a 'problem'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>1. たいせつな<br>Complete sentence: それはとてもたいせつなもんだいです。<br>Meaning: That is a very important problem.",
+                      "id_auto": "Itu adalah masalah yang sangat________.<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. たいせつな (大切な): Artinya \"penting\". Mengatakan \"masalah yang sangat penting\" terdengar wajar dan masuk akal, karena \"masalah\" sering dievaluasi berdasarkan tingkat kepentingannya.<br>2. いろいろな (色々な): Artinya \"berbagai\" atau \"beragam\". \"Masalah yang sangat beragam\" bukanlah ungkapan yang alami, karena \"beragam\" tidak biasanya digunakan dengan \"sangat\" dalam konteks ini.<br>3. じょうぶな (丈夫な): Artinya \"awet\" atau \"kuat\". Kata ini biasanya digunakan untuk menggambarkan benda atau tubuh, tidak cocok untuk menggambarkan \"masalah\".<br>4. にぎやかな (賑やかな): Artinya \"ramai\" atau \"meriah\". Kata ini biasanya digunakan untuk menggambarkan suasana atau tempat, tidak cocok untuk menggambarkan \"masalah\".<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>1. たいせつな<br>Kalimat lengkap: それはとてもたいせつなもんだいです。"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.265993265,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "thay đổi cách nói",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 19358,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p>あしたミンちゃんに<u>あやまります。</u></p>",
+                    "image": "",
+                    "answers": [
+                      "「ありがとう」といいます",
+                      "「ごめんなさい」といいます",
+                      "「おねがいします」といいます",
+                      "「おだいじに」といいます"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>あやまります=ごめんなさい」といいます : in lỗi</p><p>Ng&agrave;y mai sẽ xin lỗi Minh</p><p>1.N&oacute;i cảm ơn</p><p>2.N&oacute;i xin lối</p><p>3.N&oacute;i nhờ</p><p>4.N&oacute;i ch&uacute;c mau khỏe</p>",
+                    "explainAll": {
+                      "en": "あしたミンちゃんに<span style=\"font-weight: 700;\">あやまります。</span><br>How to read: あしたミンちゃんに<span style=\"font-weight: 700;\">あやまります。</span><br>Meaning: Tomorrow, I will&nbsp;<span style=\"font-weight: 700;\">apologize</span>&nbsp;to Min-chan.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 「ありがとう」といいます: Means 'I will say 'thank you''. This sentence expresses gratitude and is not synonymous with apologizing as in the original sentence.<br>2. 「ごめんなさい」といいます: Means 'I will say 'I'm sorry''. This is the correct answer, as the verb 'あやまる' can be expressed as 'saying sorry'.<br>3. 「おねがいします」といいます: Means 'I will say 'please''. This sentence expresses a request or wish for something and is not related to apologizing.<br>4. 「おだいじに」といいます: Means 'I will say 'take care''. This phrase is used when comforting someone and is not synonymous with 'あやまります'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. 「ごめんなさい」といいます<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Some synonyms or related words that you can use when expressing an apology in Japanese include:<br>1. お詫びします (おわびします): Expresses the act of apologizing, showing more sincerity and formality.<br>2. 謝ります (あやまります): Simply indicates the act of apologizing. This is the most direct word and is the same as in the original sentence.<br>3. すみません: This word is often used to apologize or thank.<br>4. 許してください (ゆるしてください): Means 'please forgive me', often used in cases of deep apology or when you have made a big mistake.<br>5. ごめんなさい: A gentle and common way to apologize, often used in daily communication.",
+                      "id_auto": "あしたミンちゃんに<span style=\"font-weight: 700;\">あやまります。</span><br>Cara membaca: あしたミンちゃんに<span style=\"font-weight: 700;\">あやまります。</span><br>Arti: Besok, saya akan <span style=\"font-weight: 700;\">meminta maaf</span> kepada Min-chan.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 「ありがとう」といいます: Artinya 'Saya akan mengucapkan 'terima kasih''. Kalimat ini mengungkapkan rasa syukur dan tidak sama dengan meminta maaf seperti dalam kalimat aslinya.<br>2. 「ごめんなさい」といいます: Artinya 'Saya akan mengucapkan 'maaf''. Ini adalah jawaban yang benar, karena kata kerja 'あやまる' dapat diungkapkan sebagai 'mengucapkan maaf'.<br>3. 「おねがいします」といいます: Artinya 'Saya akan mengucapkan 'tolong''. Kalimat ini mengungkapkan permintaan atau harapan untuk sesuatu dan tidak berhubungan dengan meminta maaf.<br>4. 「おだいじに」といいます: Artinya 'Saya akan mengucapkan 'semoga cepat sembuh''. Frasa ini digunakan saat menghibur seseorang dan tidak sinonim dengan 'あやまります'.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. 「ごめんなさい」といいます<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Beberapa sinonim atau kata terkait yang dapat Anda gunakan saat mengungkapkan permintaan maaf dalam bahasa Jepang meliputi:<br>1. お詫びします (おわびします): Mengungkapkan tindakan meminta maaf, menunjukkan lebih banyak ketulusan dan formalitas.<br>2. 謝ります (あやまります): Hanya menunjukkan tindakan meminta maaf. Ini adalah kata yang paling langsung dan sama dengan dalam kalimat aslinya.<br>3. すみません: Kata ini sering digunakan untuk meminta maaf atau berterima kasih.<br>4. 許してください (ゆるしてください): Artinya 'tolong maafkan saya', sering digunakan dalam kasus permintaan maaf yang mendalam atau ketika Anda telah melakukan kesalahan besar.<br>5. ごめんなさい: Cara yang lembut dan umum untuk meminta maaf, sering digunakan dalam komunikasi sehari-hari."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.29224652,
+                "scores": [
+                  5
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 19527,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p>きょうのテストは　　<u>むずかしくなかった</u>　と　おもいます。</p>",
+                    "image": "",
+                    "answers": [
+                      "やさしくなかった",
+                      "かんたんだった",
+                      "くるしかった",
+                      "すずしかった"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>むずかしくなかった　＝かんたんだった: &nbsp; dễ</p><p>1. kh&ocirc;ng dễ</p><p>2.dễ</p><p>3. kh&oacute; khăn</p><p>4. m&aacute;t mẻ</p>",
+                    "explainAll": {
+                      "en": "きょうのテストは　<b>むずかしくなかった</b>　と　おもいます。<br>Meaning: I think today's test was&nbsp;<b>not difficult</b>.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. やさしくなかった: Means 'was not easy'. This is the opposite of the original sentence, so it is not the correct answer.<br>2. かんたんだった: Means 'was easy'. This word has a similar meaning to 'not difficult,' since if the test was not difficult, it can be said that it was easy (かんたんだった). This is a synonymous choice.<br>3. くるしかった: Means 'was painful'. This is directly opposite to 'むずかしくなかった', so it is not synonymous.<br>4. すずしかった: Means 'was cool'. This word has nothing to do with describing the difficulty of the test, so it cannot be considered a synonymous choice.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. かんたんだった<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Some words that are synonymous or nearly synonymous with 'むずかしくなかった' may include:<br>1. 易しい (やさしい): Easy. This word is the opposite of 'difficult' and is used to indicate something that is not complicated or easy to understand.<br>2. 簡単な (かんたんな): Also means 'simple'. However, this word can be used in the form of an adjective to describe an object.<br>3. すんなり: Smoothly, easily, without difficulty. This expression is often used when talking about completing a task without any obstacles.",
+                      "id_auto": "<b>きょうのテストは　むずかしくなかった　と　おもいます。</b><br>Arti: Saya pikir tes hari ini <b>tidak sulit</b>.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. やさしくなかった: Artinya 'tidak mudah'. Ini adalah kebalikan dari kalimat aslinya, jadi ini bukan jawaban yang benar.<br>2. かんたんだった: Artinya 'mudah'. Kata ini memiliki arti yang mirip dengan 'tidak sulit,' karena jika tes tidak sulit, dapat dikatakan bahwa itu mudah (かんたんだった). Ini adalah pilihan sinonim.<br>3. くるしかった: Artinya 'menyakitkan'. Ini berlawanan langsung dengan 'むずかしくなかった', jadi itu bukan sinonim.<br>4. すずしかった: Artinya 'sejuk'. Kata ini tidak ada hubungannya dengan menggambarkan kesulitan tes, jadi tidak dapat dianggap sebagai pilihan sinonim.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. かんたんだった<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Beberapa kata yang sinonim atau hampir sinonim dengan 'むずかしくなかった' mungkin termasuk:<br>1. 易しい (やさしい): Mudah. Kata ini adalah lawan dari 'sulit' dan digunakan untuk menunjukkan sesuatu yang tidak rumit atau mudah dipahami.<br>2. 簡単な (かんたんな): Juga berarti 'sederhana'. Namun, kata ini dapat digunakan dalam bentuk kata sifat untuk menggambarkan suatu objek.<br>3. すんなり: Lancar, mudah, tanpa kesulitan. Ungkapan ini sering digunakan ketika berbicara tentang menyelesaikan tugas tanpa hambatan."
+                    },
+                    "explain_en": "<p>むずかしくなかった　＝かんたんだった: &nbsp;easy</p><p>1. not easy</p><p>2. easy</p><p>3. painful</p><p>4. cool</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.199152542,
+                "scores": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-05-09T06:49:22.000Z",
+    "updated_at": "2025-06-06T01:02:52.000Z"
+  }
+}

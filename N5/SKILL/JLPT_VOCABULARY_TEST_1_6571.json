@@ -1,0 +1,496 @@
+{
+  "Questions": {
+    "id": 6571,
+    "type": 3,
+    "title": "Vocabulary Test 1",
+    "level": 5,
+    "time": 10,
+    "score": 40,
+    "pass_score": 19,
+    "parts": [
+      {
+        "time": 10,
+        "min_score": 19,
+        "max_score": 40,
+        "name": "文字・語彙",
+        "content": [
+          {
+            "kind": "cách đọc kanji",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3478,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "&nbsp;長いやすみに<u>母</u>と外国へりょこうしたいです。",
+                    "answers": [
+                      "あに",
+                      "あね",
+                      "ちち",
+                      "はは"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "母 [はは]:<br><ul><li>Thân mẫu</li><li>Má</li><li>Mẹ</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 母<br>How to read: はは<br>Meaning: mother<br>Question: 長いやすみに<u>母</u>と外国へりょこうしたいです。<br>How to read: ながいやすみに<u>はは</u>とがいこくへりょこうしたいです。<br>Meaning: I want to travel abroad with my&nbsp;<u>mother</u>&nbsp;during the long vacation.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. はは<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. あに: This is how to read '兄' (older brother).<br>2. あね: This is how to read '姉' (older sister).<br>3. ちち: This is how to read '父' (father).<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>In Japanese, how you refer to family members changes depending on the situation (when talking about your own family versus someone else's) and the level of familiarity. Here are some common ways to refer to family:<br>Father:<br><ul><li>父 (ちち): How to say 'father' when talking about your own father to someone else.</li><li>お父さん (おとうさん): Used when respectfully calling your own father or when talking about someone else's father.</li></ul>Mother:<br><ul><li>母 (はは): How to say 'mother' when talking about your own mother to someone else.</li><li>お母さん (おかあさん): Used when respectfully calling your own mother or when talking about someone else's mother.</li></ul>Older brother:<br><ul><li>兄 (あに): How to say 'older brother' when talking about your own older brother to someone else.</li><li>お兄さん (おにいさん): Used when respectfully calling your own older brother or when talking about someone else's brother.</li></ul>Older sister:<br><ul><li>姉 (あね): How to say 'older sister' when talking about your own older sister to someone else.</li><li>お姉さん (おねえさん): Used when respectfully calling your own older sister or when talking about someone else's sister.</li></ul>Younger brother:<br><ul><li>弟 (おとうと): How to say 'younger brother' when talking about your own younger brother. Polite language is generally not used.</li><li>弟さん (おとうとさん): Used when talking about someone else's younger brother.</li></ul>Younger sister:<br><ul><li>妹 (いもうと): How to say 'younger sister' when talking about your own younger sister. Polite language is generally not used.</li><li>妹さん (いもうとさん): Used when talking about someone else's younger sister.</li></ul>Grandfather:<br><ul><li>祖父 (そふ): How to say 'grandfather' when talking about your own grandfather to someone else.</li><li>おじいさん: Used when respectfully calling your own grandfather or when talking about someone else's grandfather.</li></ul>Grandmother:<br><ul><li>祖母 (そぼ): How to say 'grandmother' when talking about your own grandmother to someone else.</li><li>おばあさん: Used when respectfully calling your own grandmother or when talking about someone else's grandmother.</li></ul>",
+                      "id_auto": "Kata: 母<br>Cara membaca: はは<br>Arti: ibu<br>Pertanyaan: 長いやすみに<u>母</u>と外国へりょこうしたいです。<br>Cara membaca: ながいやすみに<u>はは</u>とがいこくへりょこうしたいです。<br>Arti: Saya ingin berlibur ke luar negeri dengan <u>ibu</u> saat liburan panjang.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. はは<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. あに: Ini adalah cara membaca '兄' (kakak laki-laki).<br>2. あね: Ini adalah cara membaca '姉' (kakak perempuan).<br>3. ちち: Ini adalah cara membaca '父' (ayah).<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Dalam bahasa Jepang, cara Anda menyebut anggota keluarga berubah tergantung pada situasinya (ketika berbicara tentang keluarga Anda sendiri versus keluarga orang lain) dan tingkat keakraban. Berikut adalah beberapa cara umum untuk menyebut keluarga:<br>Ayah:<br><ul><li>父 (ちち): Cara mengatakan 'ayah' ketika berbicara tentang ayah Anda sendiri kepada orang lain.</li><li>お父さん (おとうさん): Digunakan ketika dengan hormat memanggil ayah Anda sendiri atau ketika berbicara tentang ayah orang lain.</li></ul>Ibu:<br><ul><li>母 (はは): Cara mengatakan 'ibu' ketika berbicara tentang ibu Anda sendiri kepada orang lain.</li><li>お母さん (おかあさん): Digunakan ketika dengan hormat memanggil ibu Anda sendiri atau ketika berbicara tentang ibu orang lain.</li></ul>Kakak laki-laki:<br><ul><li>兄 (あに): Cara mengatakan 'kakak laki-laki' ketika berbicara tentang kakak laki-laki Anda sendiri kepada orang lain.</li><li>お兄さん (おにいさん): Digunakan ketika dengan hormat memanggil kakak laki-laki Anda sendiri atau ketika berbicara tentang kakak laki-laki orang lain.</li></ul>Kakak perempuan:<br><ul><li>姉 (あね): Cara mengatakan 'kakak perempuan' ketika berbicara tentang kakak perempuan Anda sendiri kepada orang lain.</li><li>お姉さん (おねえさん): Digunakan ketika dengan hormat memanggil kakak perempuan Anda sendiri atau ketika berbicara tentang kakak perempuan orang lain.</li></ul>Adik laki-laki:<br><ul><li>弟 (おとうと): Cara mengatakan 'adik laki-laki' ketika berbicara tentang adik laki-laki Anda sendiri. Bahasa sopan umumnya tidak digunakan.</li><li>弟さん (おとうとさん): Digunakan ketika berbicara tentang adik laki-laki orang lain.</li></ul>Adik perempuan:<br><ul><li>妹 (いもうと): Cara mengatakan 'adik perempuan' ketika berbicara tentang adik perempuan Anda sendiri. Bahasa sopan umumnya tidak digunakan.</li><li>妹さん (いもうとさん): Digunakan ketika berbicara tentang adik perempuan orang lain.</li></ul>Kakek:<br><ul><li>祖父 (そふ): Cara mengatakan 'kakek' ketika berbicara tentang kakek Anda sendiri kepada orang lain.</li><li>おじいさん: Digunakan ketika dengan hormat memanggil kakek Anda sendiri atau ketika berbicara tentang kakek orang lain.</li></ul>Nenek:<br><ul><li>祖母 (そぼ): Cara mengatakan 'nenek' ketika berbicara tentang nenek Anda sendiri kepada orang lain.</li><li>おばあさん: Digunakan ketika dengan hormat memanggil nenek Anda sendiri atau ketika berbicara tentang nenek orang lain.</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.089940444,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3083,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "ほんださんの右に<u>小さい</u>いすがあります。",
+                    "answers": [
+                      "こさい",
+                      "しいさい",
+                      "しょうさい",
+                      "ちいさい"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "小さい [ちいさい]:<br><ul><li>Thấp bé</li><li>Còm</li><li>Bé nhỏ</li><li>Nhỏ</li><li>Nhỏ bé</li><li>Tí hon</li><li>Tí</li><li>Bé bỏng</li><li>Bé</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 小さい<br>How to read: ちいさい<br>Meaning: small<br>Question: ほんださんの右に<u>小さい</u>いすがあります。<br>How to read: ほんださんの みぎに<u>ちいさい</u>いすがあります。<br>Meaning: There is a&nbsp;<u>small</u>&nbsp;chair to the right of Mr. Honda.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. ちいさい<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. こさい: There is no word in Japanese with this reading.<br>2. しいさい: There is no word in Japanese with this reading.<br>3. しょうさい: This is the reading for the word '詳細' (shousai), which means 'details'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The kanji '小' means 'small' and has the following common readings:<br><p style=\"display: inline !important;\">1. Kun'yomi:&nbsp;</p>ちいさい, こ, お,&nbsp;さ<br>Example:<br><ul><li>小さいころ (ちいさいころ): childhood</li><li>小川 (おがわ): stream</li><li>小さじ (こさじ): teaspoon</li><li>小包 (こづつみ): small package</li><li>小波 (さざなみ): ripple, small wave</li></ul><p style=\"display: inline !important;\">2. On'yomi:&nbsp;</p>しょう<br>Example:<br><ul><li>小学校 (しょうがっこう): elementary school</li><li>小説 (しょうせつ): novel</li></ul>",
+                      "id_auto": "Kata: 小さい<br>Cara membaca: ちいさい<br>Arti: kecil<br>Pertanyaan: ほんださんの右に<u>小さい</u>いすがあります。<br>Cara membaca: ほんださんの みぎに<u>ちいさい</u>いすがあります。<br>Arti: Di sebelah kanan Tuan Honda ada kursi <u>kecil</u>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. ちいさい<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. こさい: Tidak ada kata dalam bahasa Jepang dengan cara baca ini.<br>2. しいさい: Tidak ada kata dalam bahasa Jepang dengan cara baca ini.<br>3. しょうさい: Ini adalah cara baca untuk kata '詳細' (shousai), yang berarti 'detail' atau 'rincian'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji '小' berarti 'kecil' dan memiliki cara baca umum sebagai berikut:<br><p style=\"display: inline !important;\">1. Kun'yomi:&nbsp;</p>ちいさい, こ, お,&nbsp;さ<br>Contoh:<br><ul><li>小さいころ (ちいさいころ): masa kecil</li><li>小川 (おがわ): sungai kecil</li><li>小さじ (こさじ): sendok teh</li><li>小包 (こづつみ): paket kecil</li><li>小波 (さざなみ): riak, ombak kecil</li></ul><p style=\"display: inline !important;\">2. On'yomi:&nbsp;</p>しょう<br>Contoh:<br><ul><li>小学校 (しょうがっこう): sekolah dasar</li><li>小説 (しょうせつ): novel</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.090324718,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3367,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きのうの朝は七時におきました。<u>雨</u>がふってさむかったから、あついコーヒーを飲みました。",
+                    "answers": [
+                      "あめ",
+                      "ゆき",
+                      "くも",
+                      "はれ"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "雨 [あめ]:<br><ul><li>Trận mưa</li><li>Mưa</li><li>Cơn mưa</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 雨<br>How to read: あめ<br>Meaning: rain<br>Question: きのうの朝は七時におきました。<u>雨</u>がふってさむかったから、あついコーヒーを飲みました。<br>How to read: きのうのあさはしちじにおきました。<u>あめ</u>がふってさむかったから、あついコーヒーをのみました。<br>Meaning: Yesterday morning, I woke up at seven o'clock. Because it was&nbsp;<u>raining</u>&nbsp;and cold, I drank hot coffee.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. あめ<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>2. ゆき: This is how to read 雪, which means 'snow'.<br>3. くも: This is how to read 雲, which means 'cloud'.<br>4. はれ: This is how to read 晴れ, which means 'clear weather, sunny'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The kanji 雨 means rain. This is a basic kanji in Japanese with the following readings:<br>1. Kun'yomi readings:<br><ul><li>あめ: Used when standing alone or in pure Japanese words. Example: 大雨 (おおあめ) - Heavy rain</li><li>さめ: Example: 小雨 (こさめ) - Light rain, drizzle</li><li>あま: Example: 雨具 (あまぐ) - Rain gear (raincoat, umbrella, etc.)</li></ul>2. On'yomi readings (Sino-Japanese reading):<br><ul><li>う: Example: 梅雨 (ばいう or つゆ) - Rainy season</li></ul>",
+                      "id_auto": "Kata: 雨<br>Cara membaca: あめ<br>Arti: hujan<br>Pertanyaan: きのうの朝は七時におきました。<u>雨</u>がふってさむかったから、あついコーヒーを飲みました。<br>Cara membaca: きのうのあさはしちじにおきました。<u>あめ</u>がふってさむかったから、あついコーヒーをのみました。<br>Arti: Kemarin pagi, saya bangun jam tujuh. Karena <u>hujan</u> dan dingin, saya minum kopi panas.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. あめ<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>2. ゆき: Ini adalah cara membaca 雪, yang berarti 'salju'.<br>3. くも: Ini adalah cara membaca 雲, yang berarti 'awan'.<br>4. はれ: Ini adalah cara membaca 晴れ, yang berarti 'cuaca cerah, cerah'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji 雨 berarti hujan. Ini adalah kanji dasar dalam bahasa Jepang dengan bacaan sebagai berikut:<br>1. Pembacaan Kun'yomi:<br><ul><li>あめ: Digunakan ketika berdiri sendiri atau dalam kata-kata Jepang murni. Contoh: 大雨 (おおあめ) - Hujan deras</li><li>さめ: Contoh: 小雨 (こさめ) - Hujan ringan, gerimis</li><li>あま: Contoh: 雨具 (あまぐ) - Perlengkapan hujan (jas hujan, payung, dll.)</li></ul>2. Pembacaan On'yomi (Pembacaan Sino-Jepang):<br><ul><li>う: Contoh: 梅雨 (ばいう atau つゆ) - Musim hujan</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.037768785,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "cách viết từ",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3298,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "いいてんきですから、そとで<u>たべ</u>ましょう。",
+                    "answers": [
+                      "食べ",
+                      "口べ",
+                      "葦べ",
+                      "養べ"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: いいてんきですから、そとで<span style=\"font-weight: 700;\">たべ</span>ましょう。<br>Meaning: Because the weather is nice, let's&nbsp;<span style=\"font-weight: 700;\">eat</span>&nbsp;out.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. 食べ<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 食べ (たべ): This is the correct way to write 'eat' in Japanese. The dictionary form of this kanji is 食べる (たべる).<br>2. 口べ: This does not exist in Japanese.<br>3. 葦べ: This does not exist in Japanese.<br>4. 養べ: This does not exist in Japanese.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 食べる (たべる) in Japanese has the following meanings and usage contexts:<br>1. Eat:<br>- Expresses the action of eating or consuming food. This is the most basic and common meaning of the word, used in almost all contexts related to daily eating.<br>- Example:<br>+ ご飯を食べる。<br>ごはん を たべる。<br>Eat rice.<br>+ 彼女は果物を食べるのが好きです。<br>かのじょ は くだもの を たべる の が すき です。<br>She likes to eat fruit.<br>2. To make a living:<div>- In some contexts, '食べる' can be used to refer to making a living, often in phrases like '食べていく' (to live by some means).<br>- Example:<br>+ 彼は音楽で食べている。<br>かれ は おんがく で たべている。<br>He makes a living from music.</div>",
+                      "id_auto": "Pertanyaan: いいてんきですから、そとで<span style=\"font-weight: 700;\">たべ</span>ましょう。<br>Arti: Karena cuacanya bagus, mari kita&nbsp;<span style=\"font-weight: 700;\">makan</span>&nbsp;di luar.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. 食べ<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 食べ (たべ): Ini adalah cara yang benar untuk menulis 'makan' dalam bahasa Jepang. Bentuk kamus dari kanji ini adalah 食べる (たべる).<br>2. 口べ: Kata ini tidak ada dalam bahasa Jepang.<br>3. 葦べ: Kata ini tidak ada dalam bahasa Jepang.<br>4. 養べ: Kata ini tidak ada dalam bahasa Jepang.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 食べる (たべる) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Makan:<br>- Menyatakan tindakan makan atau mengonsumsi makanan. Ini adalah arti paling dasar dan umum dari kata tersebut, digunakan di hampir semua konteks yang berhubungan dengan makan sehari-hari.<br>- Contoh:<br>+ ご飯を食べる。<br>ごはん を たべる。<br>Makan nasi.<br>+ 彼女は果物を食べるのが好きです。<br>かのじょ は くだもの を たべる の が すき です。<br>Dia suka makan buah.<br>2. Mencari nafkah:<div>- Dalam beberapa konteks, '食べる' dapat digunakan untuk merujuk pada mencari nafkah, seringkali dalam frasa seperti '食べていく' (untuk hidup dengan cara tertentu).<br>- Contoh:<br>+ 彼は音楽で食べている。<br>かれ は おんがく で たべている。<br>Dia mencari nafkah dari musik.</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.023832221,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3103,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "たなかさんのおかあさんは、<u>かようび</u>にそのみせではんかちをかいました。",
+                    "answers": [
+                      "日曜日",
+                      "火曜日",
+                      "水曜日",
+                      "土曜日"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "火曜日 [かようび]: Thứ ba; ngày thứ ba",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: たなかさんのおかあさんは、<span style=\"font-weight: 700;\">かようび</span>にそのみせではんかちをかいました。<br>Meaning: Tanaka's mother bought a handkerchief at that store on&nbsp;<span style=\"font-weight: 700;\">Tuesday</span>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. 火曜日<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 日曜日 (にちようび): means 'Sunday'.<br>2. 火曜日 (かようび): means 'Tuesday'.<br>3. 水曜日 (すいようび): means 'Wednesday'.<br>4. 土曜日 (どようび): means 'Saturday'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 火曜日 (かようび) in Japanese means 'Tuesday', which refers to the third day of the week. This word is used in contexts related to time, schedules, and daily activities.<br>- Example:<br>+ 火曜日に会議があります。<br>かようび に かいぎ が あります。<br>I have a meeting on Tuesday.<br>+ 火曜日は忙しいです。<br>かようび は いそがしい です。<br>I am busy on Tuesday.",
+                      "id_auto": "Pertanyaan: たなかさんのおかあさんは、<span style=\"font-weight: 700;\">かようび</span>にそのみせではんかちをかいました。<br>Arti: Ibu Tanaka membeli sapu tangan di toko itu pada hari <span style=\"font-weight: 700;\">Selasa</span>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. 火曜日<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 日曜日 (にちようび): artinya 'Minggu'.<br>2. 火曜日 (かようび): artinya 'Selasa'.<br>3. 水曜日 (すいようび): artinya 'Rabu'.<br>4. 土曜日 (どようび): artinya 'Sabtu'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 火曜日 (かようび) dalam bahasa Jepang berarti 'Selasa', yang merujuk pada hari ketiga dalam seminggu. Kata ini digunakan dalam konteks yang berkaitan dengan waktu, jadwal, dan kegiatan sehari-hari.<br>- Contoh:<br>+ 火曜日に会議があります。<br>かようび に かいぎ が あります。<br>Saya ada rapat pada hari Selasa.<br>+ 火曜日は忙しいです。<br>かようび は いそがしい です。<br>Saya sibuk pada hari Selasa."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.045207956,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3375,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "ドアの　<u>みぎ</u>に　でんきに　すいっちが　あります。",
+                    "answers": [
+                      "右",
+                      "石",
+                      "後",
+                      "戸"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "右 [みぎ]:<br><ul><li>Bên phải; phía bên phải</li><li>Hữu</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: ドアの<span style=\"font-weight: 700;\">みぎ</span>にでんきにスイッチがあります。<br>Meaning: There is an electrical switch on the&nbsp;<span style=\"font-weight: 700;\">right</span>&nbsp;side of the door.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. 右<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 右 (みぎ): means 'right'.<br>2. 石 (いし): means 'stone'.<br>3. 後 (あと): means 'behind'.<br>4. 戸 (と): means 'door'.<br>Choices 1, 2, and 4 are designed to be confusing because they all contain the 口 radical in their writing.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 右 (みぎ) in Japanese has the following meanings and usage contexts:<br>1. Right side:<br>- Expresses the position or direction to the right. It is often used in contexts such as giving directions, describing the position of an object, or when specifying a direction of movement. This is the most common meaning of the word '右'.<br>- Example:<br>+ 右に曲がる。<br>みぎ に まがる<br>Turn right.<br>+ 右手にペンを持つ。<br>みぎて に ぺん を もつ<br>Hold the pen in your right hand.<br>2. Figurative meaning - Priority:<br>- In some contexts, '右' can be used to indicate priority or greater importance, often in the idiom below:<br>+ 右に出る者がない。<br>みぎ に でる もの が ない<br>No one can surpass (meaning no one is better).",
+                      "id_auto": "Pertanyaan: ドアの<span style=\"font-weight: 700;\">みぎ</span>にでんきにスイッチがあります。<br>Arti: Ada saklar listrik di sisi <span style=\"font-weight: 700;\">kanan</span> pintu.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. 右<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 右 (みぎ): berarti \"kanan\".<br>2. 石 (いし): berarti \"batu\".<br>3. 後 (あと): berarti \"belakang\".<br>4. 戸 (と): berarti \"pintu\".<br>Pilihan 1, 2, dan 4 sengaja dibuat membingungkan karena semuanya mengandung radikal 口 dalam penulisannya.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 右 (みぎ) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Sisi kanan:<br>- Menyatakan posisi atau arah ke kanan. Sering digunakan dalam konteks seperti memberikan arahan, menggambarkan posisi suatu objek, atau saat menentukan arah gerakan. Ini adalah arti yang paling umum dari kata \"右\".<br>- Contoh:<br>+ 右に曲がる。<br>みぎ に まがる<br>Belok kanan.<br>+ 右手にペンを持つ。<br>みぎて に ぺん を もつ<br>Memegang pena di tangan kanan.<br>2. Makna kiasan - Prioritas:<br>- Dalam beberapa konteks, \"右\" dapat digunakan untuk menunjukkan prioritas atau kepentingan yang lebih besar, seringkali dalam idiom di bawah ini:<br>+ 右に出る者がない。<br>みぎ に でる もの が ない<br>Tidak ada yang bisa melampaui (berarti tidak ada yang lebih baik)."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.07875579,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "điền từ theo văn cảnh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10312,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "この&nbsp;________&nbsp;は　あまくて　おいしいです。",
+                    "answers": [
+                      "せっけん",
+                      "フォク",
+                      "はなび",
+                      "おかし"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "<p>あまい：ngọt 　</p>\n<p>おいしい：ngon</p>\n<p>おかし：kẹo</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<p>この________はあまくて　おいしいです。<br>Meaning: This ________ is sweet and delicious.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. せっけん (石鹸): Means 'soap'. Soap is not something to eat, so it cannot be sweet and delicious. Therefore, this word does not fit the context of the sentence.<br>2. フォク: Means 'fork'. This is an eating utensil, not food, so it cannot be sweet and delicious. Therefore, this word does not fit the context of the sentence.<br>3. はなび (花火): Means 'fireworks'. Fireworks are not food and cannot be eaten, so they cannot be sweet and delicious. Therefore, this word does not fit the context of the sentence.<br>4. おかし (お菓子): Means 'candy'. Candy is a food that can be sweet and delicious, so this word fits the context of the sentence perfectly.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>4. おかし<br>Complete sentence: このおかしはあまくて　おいしいです。<br>Meaning: This candy is sweet and delicious.</p>",
+                      "id_auto": "<p>この________はあまくて　おいしいです。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. せっけん (石鹸): Artinya \"sabun\". Sabun bukanlah sesuatu untuk dimakan, jadi tidak mungkin manis dan enak. Oleh karena itu, kata ini tidak sesuai dengan konteks kalimat.<br>2. フォク: Artinya \"garpu\". Ini adalah alat makan, bukan makanan, jadi tidak mungkin manis dan enak. Oleh karena itu, kata ini tidak sesuai dengan konteks kalimat.<br>3. はなび (花火): Artinya \"kembang api\". Kembang api bukanlah makanan dan tidak bisa dimakan, jadi tidak mungkin manis dan enak. Oleh karena itu, kata ini tidak sesuai dengan konteks kalimat.<br>4. おかし (お菓子): Artinya \"permen\". Permen adalah makanan yang bisa manis dan enak, jadi kata ini sangat sesuai dengan konteks kalimat.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>4. おかし<br>Kalimat lengkap: このおかしはあまくて　おいしいです。</p>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.109848484,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3382,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "つぎの　かどを　みぎに&nbsp;________。",
+                    "answers": [
+                      "まがります",
+                      "わたります",
+                      "のぼります",
+                      "とまります"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "つぎの　かどを　みぎに________。<br>Meaning:Turn right at the next corner.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. まがります (曲がります): Means 'turn'. This verb indicates changing direction, which fits the context of 'turn right at the next corner'.<br>2. わたります (渡ります): Means 'cross'. It is often used when talking about crossing a street, bridge, river, etc. It does not fit the context of 'turn right'.<br>3. のぼります (登ります): Means 'climb'. It is often used when talking about climbing a mountain, stairs, etc. It does not fit the context of 'turn right'.<br>4. とまります (止まります): Means 'stop'. It is often used when talking about stopping at a certain position. It does not fit the context of 'turn right'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>1. まがります<br>Complete sentence: つぎの　かどを　みぎに　まがります。<br>Meaning: Turn right at the next corner.",
+                      "id_auto": "つぎの　かどを　みぎに________。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. まがります (曲がります): Artinya \"belok\". Kata kerja ini menunjukkan perubahan arah, yang sesuai dengan konteks \"belok kanan di sudut berikutnya\".<br>2. わたります (渡ります): Artinya \"menyeberang\". Ini sering digunakan ketika berbicara tentang menyeberangi jalan, jembatan, sungai, dll. Tidak sesuai dengan konteks \"belok kanan\".<br>3. のぼります (登ります): Artinya \"mendaki\". Ini sering digunakan ketika berbicara tentang mendaki gunung, tangga, dll. Tidak sesuai dengan konteks \"belok kanan\".<br>4. とまります (止まります): Artinya \"berhenti\". Ini sering digunakan ketika berbicara tentang berhenti di posisi tertentu. Tidak sesuai dengan konteks \"belok kanan\".<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>1. まがります<br>Kalimat lengkap: つぎの　かどを　みぎに　まがります。"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.206730769,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10316,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きのうの　パーティーは&nbsp;________&nbsp;でしたか。",
+                    "answers": [
+                      "どれ",
+                      "どうして",
+                      "どう",
+                      "だれ"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>どう : như thế n&agrave;o (d&ugrave;ng để hỏi về t&iacute;nh từ)</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "きのうの　パーティーは________でしたか。<br>Meaning: Yesterday's party was ________ like?<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. どれ: Means 'which'. This word is often used to ask about a choice between multiple options. In this context, 'Yesterday's party was which like?' does not make sense and is not appropriate.<br>2. どうして: Means 'why'. This word is used to ask for a reason or cause. The question 'Yesterday's party why?' does not make sense and is not appropriate for the context.<br>3. どう: Means 'how'. This word is used to ask about a state or feeling. The question 'Yesterday's party how?' is a natural and appropriate question to ask about the impression or state of the party.<br>4. だれ: Means 'who'. This word is used to ask about a person. The question 'Yesterday's party who?' does not make sense and is not appropriate for the context.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>3. どう<br>Complete sentence: きのうのパーティーはどうでしたか。<br>Meaning: How was yesterday's party?",
+                      "id_auto": "きのうの　パーティーは________でしたか。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. どれ: Artinya \"yang mana\". Kata ini sering digunakan untuk menanyakan tentang pilihan di antara beberapa opsi. Dalam konteks ini, \"Pesta kemarin yang mana bagaimana?\" tidak masuk akal dan tidak sesuai.<br>2. どうして: Artinya \"mengapa\". Kata ini digunakan untuk menanyakan alasan atau penyebab. Pertanyaan \"Pesta kemarin mengapa?\" tidak masuk akal dan tidak sesuai untuk konteksnya.<br>3. どう: Artinya \"bagaimana\". Kata ini digunakan untuk menanyakan tentang keadaan atau perasaan. Pertanyaan \"Pesta kemarin bagaimana?\" adalah pertanyaan yang wajar dan sesuai untuk menanyakan kesan atau keadaan pesta.<br>4. だれ: Artinya \"siapa\". Kata ini digunakan untuk menanyakan tentang seseorang. Pertanyaan \"Pesta kemarin siapa?\" tidak masuk akal dan tidak sesuai untuk konteksnya.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>3. どう<br>Kalimat lengkap: きのうのパーティーはどうでしたか。<br>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.119047619,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "thay đổi cách nói",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 19363,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p><u>いくら大変(たいへん)でも、諦(あきら)めません。</u></p>",
+                    "image": "",
+                    "answers": [
+                      "いくら大変(たいへん)でも、がんばります",
+                      "いくら大変(たいへん)だったら、やめます",
+                      "いくら大変(たいへん)だったら、がんばります",
+                      "いくら大変(たいへん)でも、辞やめます"
+                    ],
+                    "correctAnswer": 0,
+                    "explain_vn": "<p>諦(あきら)めません=がんばります: Kh&ocirc;ng từ bỏ, cố gắng</p><p>D&ugrave; kh&oacute; khăn bao nhi&ecirc;u th&igrave; cũng kh&ocirc;ng từ bỏ</p><p>1.D&ugrave; kh&oacute; khăn bao nhi&ecirc;u th&igrave; cũng sẽ cố gắng</p><p>2.Nếu kh&oacute; khăn sẽ từ bỏ</p><p>3.Nếu kh&oacute; khắn sẽ cố gắng</p><p>5.D&ugrave; kh&oacute; khăn sẽ từ bỏ</p>",
+                    "explainAll": {
+                      "en": "いくら大変でも、諦めません。<br>How to read: いくらたいへんでも、あきらめません。<br>Meaning: No matter how difficult it is, I will not give up.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. いくら大変(たいへん)でも、がんばります: Means 'No matter how difficult it is, I will do my best.' Therefore, this is the correct answer.<br>2. いくら大変(たいへん)だったら、やめます: Means 'If it is too difficult, I will quit.' This sentence has the opposite meaning to the original sentence because it talks about giving up when facing difficulties. Therefore, it is not synonymous.<br>3. いくら大変(たいへん)だったら、がんばります: Means 'If it is too difficult, I will still do my best.' Although it conveys determination, it uses 'だったら' (if... then), which means it depends on the level of difficulty, contrary to the determination to not give up as in the original sentence.<br>4. いくら大変(たいへん)でも、辞やめます: Means 'No matter how difficult it is, I will quit.' This sentence is also completely opposite to the original sentence because it expresses giving up instead of perseverance.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. いくら大変(たいへん)でも、がんばります<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>In this sentence, 'いくら大変でも' (no matter how difficult it is) expresses the meaning that regardless of the difficulties or challenges, the speaker will not give up. Some synonyms or near synonyms of '大変' (たいへん - difficult, hard) in this context may include:<br>1. 難しい (むずかしい): Difficult, complicated. This word is used when talking about the difficulty in performing a task.<br>2. 辛い (つらい): Painful, difficult. This word often carries the meaning of emotional pain but can also be used to refer to unbearable difficulties.<br>3. 厳しい (きびしい): Strict, severe. This word is often used to describe harsh circumstances or conditions that need to be overcome.<br>4. 苦しい (くるしい): Painful, difficult. Often used for situations expressing physical or mental difficulty.<br>5. 困難 (こんなん): Difficulty, obstacle. A general word for all kinds of difficulties or challenges that must be overcome.",
+                      "id_auto": "いくら大変でも、諦めません。<br>Cara membaca: いくらたいへんでも、あきらめません。<br>Arti: Sesulit apapun, saya tidak akan menyerah.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. いくら大変(たいへん)でも、がんばります: Artinya 'Sesulit apapun, saya akan berusaha sebaik mungkin.' Oleh karena itu, ini adalah jawaban yang tepat.<br>2. いくら大変(たいへん)だったら、やめます: Artinya 'Jika terlalu sulit, saya akan berhenti.' Kalimat ini memiliki arti yang berlawanan dengan kalimat aslinya karena berbicara tentang menyerah ketika menghadapi kesulitan. Oleh karena itu, tidak sinonim.<br>3. いくら大変(たいへん)だったら、がんばります: Artinya 'Jika terlalu sulit, saya akan tetap berusaha sebaik mungkin.' Meskipun menyampaikan tekad, ia menggunakan 'だったら' (jika... maka), yang berarti itu tergantung pada tingkat kesulitan, bertentangan dengan tekad untuk tidak menyerah seperti dalam kalimat aslinya.<br>4. いくら大変(たいへん)でも、辞やめます: Artinya 'Sesulit apapun, saya akan berhenti.' Kalimat ini juga sepenuhnya berlawanan dengan kalimat aslinya karena mengungkapkan menyerah alih-alih ketekunan.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. いくら大変(たいへん)でも、がんばります<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Dalam kalimat ini, 'いくら大変でも' (tidak peduli betapa sulitnya) mengungkapkan makna bahwa terlepas dari kesulitan atau tantangan, pembicara tidak akan menyerah. Beberapa sinonim atau hampir sinonim dari '大変' (たいへん - sulit, berat) dalam konteks ini mungkin termasuk:<br>1. 難しい (むずかしい): Sulit, rumit. Kata ini digunakan ketika berbicara tentang kesulitan dalam melakukan suatu tugas.<br>2. 辛い (つらい): Menyakitkan, sulit. Kata ini sering membawa makna sakit emosional tetapi juga dapat digunakan untuk merujuk pada kesulitan yang tak tertahankan.<br>3. 厳しい (きびしい): Ketat, keras. Kata ini sering digunakan untuk menggambarkan keadaan atau kondisi keras yang perlu diatasi.<br>4. 苦しい (くるしい): Menyakitkan, sulit. Sering digunakan untuk situasi yang mengungkapkan kesulitan fisik atau mental.<br>5. 困難 (こんなん): Kesulitan, rintangan. Kata umum untuk semua jenis kesulitan atau tantangan yang harus diatasi."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.28021978,
+                "scores": [
+                  5
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 19378,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p>今(いま)<u>あまり寒(さむ)くない</u>です。</p>",
+                    "image": "",
+                    "answers": [
+                      "今(いま)とても暑(あつ)いです",
+                      "<p>今(いま)<u>少(すこ)し寒(さむ)い</u>です</p>",
+                      "今(いま)少(すこ)し暑(あつ)いです",
+                      "今(いま)とても寒(さむ)いです。"
+                    ],
+                    "correctAnswer": 1,
+                    "explain_vn": "<p>あまり寒(さむ)くない=少(すこ)し寒(さむ)い: kh&ocirc;ng lạnh lắm</p><p>B&acirc;y giờ kh&ocirc;ng lạnh lắm</p><p>1.B&acirc;y giờ rất n&oacute;ng</p><p>2.B&acirc;y giờ hơi lạnh 1 ch&uacute;t</p><p>3.B&acirc;y giờ hơi n&oacute;ng</p><p>4.B&acirc;y giờ rất lạnh</p>",
+                    "explainAll": {
+                      "en": "今<span style=\"font-weight: 700;\">あまり寒くないです。</span><br>How to read: いま<span style=\"font-weight: 700;\">あまりさむくないです。</span><br>Meaning: Now it is&nbsp;<span style=\"font-weight: 700;\">not very cold.</span><br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 今(いま)とても暑(あつ)いです: Means 'Now it is very hot.' 'Very hot' is not synonymous with 'not very cold.' Therefore, it is not synonymous.<br>2. 今(いま)少(すこ)し寒(さむ)いです: Means 'Now it is a little cold.'<br>This sentence is quite similar to the original sentence, 'not very cold' can also be understood as 'a little cold.'<br>3. 今(いま)少(すこ)し暑(あつ)いです: Means 'Now it is a little hot.' This sentence talks about hot temperatures, which is not related to the cold in the original sentence. Not synonymous.<br>4. 今(いま)とても寒(さむ)いです: Means 'Now it is very cold.' This sentence is completely opposite to the original sentence, not synonymous.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. 今(いま)少(すこ)し寒(さむ)いです<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Some words synonymous with or related to the word '寒い' (さむい - cold) in Japanese include:<br>1. 冷たい (つめたい - cold): often used to describe the feeling of cold when touching an object, air, or water.<br>2. 寒冷 (かんれい - cold): means cold weather, often used in formal contexts or when talking about lower than normal temperatures.<br>3. 冷（れい - cold): another word commonly used in the context of air, which may be accompanied by coolness rather than biting cold.<br>4. 凍てつく (いてつく - freezing): This word often implies a cold to the point of freezing.",
+                      "id_auto": "今<span style=\"font-weight: 700;\">あまり寒くないです。</span><br>Cara membaca: いま<span style=\"font-weight: 700;\">あまりさむくないです。</span><br>Arti: Sekarang <span style=\"font-weight: 700;\">tidak terlalu dingin</span>.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 今(いま)とても暑(あつ)いです: Artinya 'Sekarang sangat panas.' 'Sangat panas' tidak bersinonim dengan 'tidak terlalu dingin'. Oleh karena itu, tidak bersinonim.<br>2. 今(いま)少(すこ)し寒(さむ)いです: Artinya 'Sekarang sedikit dingin.'<br>Kalimat ini cukup mirip dengan kalimat aslinya, 'tidak terlalu dingin' juga dapat dipahami sebagai 'sedikit dingin'.<br>3. 今(いま)少(すこ)し暑(あつ)いです: Artinya 'Sekarang sedikit panas.' Kalimat ini berbicara tentang suhu panas, yang tidak berhubungan dengan dingin dalam kalimat aslinya. Tidak bersinonim.<br>4. 今(いま)とても寒(さむ)いです: Artinya 'Sekarang sangat dingin.' Kalimat ini sepenuhnya berlawanan dengan kalimat aslinya, tidak bersinonim.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. 今(いま)少(すこ)し寒(さむ)いです<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Beberapa kata yang bersinonim dengan atau terkait dengan kata '寒い' (さむい - dingin) dalam bahasa Jepang meliputi:<br>1. 冷たい (つめたい - dingin): sering digunakan untuk menggambarkan perasaan dingin saat menyentuh benda, udara, atau air.<br>2. 寒冷 (かんれい - dingin): berarti cuaca dingin, sering digunakan dalam konteks formal atau ketika berbicara tentang suhu yang lebih rendah dari biasanya.<br>3. 冷（れい - dingin): kata lain yang umum digunakan dalam konteks udara, yang mungkin disertai dengan kesejukan daripada dingin yang menggigit.<br>4. 凍てつく (いてつく - membeku): Kata ini sering menyiratkan dingin hingga membeku."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.431876606,
+                "scores": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-05-09T06:49:22.000Z",
+    "updated_at": "2025-06-06T01:02:51.000Z"
+  }
+}

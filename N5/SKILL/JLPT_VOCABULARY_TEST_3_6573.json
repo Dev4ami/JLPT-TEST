@@ -1,0 +1,494 @@
+{
+  "Questions": {
+    "id": 6573,
+    "type": 3,
+    "title": "Vocabulary Test 3",
+    "level": 5,
+    "time": 10,
+    "score": 40,
+    "pass_score": 19,
+    "parts": [
+      {
+        "time": 10,
+        "min_score": 19,
+        "max_score": 40,
+        "name": "文字・語彙",
+        "content": [
+          {
+            "kind": "cách đọc kanji",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3253,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きょうは天気がいいです。がっこうの５かいのまどから、北に<u>白い</u>山がよく見えます。",
+                    "answers": [
+                      "たかい",
+                      "ひろい",
+                      "しろい",
+                      "あかい"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "白い [しろい]:<br><ul><li>Trắng</li><li>Vô tội</li><li>Sạch sẽ; trắng muốt</li><li>Màu trắng</li><li>Trắng trẻo</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div style=\"text-align: left;\">Word: 白い<br>How to read: しろい<br>Meaning: white<br>Question: きょうは天気がいいです。がっこうの５かいのまどから、北に<u>白い</u>山がよく見えます。<br>How to read: きょうはてんきがいいです。がっこうのごかいのまどから、きたに<u>しろい</u>やまがよくみえます。<br>Meaning: The weather is nice today. From the fifth-floor window of the school, you can clearly see the&nbsp;<u>white</u>&nbsp;mountain to the north.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. しろい<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. たかい: This reading means 'tall' (高い).<br>2. ひろい: This reading means 'wide' (広い).<br>4. あかい: This reading means 'red' (赤い).<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Kanji&nbsp;'白' is a very basic Kanji in Japanese and has the following readings:<br>Kun'yomi:<br><ul><li>しろ: For example, 白い (しろい) - white</li><li>しら: For example, 白髪 (しらが) - gray hair</li></ul>On'yomi:<br><ul><li>はく: For example, 白紙 (はくし) - blank paper</li><li>びゃく: Less commonly used, often found in ancient Chinese compound words</li></ul></div>",
+                      "id_auto": "<div style=\"text-align: left;\">Kata: 白い<br>Cara membaca: しろい<br>Arti: putih<br>Pertanyaan: きょうは天気がいいです。がっこうの５かいのまどから、北に<u>putih</u>山がよく見えます。<br>Cara membaca: きょうはてんきがいいです。がっこうのごかいのまどから、きたに<u>しろい</u>やまがよくみえます。<br>Arti: Cuacanya bagus hari ini. Dari jendela lantai lima sekolah, gunung <u>putih</u> terlihat jelas di utara.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. しろい<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. たかい: Pembacaan ini berarti 'tinggi' (高い).<br>2. ひろい: Pembacaan ini berarti 'lebar' (広い).<br>4. あかい: Pembacaan ini berarti 'merah' (赤い).<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji&nbsp;'白' adalah Kanji yang sangat dasar dalam bahasa Jepang dan memiliki pembacaan sebagai berikut:<br>Kun'yomi:<br><ul><li>しろ: Contohnya, 白い (しろい) - putih</li><li>しら: Contohnya, 白髪 (しらが) - rambut beruban</li></ul>On'yomi:<br><ul><li>はく: Contohnya, 白紙 (はくし) - kertas kosong</li><li>びゃく: Kurang umum digunakan, sering ditemukan dalam kata majemuk Cina kuno</li></ul></div><br>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.133639214,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3331,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "「学校の後ろに<u>何</u>がありますか。｣「小さいこうえんがあります。」",
+                    "answers": [
+                      "なん",
+                      "なか",
+                      "ない",
+                      "なに"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "何 [なに]: Cái gì",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 何<br>How to read:&nbsp;なに<br>Meaning: What<br>Question: 「学校の後ろに<u>何</u>がありますか。｣「小さいこうえんがあります。」<br>How to read: 「がっこうのうしろに<u>なに</u>がありますか。｣「ちいさいこうえんがあります。」<br>Meaning: 'What is&nbsp;<u>what</u>&nbsp;behind the school?' 'There is a small park'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. なに<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. なん: This is another reading of the kanji 何, but it is often used when it comes before other kanji.<br>2. なか: This is the reading of the kanji 中, which means 'inside, middle'.<br>3. ない: This is the reading of the kanji 無い, which means 'there is not'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The kanji 何 has two main readings:<br>1. なん: Often used before other kanji, especially in questions. For example: 何時 (なんじ) means 'what time'.<br>2. なに: Often used alone or in certain words. For example: 何か (なにか) means 'something'.",
+                      "id_auto": "Kata: 何<br>Cara membaca:&nbsp;なに<br>Arti: Apa<br>Pertanyaan: 「学校の後ろに<u>何</u>がありますか。｣「小さいこうえんがあります。」<br>Cara membaca: 「がっこうのうしろに<u>なに</u>がありますか。｣「ちいさいこうえんがあります。」<br>Arti: '<u>Apa</u> yang ada di belakang sekolah?' 'Ada taman kecil'.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. なに<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. なん: Ini adalah cara baca lain dari kanji 何, tetapi sering digunakan ketika berada sebelum kanji lain.<br>2. なか: Ini adalah bacaan dari kanji 中, yang berarti 'di dalam, tengah'.<br>3. ない: Ini adalah bacaan dari kanji 無い, yang berarti 'tidak ada'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji 何 memiliki dua bacaan utama:<br>1. なん: Sering digunakan sebelum kanji lain, terutama dalam pertanyaan. Contohnya: 何時 (なんじ) berarti 'jam berapa'.<br>2. なに: Sering digunakan sendiri atau dalam kata-kata tertentu. Contohnya: 何か (なにか) berarti 'sesuatu'."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.265743635,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3404,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "銀行は、この<u>道</u>を西は四キロいって左がわにあります。",
+                    "answers": [
+                      "まち",
+                      "かど",
+                      "にわ",
+                      "みち"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "道 [みち]:<br><ul><li>Đạo</li><li>Lĩnh vực</li><li>Phương tiện; cách thức</li><li>Đường đi</li><li>Đường</li><li>Con đường; con phố</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 道<br>How to read: みち<br>Meaning: road<br>Question: 銀行は、この<u>道</u>を西は四キロいって左がわにあります。<br>How to read: ぎんこうは、この<u>みち</u>をにしはよんキロいってひだりがわにあります。<br>Meaning: The bank is on the left side, four kilometers west on this&nbsp;<u>road</u>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. みち<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. まち: This is how to read '町' (town, city).<br>2. かど: This is how to read '角' (corner).<br>3. にわ: This is how to read '庭' (garden).<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The Kanji '道' means 'road'. This Kanji has the following readings:<br>1. Kun'yomi reading: みち<br><ul><li>小道 (こみち): small path</li><li>道のり (みちのり): distance, journey, route</li></ul>2. On'yomi reading: どう or とう<br><ul><li>道路 (どうろ): street</li><li>柔道 (じゅうどう): judo</li><li>お天道様 (おてんとうさま): the sun (respectful way of saying)</li></ul>",
+                      "id_auto": "Kata: 道<br>Cara membaca: みち<br>Arti: jalan<br>Pertanyaan: 銀行は、この<u>道</u>を西は四キロいって左がわにあります。<br>Cara membaca: ぎんこうは、この<u>みち</u>をにしはよんキロいってひだりがわにあります。<br>Arti: Bank berada di sisi kiri, empat kilometer ke arah barat di <u>jalan</u> ini.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. みち<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. まち: Ini adalah cara membaca '町' (kota).<br>2. かど: Ini adalah cara membaca '角' (pojok, sudut).<br>3. にわ: Ini adalah cara membaca '庭' (kebun).<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji '道' berarti 'jalan'. Kanji ini memiliki cara baca sebagai berikut:<br>1. Kun'yomi reading: みち<br><ul><li>小道 (こみち): jalan kecil</li><li>道のり (みちのり): jarak, perjalanan, rute</li></ul>2. On'yomi reading: どう atau とう<br><ul><li>道路 (どうろ): jalan raya</li><li>柔道 (じゅうどう): judo</li><li>お天道様 (おてんとうさま): matahari (cara penyebutan yang sopan)</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.271112018,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "cách viết từ",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10405,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "しょうご から&nbsp; <u>ごご</u> 1 時&nbsp; までの 時間&nbsp;",
+                    "answers": [
+                      "牛前",
+                      "午前",
+                      "午後",
+                      "牛後"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>午後（ごご）：(Ngọ, Hậu): Buổi chiều</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>Question: しょうご からごご1 時までの 時間</div><div>Reading: しょうご からごごいちじ までの じかん</div><div>Meaning: The time from noon to 1 o'clock in the afternoon.</div><div>###</div><div>CORRECT CHOICE:</div><div>3. 午後</div><div>###</div><div>ANALYSIS:</div><div>1. 牛前: Does not exist in Japanese</div><div>2. 午前: Read as ごぜん, meaning 'morning (from 0:00 a.m. to 12:00 p.m.)'.</div><div>3. 午後: Read as ごご, meaning 'afternoon'.</div><div>4. 牛後: Does not exist in Japanese. This option is confusing because the kanji 牛 and kanji 午 in the correct option look almost the same.</div><div>###</div><div>REFERENCE INFORMATION:</div><div>午後 (ごご) in Japanese refers to the time period from 12 noon to 12 midnight, equivalent to the international standard symbol PM. This word is commonly used in everyday conversations to indicate the time of day.</div><div>- For example:</div><div>+ 午後3時に会いましょう。</div><div>ごご さんじ に あいましょう。</div><div>Let's meet at 3 p.m.</div><div>+ 午後の予定は何ですか？</div><div>ごご の よてい は なん です か？</div><div>What are your afternoon plans?</div><div>+ 午後6時以降は自由です。</div><div>ごご ろくじ いこう は じゆう です。</div><div>After 6 p.m., I'm free.</div>",
+                      "id_auto": "<div>Pertanyaan: しょうご からごご1 時までの 時間</div><div>Cara Membaca: しょうご からごごいちじ までの じかん</div><div>Arti: Waktu dari tengah hari hingga jam 1 siang.</div><div>###</div><div>PILIHAN YANG TEPAT:</div><div>3. 午後</div><div>###</div><div>ANALISIS:</div><div>1. 牛前: Tidak ada dalam bahasa Jepang</div><div>2. 午前: Dibaca sebagai ごぜん, artinya 'pagi (dari pukul 0:00 hingga 12:00)'.</div><div>3. 午後: Dibaca sebagai ごご, artinya 'siang'.</div><div>4. 牛後: Tidak ada dalam bahasa Jepang. Pilihan ini membingungkan karena kanji 牛 dan kanji 午 pada pilihan yang benar terlihat hampir sama.</div><div>###</div><div>INFORMASI REFERENSI:</div><div>午後 (ごご) dalam bahasa Jepang mengacu pada periode waktu dari jam 12 siang hingga jam 12 tengah malam, setara dengan simbol standar internasional PM. Kata ini umum digunakan dalam percakapan sehari-hari untuk menunjukkan waktu.</div><div>- Contoh:</div><div>+ 午後3時に会いましょう。</div><div>ごご さんじ に あいましょう。</div><div>Mari bertemu jam 3 sore.</div><div>+ 午後の予定は何ですか？</div><div>ごご の よてい は なん です か？</div><div>Apa rencana Anda sore ini?</div><div>+ 午後6時以降は自由です。</div><div>ごご ろくじ いこう は じゆう です。</div><div>Setelah jam 6 sore, saya bebas.</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.18147951,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10304,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "いもうとは　１９９８<u>ねん</u> に　うまれました。",
+                    "answers": [
+                      "年",
+                      "牛",
+                      "半",
+                      "寺"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "<p>年（ねん）：(Ni&ecirc;n) năm</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: いもうとは　１９９８<span style=\"font-weight: 700;\">ねん</span>&nbsp;に　うまれました。<br>Meaning: My younger sister was born in&nbsp;1998.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. 年<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 年: Read as ねん, meaning 'year', which is accurate and fits the context.<br>2. 牛: Read as うし, meaning 'cow'.<br>3. 半: Read as はん, meaning 'half'.<br>4. 寺: Read as てら, meaning 'temple'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 年 (ねん) in Japanese means 'year (time)'. It expresses a unit of time as one year and is commonly used to refer to the calendar year, school year, fiscal year, etc. This is the most common usage of the word '年'.<br>Example:<br>+ 今年は2023年です。<br>ことし は 2023ねん です。<br>This year is 2023.<br>+ 来年、大学に入学します。<br>らいねん、だいがく に にゅうがく します。<br>Next year, I will enter university.",
+                      "id_auto": "Pertanyaan: いもうとは　１９９８<span style=\"font-weight: 700;\">ねん</span>&nbsp;に　うまれました。<br>Arti: Adik perempuan saya lahir pada tahun&nbsp;1998.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. 年<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 年: Dibaca sebagai ねん, yang berarti 'tahun', ini akurat dan sesuai dengan konteks.<br>2. 牛: Dibaca sebagai うし, yang berarti 'sapi'.<br>3. 半: Dibaca sebagai はん, yang berarti 'setengah'.<br>4. 寺: Dibaca sebagai てら, yang berarti 'kuil'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 年 (ねん) dalam bahasa Jepang berarti 'tahun (waktu)'. Ini menyatakan satuan waktu sebagai satu tahun dan umumnya digunakan untuk merujuk pada tahun kalender, tahun ajaran, tahun fiskal, dll. Ini adalah penggunaan kata '年' yang paling umum.<br>Contoh:<br>+ 今年は2023年です。<br>ことし は 2023ねん です。<br>Tahun ini adalah tahun 2023.<br>+ 来年、大学に入学します。<br>らいねん、だいがく に にゅうがく します。<br>Tahun depan, saya akan masuk universitas."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.069961489,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3063,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "ひまなじかんに<u>らじお</u>をききます。",
+                    "answers": [
+                      "ラジオ",
+                      "ラジホ",
+                      "ヲジオ",
+                      "ヲジホ"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: ひまなじかんに<span style=\"font-weight: 700;\">らじお</span>をききます。<br>How to read: ひまなじかんに<span style=\"font-weight: 700;\">らじお</span>をききます。<br>Meaning: I listen to the&nbsp;<span style=\"font-weight: 700;\">radio</span>&nbsp;in my free time.<br>###<br>CORRECT CHOICE:<br>1. ラジオ<br>###<br>ANALYSIS:<br>1. ラジオ: This is the correct katakana spelling of 'radio'.<br>2. ラジホ: This spelling is incorrect because it mistakes オ for ホ.<br>3. ヲジオ: This spelling is incorrect because it mistakes ラ for ヲ.<br>4. ヲジホ: This spelling is incorrect because it mistakes ラ for ヲ and オ for ホ.<br>###<br>REFERENCE INFORMATION:<br>ラジオ in Japanese refers to an electronic device used to receive audio signals from broadcasting stations. This word is commonly used to refer to broadcasting devices that people often listen to for news updates, music, or other entertainment programs.<br>- Example:<br>+ ラジオを聞く。<br>ラジオを きく。<br>Listen to the radio.<br>+ 新しいラジオを買いました。<br>あたらしい ラジオ を かいました。<br>I bought a new radio.<br>+ そのラジオ番組は面白いです。<br>その ラジオ ばんぐみ は おもしろい です。<br>That radio program is interesting.",
+                      "id_auto": "Pertanyaan: ひまなじかんに<span style=\"font-weight: 700;\">らじお</span>をききます。<br>Cara membaca: ひまなじかんに<span style=\"font-weight: 700;\">らじお</span>をききます。<br>Arti: Saya mendengarkan <span style=\"font-weight: 700;\">radio</span> di waktu luang.<br>###<br>PILIHAN YANG TEPAT:<br>1. ラジオ<br>###<br>ANALISIS:<br>1. ラジオ: Ini adalah penulisan katakana yang benar untuk 'radio'.<br>2. ラジホ: Penulisan ini salah karena tertukar antara オ dengan ホ.<br>3. ヲジオ: Penulisan ini salah karena tertukar antara ラ dengan ヲ.<br>4. ヲジホ: Penulisan ini salah karena tertukar antara ラ dengan ヲ dan オ dengan ホ.<br>###<br>INFORMASI REFERENSI:<br>ラジオ dalam bahasa Jepang mengacu pada perangkat elektronik yang digunakan untuk menerima sinyal audio dari stasiun penyiaran. Kata ini umumnya digunakan untuk merujuk pada perangkat penyiaran yang sering didengarkan orang untuk berita terbaru, musik, atau program hiburan lainnya.<br>- Contoh:<br>+ ラジオを聞く。<br>ラジオを きく。<br>Mendengarkan radio.<br>+ 新しいラジオを買いました。<br>あたらしい ラジオ を かいました。<br>Saya membeli radio baru.<br>+ そのラジオ番組は面白いです。<br>その ラジオ ばんぐみ は おもしろい です。<br>Acara radio itu menarik."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.086264656,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "điền từ theo văn cảnh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10450,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "あの　ひとは　にほんごの&nbsp;________&nbsp;を　よんでいます。",
+                    "answers": [
+                      "きって",
+                      "でんわ",
+                      "しんぶん",
+                      "テレビ"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>Người kia đang đọc b&aacute;o tiếng Nhật</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "あの　ひとは　にほんごの________をよんでいます。<br>Meaning: That person is reading ________ in Japanese.<br>###<br><b>ANALYSIS</b><br>1. きって (切手): Means 'stamp'. Stamps are affixed to postal items and are not something one can 'read'. Therefore, this word does not fit the context of the sentence.<br>2. でんわ (電話): Means 'telephone'. Telephones are used to make calls, not to 'read'. Thus, this word is unsuitable in the sentence's context.<br>3. しんぶん (新聞): Means 'newspaper'. Newspapers are readable, and reading a newspaper in Japanese is logical and natural in this context.<br>4. テレビ: Means 'television'. Televisions are for watching, not reading. Therefore, this word does not fit the sentence's context.<br>###<br><b>CORRECT CHOICE</b><br>3. しんぶん<br>Complete sentence: あの　ひとは　にほんごのしんぶんをよんでいます。<br>Meaning: That person is reading a newspaper in Japanese.",
+                      "id_auto": "あの　ひとは　にほんごの________をよんでいます。<br>###<br><b>ANALISIS</b><br>1. きって (切手): Artinya 'perangko'. Perangko ditempelkan pada barang pos dan bukan sesuatu yang bisa 'dibaca'. Oleh karena itu, kata ini tidak sesuai dengan konteks kalimat.<br>2. でんわ (電話): Artinya 'telepon'. Telepon digunakan untuk menelepon, bukan untuk 'membaca'. Jadi, kata ini tidak cocok dalam konteks kalimat.<br>3. しんぶん (新聞): Artinya 'koran'. Koran bisa dibaca, dan membaca koran dalam bahasa Jepang logis dan alami dalam konteks ini.<br>4. テレビ: Artinya 'televisi'. Televisi untuk ditonton, bukan dibaca. Oleh karena itu, kata ini tidak sesuai dengan konteks kalimat.<br>###<br><b>PILIHAN YANG TEPAT</b><br>3. しんぶん<br>Kalimat lengkap: あの　ひとは　にほんごのしんぶんをよんでいます。<br>Arti: Orang itu sedang membaca koran dalam bahasa Jepang."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.102868447,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3113,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "はじめまして、&nbsp;________&nbsp;。",
+                    "answers": [
+                      "ありがとうございます",
+                      "こんにちは",
+                      "すみません",
+                      "どうぞよろしく"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "はじめまして、________。<br>How to read: はじめまして、________。<br>Meaning: Nice to meet you, ________.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. ありがとうございます: Means 'thank you'. It is often used to express gratitude. It is not appropriate to put after 'はじめまして' because it is not related to greeting for the first time.<br>2. こんにちは: Means 'hello'. This is a common greeting in Japanese, but it is not a way to greet someone for the first time. It is often used in everyday encounters.<br>3. すみません: Means 'excuse me' or 'sorry'. It is often used to apologize or get someone's attention. It is not appropriate in the context of a first-time greeting.<br>4. どうぞよろしく: Means 'I look forward to working with you'. This is a polite and common expression when meeting someone for the first time, often used with 'はじめまして'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>4. どうぞよろしく<br>Complete sentence: はじめまして、どうぞよろしく。<br>Meaning: Nice to meet you, I look forward to working with you.",
+                      "id_auto": "はじめまして、________。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. ありがとうございます: Artinya \"terima kasih\". Ungkapan ini sering digunakan untuk menyatakan rasa syukur. Tidak tepat diletakkan setelah \"はじめまして\" karena tidak berhubungan dengan sapaan pertama kali.<br>2. こんにちは: Artinya \"halo\". Ini adalah sapaan umum dalam bahasa Jepang, tetapi bukan cara untuk menyapa seseorang untuk pertama kalinya. Ungkapan ini sering digunakan dalam pertemuan sehari-hari.<br>3. すみません: Artinya \"permisi\" atau \"maaf\". Ungkapan ini sering digunakan untuk meminta maaf atau menarik perhatian seseorang. Tidak tepat dalam konteks sapaan pertama kali.<br>4. どうぞよろしく: Artinya \"Senang bertemu dengan Anda dan mohon bantuannya\". Ini adalah ungkapan sopan dan umum saat bertemu seseorang untuk pertama kalinya, sering digunakan bersama dengan \"はじめまして\".<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>4. どうぞよろしく<br>Kalimat lengkap: はじめまして、どうぞよろしく。<br>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.09975669,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3504,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "ひらがなは ぜんぶ&nbsp;________&nbsp;が、かたかなは まだです。",
+                    "answers": [
+                      "しりました",
+                      "よびました",
+                      "おぼえました",
+                      "ちがいました"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>ひらがなは ぜんぶ________が、かたかなは まだです。<br>Meaning: All hiragana have been ________, but katakana yet.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. しりました (知りました): Dictionary form is しる (知る), meaning 'to know'. The sentence 'All hiragana have been known, but not katakana yet' is not suitable because しる is not an appropriate action when talking about knowing/understanding letters in Japanese.<br>2. よびました (呼びました): Dictionary form is よぶ (呼ぶ), meaning 'to call'. The sentence 'All hiragana have been called, but not katakana yet' does not make sense in this context because 'to call' is not related to letters.<br>3. おぼえました (覚えました): Dictionary form is おぼえる (覚える), meaning 'to remember', 'to have memorized'. The sentence 'All hiragana have been memorized, but not katakana yet' is very suitable for the context, as it describes the process of learning and memorizing letters.<br>4. ちがいました (違いました): Dictionary form is ちがう (違う), meaning 'wrong', 'different'. The sentence 'All hiragana have been wrong, but not katakana yet' is not suitable in this context because it is not related to learning letters.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>3. おぼえました<br>Complete sentence: ひらがなは ぜんぶ おぼえました が、かたかなは まだです。<br>Meaning: All hiragana have been memorized, but not katakana yet.</div>",
+                      "id_auto": "<div>ひらがなは ぜんぶ________が、かたかなは まだです。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. しりました (知りました): Bentuk kamus adalah しる (知る), yang berarti \"tahu\". Kalimat 'Semua huruf hiragana sudah diketahui, tetapi huruf katakana belum' tidak sesuai karena しる bukanlah tindakan yang tepat ketika berbicara tentang mengetahui/memahami huruf dalam bahasa Jepang.<br>2. よびました (呼びました): Bentuk kamus adalah よぶ (呼ぶ), yang berarti \"memanggil\". Kalimat 'Semua huruf hiragana sudah dipanggil, tetapi huruf katakana belum' tidak masuk akal dalam konteks ini karena \"memanggil\" tidak berhubungan dengan huruf.<br>3. おぼえました (覚えました): Bentuk kamus adalah おぼえる (覚える), yang berarti \"mengingat\", \"telah menghafal\". Kalimat 'Semua huruf hiragana sudah dihafal, tetapi huruf katakana belum' sangat sesuai dengan konteks, karena menggambarkan proses belajar dan menghafal huruf.<br>4. ちがいました (違いました): Bentuk kamus adalah ちがう (違う), yang berarti \"salah\", \"berbeda\". Kalimat 'Semua huruf hiragana sudah salah, tetapi huruf katakana belum' tidak sesuai dalam konteks ini karena tidak berhubungan dengan belajar huruf.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>3. おぼえました<br>Kalimat lengkap: ひらがなは ぜんぶ おぼえました が、かたかなは まだです。</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.223901098,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "thay đổi cách nói",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3550,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "えいがは<u>もうすぐおわります</u>。",
+                    "answers": [
+                      "えいがはいまはじまりました。",
+                      "えいがはいまはおわりました。",
+                      "えいがはまだはじまりません。",
+                      "えいがはまだおわっていません。"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: えいがは<span style=\"font-weight: 700;\">もうすぐおわります</span>。<br>Meaning: The movie is&nbsp;<span style=\"font-weight: 700;\">about to end</span>.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. えいがはいまはじまりました。: Means 'The movie just started.' This does not have the same meaning as the original sentence because it describes the movie just starting, while the original sentence says the movie is about to end.<br>2. えいがはいまはおわりました。: Means 'The movie has now ended.' This is also not synonymous with the original sentence because it confirms that the movie has ended, while the original sentence says that the movie is 'about to end'.<br>3. えいがはまだはじまりません。: Means 'The movie has not started yet.' This is not synonymous with the original sentence because it shows that the movie has not taken place, which is not related to the movie about to end.<br>4. えいがはまだおわっていません。: Means 'The movie has not ended yet.' This sentence is closest in meaning to the original sentence, both expressing that the movie has not ended.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. えいがはまだおわっていません。<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Some phrases related to 'もうすぐおわります':<br>1. 近く終わる (ちかくおわる): Nearly finished.<br>2. まもなく終わる (まもなくおわる): Soon to end, used to emphasize that something will happen in the near future.<br>3. もうじき終わる (もうじきおわる): Will end soon, using a synonym close to 'もうすぐ'.<br>4. そろそろ終わります (そろそろおわります): About to end, also means it will end in the near future. You should pay attention to the context of use to choose the appropriate word.",
+                      "id_auto": "Pertanyaan: えいがは<span style=\"font-weight: 700;\">もうすぐおわります</span>。<br>Arti: Filmnya&nbsp;<span style=\"font-weight: 700;\">akan segera berakhir</span>.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. えいがはいまはじまりました。: Artinya 'Filmnya baru saja dimulai'. Ini tidak memiliki arti yang sama dengan kalimat aslinya karena menggambarkan film baru saja dimulai, sementara kalimat aslinya mengatakan filmnya akan segera berakhir.<br>2. えいがはいまはおわりました。: Artinya 'Filmnya sekarang sudah berakhir'. Ini juga tidak sinonim dengan kalimat aslinya karena menegaskan bahwa film telah berakhir, sementara kalimat aslinya mengatakan bahwa film \"akan segera berakhir\".<br>3. えいがはまだはじまりません。: Artinya 'Filmnya belum dimulai'. Ini tidak sinonim dengan kalimat aslinya karena menunjukkan bahwa film belum berlangsung, yang tidak terkait dengan film yang akan segera berakhir.<br>4. えいがはまだおわっていません。: Artinya 'Filmnya belum berakhir'. Kalimat ini paling dekat maknanya dengan kalimat aslinya, keduanya menyatakan bahwa film belum berakhir.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. えいがはまだおわっていません。<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Beberapa frasa yang terkait dengan 'もうすぐおわります':<br>1. 近く終わる (ちかくおわる): Hampir selesai.<br>2. まもなく終わる (まもなくおわる): Segera berakhir, digunakan untuk menekankan bahwa sesuatu akan terjadi dalam waktu dekat.<br>3. もうじき終わる (もうじきおわる): Akan segera berakhir, menggunakan sinonim yang dekat dengan 'もうすぐ'.<br>4. そろそろ終わります (そろそろおわります): Akan segera berakhir, juga berarti akan berakhir dalam waktu dekat. Anda harus memperhatikan konteks penggunaan untuk memilih kata yang tepat."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.406386066,
+                "scores": [
+                  5
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3235,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "この　しょくどうは　<u>まずい</u>です。",
+                    "answers": [
+                      "ここの　りょうりは　おいしいです。",
+                      "ここの　りょうりは　おいしくないです。",
+                      "ここの　りょうりは　やすいです。",
+                      "ここの　りょうりは　やすくないです。"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Câu hỏi: この食堂は<span style=\"font-weight: 700;\">まずい</span>です。<br>How to read: このしょくどうは<span style=\"font-weight: 700;\">まずい</span>です。<br>Meaning: This restaurant's food is&nbsp;<span style=\"font-weight: 700;\">terrible</span>.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. ここのりょうりはおいしいです。(The food here is delicious.) - This sentence is the opposite of 'まずい' (terrible), so it cannot be a synonymous sentence.<br>2. ここのりょうりはおいしくないです。(The food here is not delicious.) - This sentence has a meaning closest to 'まずい', because 'まずい' is synonymous with the food not being delicious, so this is the correct choice.<br>3. ここのりょうりはやすいです。(The food here is cheap.) - This sentence talks about price and is not related to the quality or taste of the food, so it is not synonymous with the underlined word.<br>4. ここのりょうりはやすくないです。(The food here is not cheap.) - This sentence also does not talk about the quality of the food but only mentions the price, so it is not related to 'まずい'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. ここの　りょうりは　おいしくないです。<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Some synonyms or near synonyms of 'まずい' (terrible):<br>1. 悪い (わるい): Bad, not good. This word can be used to express dissatisfaction with a dish.<br>2. まずかしい: The pronunciation is similar to 'まずい', but this word is rarely used in daily conversation.<br>3. 口に合わない (くちにあわない): Not to one's taste. This is another way to say that the food is not delicious or does not suit the eater's preferences.",
+                      "id_auto": "Pertanyaan: この食堂は<span style=\"font-weight: 700;\">まずい</span>です。<br>Cara membaca: このしょくどうは<span style=\"font-weight: 700;\">まずい</span>です。<br>Arti: Makanan di restoran ini <span style=\"font-weight: 700;\">tidak enak</span>.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. ここのりょうりはおいしいです。(Makanan di sini enak.) - Kalimat ini adalah kebalikan dari 'まずい' (tidak enak), jadi ini bukan kalimat yang memiliki arti yang sama.<br>2. ここのりょうりはおいしくないです。(Makanan di sini tidak enak.) - Kalimat ini memiliki arti yang paling dekat dengan 'まずい', karena 'まずい' sama dengan makanan yang tidak enak, jadi ini adalah pilihan yang tepat.<br>3. ここのりょうりはやすいです。(Makanan di sini murah.) - Kalimat ini berbicara tentang harga dan tidak berhubungan dengan kualitas atau rasa makanan, jadi bukan sinonim dari kata yang digarisbawahi.<br>4. ここのりょうりはやすくないです。(Makanan di sini tidak murah.) - Kalimat ini juga tidak berbicara tentang kualitas makanan tetapi hanya menyebutkan harga, jadi tidak berhubungan dengan 'まずい'.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. ここの　りょうりは　おいしくないです。<br>###<br><span style=\"font-weight: 700;\">INFORMASI TAMBAHAN:</span><br>Beberapa sinonim atau hampir sinonim dari 'まずい' (tidak enak):<br>1. 悪い (わるい): Buruk, tidak enak. Kata ini dapat digunakan untuk menyatakan ketidakpuasan terhadap suatu hidangan.<br>2. まずかしい: Pengucapannya mirip dengan 'まずい', tetapi kata ini jarang digunakan dalam percakapan sehari-hari.<br>3. 口に合わない (くちにあわない): Tidak sesuai dengan selera. Ini adalah cara lain untuk mengatakan bahwa makanan itu tidak enak atau tidak sesuai dengan preferensi orang yang memakannya."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.111801242,
+                "scores": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-05-09T06:49:22.000Z",
+    "updated_at": "2025-06-06T01:02:52.000Z"
+  }
+}

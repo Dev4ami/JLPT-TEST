@@ -1,0 +1,496 @@
+{
+  "Questions": {
+    "id": 6572,
+    "type": 3,
+    "title": "Vocabulary Test 2",
+    "level": 5,
+    "time": 10,
+    "score": 40,
+    "pass_score": 19,
+    "parts": [
+      {
+        "time": 10,
+        "min_score": 19,
+        "max_score": 40,
+        "name": "文字・語彙",
+        "content": [
+          {
+            "kind": "cách đọc kanji",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3207,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "あの人はとても<u>有名</u>です。",
+                    "answers": [
+                      "ゆうめい",
+                      "ゆうめ",
+                      "ゆうまい",
+                      "ゆうま"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "有名 [ゆうめい]:<br><ul><li>Nổi tiếng; có danh</li><li>Hữu danh</li><li>Sự nổi tiếng</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 有名<br>How to read: ゆうめい<br>Meaning: famous<br>Question: あの人はとても<u>有名</u>です。<br>How to read: あのひとはとても<u>ゆうめい</u>です。<br>Meaning: That person is very&nbsp;<u>famous</u>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. ゆうめい<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>2. ゆうめ: This answer is incorrect because the reading of the kanji '名' is wrong (missing the long vowel 'い' after 'め').<br>3. ゆうまい: This answer is incorrect because the reading of the kanji '名' is wrong. This kanji does not have a reading of 'まい'.<br>4. ゆうま: This answer is incorrect because the reading of the kanji '名' is wrong. This kanji does not have a reading of 'ま'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>'有名' is a compound word consisting of two kanji:<br>1. 有 (ゆう, う, あ-る): to have, to exist.<br>2. 名 (めい, みょう, な): name, reputation.<br>When these two kanji are combined, we have '有名', which means 'to have a reputation' or 'famous'. This is a 'na' adjective.<br>Some vocabulary with this kanji:<br><ul><li>有名人 (ゆうめいじん): famous person, celebrity</li><li>著名 (ちょめい): well-known, famous</li></ul>",
+                      "id_auto": "Kata: 有名<br>Cara membaca: ゆうめい<br>Arti: terkenal<br>Pertanyaan: あの人はとても<u>有名</u>です。<br>Cara membaca: あのひとはとても<u>ゆうめい</u>です。<br>Arti: Orang itu sangat <u>terkenal</u>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. ゆうめい<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>2. ゆうめ: Jawaban ini salah karena cara membaca kanji '名' salah (kurang vokal panjang 'い' setelah 'め').<br>3. ゆうまい: Jawaban ini salah karena cara membaca kanji '名' salah. Kanji ini tidak dibaca 'まい'.<br>4. ゆうま: Jawaban ini salah karena cara membaca kanji '名' salah. Kanji ini tidak dibaca 'ま'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>'有名' adalah kata majemuk yang terdiri dari dua kanji:<br>1. 有 (ゆう, う, あ-る): memiliki, ada.<br>2. 名 (めい, みょう, な): nama, reputasi.<br>Ketika kedua kanji ini digabungkan, kita mendapatkan '有名', yang berarti 'memiliki reputasi' atau 'terkenal'. Ini adalah kata sifat 'na'.<br>Beberapa kosakata dengan kanji ini:<br><ul><li>有名人 (ゆうめいじん): orang terkenal, selebriti</li><li>著名 (ちょめい): terkenal, masyhur</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.132901751,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3362,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<u>先週</u>ともだちに母のしゃしんを見せました。",
+                    "answers": [
+                      "ぜんしゅう",
+                      "せんしゅう",
+                      "ぜんしょう",
+                      "せんしょう"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "先週 [せんしゅう]:<br><ul><li>Tuần lễ trước</li><li>Tuần trước</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>Word: 先週<br>How to read: せんしゅう<br>Meaning: Last week<br>Question:&nbsp;<u>先週</u>ともだちに母のしゃしんを見せました。<br>How to read:&nbsp;<u>せんしゅう</u>ともだちにははのしゃしんをみせました。<br>Meaning:&nbsp;<u>Last week</u>, I showed my friend a picture of my mother.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. せんしゅう<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. ぜんしゅう: This reading mistakes 'せん' for 'ぜん'. This is the reading of '前週', which means 'the previous week', counting from a mentioned point in time.<br>3. ぜんしょう: This reading mistakes 'せ' for 'ぜ' and 'しゅう' for 'しょう'.<br>4. せんしょう: This reading mistakes 'しゅう' for 'しょう'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>'先週' is composed of two kanji:<br>1. 先 (せん, さき): meaning before, previous.<br>2. 週 (しゅう): meaning week.<br>Therefore, '先週' means 'last week'.<br>'先週' (せんしゅう) and '前週' (ぜんしゅう) both mean 'last week', however, they are used differently:<br><ul><li>先週: refers to the week immediately before the current week.</li><li>前週: 'last week' in a specific context or when compared to another point in time.</li></ul></div>",
+                      "id_auto": "```html<br><div>Kata: 先週<br>Cara membaca: せんしゅう<br>Arti: Minggu lalu<br>Pertanyaan:&nbsp;<u>先週</u>ともだちに母のしゃしんを見せました。<br>Cara membaca:&nbsp;<u>せんしゅう</u>ともだちにははのしゃしんをみせました。<br>Arti:&nbsp;<u>Minggu lalu</u>, saya menunjukkan foto ibu saya kepada teman.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. せんしゅう<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. ぜんしゅう: Pembacaan ini salah mengira 'せん' menjadi 'ぜん'. Ini adalah pembacaan dari '前週', yang berarti 'minggu sebelumnya', dihitung dari titik waktu yang disebutkan.<br>3. ぜんしょう: Pembacaan ini salah mengira 'せ' menjadi 'ぜ' dan 'しゅう' menjadi 'しょう'.<br>4. せんしょう: Pembacaan ini salah mengira 'しゅう' menjadi 'しょう'.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>'先週' terdiri dari dua kanji:<br>1. 先 (せん, さき): berarti sebelum, sebelumnya.<br>2. 週 (しゅう): berarti minggu.<br>Oleh karena itu, '先週' berarti 'minggu lalu'.<br>'先週' (せんしゅう) dan '前週' (ぜんしゅう) keduanya berarti 'minggu lalu', namun, mereka digunakan secara berbeda:<br><ul><li>先週: mengacu pada minggu tepat sebelum minggu saat ini.</li><li>前週: 'minggu lalu' dalam konteks tertentu atau ketika dibandingkan dengan titik waktu lain.</li></ul></div><br>```"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.176092544,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3003,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "車の<u>中</u>に男の子が何人いますか。",
+                    "answers": [
+                      "なか",
+                      "なっか",
+                      "ちゅう",
+                      "ちゅん"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "中 [なか]:<br><ul><li>Trong khi</li><li>Bên trong</li><li>Trong; ở trong</li><li>Giữa</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 中<br>How to read: なか<br>Meaning: inside, within<br>Question: 車の<u>中</u>に男の子が何人いますか。<br>How to read: くるまの<u>なか</u>におとこのこがなんにんいますか。<br>Meaning: How many boys are there&nbsp;<u>in</u>&nbsp;the car?<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. なか<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>2. なっか: This reading does not exist in Japanese.<br>3. ちゅう: This is another reading of the kanji '中', but it is often used in compound words such as 中学校 (ちゅうがっこう - junior high school) or 中心 (ちゅうしん - center).<br>4. ちゅん: The kanji '中' does not have this reading.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The kanji '中'&nbsp;means 'middle', 'center', or 'inside'. This is a common kanji in Japanese, and has the following readings:<br>1.&nbsp;Kun'yomi:&nbsp;なか<br>Example:<br><ul><li>中 (なか): inside, middle</li><li>中身 (なかみ): content, inside</li></ul>2.&nbsp;On'yomi:&nbsp;ちゅう,&nbsp;じゅう<br>Example<br><ul><li>中央 (ちゅうおう) – center</li><li>中学校 (ちゅうがっこう) – junior high school</li><li>一日中 (いちにちじゅう) – all day long</li><li>中止 (ちゅうし) – cancellation, suspension</li><li>中国 (ちゅうごく) – China</li></ul>",
+                      "id_auto": "Kata: 中<br>Cara membaca: なか<br>Arti: di dalam, di dalam<br>Pertanyaan: 車の<u>中</u>に男の子が何人いますか。<br>Cara membaca: くるまの<u>なか</u>におとこのこがなんにんいますか。<br>Arti: Berapa banyak anak laki-laki yang ada&nbsp;<u>di dalam</u>&nbsp;mobil?<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. なか<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>2. なっか: Pembacaan ini tidak ada dalam bahasa Jepang.<br>3. ちゅう: Ini adalah cara baca lain dari kanji '中', tetapi sering digunakan dalam kata majemuk seperti 中学校 (ちゅうがっこう - sekolah menengah pertama) atau 中心 (ちゅうしん - pusat).<br>4. ちゅん: Kanji '中' tidak memiliki cara baca ini.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji '中'&nbsp;berarti 'tengah', 'pusat', atau 'di dalam'. Ini adalah kanji umum dalam bahasa Jepang, dan memiliki cara baca sebagai berikut:<br>1.&nbsp;Kun'yomi:&nbsp;なか<br>Contoh:<br><ul><li>中 (なか): di dalam, tengah</li><li>中身 (なかみ): isi, bagian dalam</li></ul>2.&nbsp;On'yomi:&nbsp;ちゅう,&nbsp;じゅう<br>Contoh<br><ul><li>中央 (ちゅうおう) – pusat</li><li>中学校 (ちゅうがっこう) – sekolah menengah pertama</li><li>一日中 (いちにちじゅう) – sepanjang hari</li><li>中止 (ちゅうし) – pembatalan, penangguhan</li><li>中国 (ちゅうごく) – Tiongkok</li></ul>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.080912334,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "cách viết từ",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3060,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きんようびにあたらしい<u>おんな</u>のせんせいがきました。",
+                    "answers": [
+                      "安",
+                      "立",
+                      "女",
+                      "文"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "女 [おんな]: Phụ nữ; con gái; cô gái; đàn bà; nữ",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: きんようびにあたらしい<span style=\"font-weight: 700;\">おんな</span>のせんせいがきました。<br>Meaning: A new&nbsp;<span style=\"font-weight: 700;\">female</span>&nbsp;teacher came on Friday.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. 女<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 安 (あん): means 'safe, quiet'.<br>2. 立 (りつ): means 'stand'.<br>3. 女 (おんな): means 'woman', which is the correct word.<br>4. 文 (ぶん): means 'sentence, text'.<br>The choices are designed to be confusing because all four options have similar features. Therefore, learners need to understand the exact writing and structure of the word 女 to avoid making the wrong choice.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 女 (おんな) in Japanese is used to refer to women or girls in general. This word is often used in common contexts to indicate the female gender.<br>- Example:<br>+ 彼女は優しい女です。<br>かのじょ は やさしい おんな です。<br>She is a gentle woman.<br>+ 女の子が遊んでいる。<br>おんなのこ が あそんでいる。<br>A girl is playing.",
+                      "id_auto": "Pertanyaan: きんようびにあたらしい<span style=\"font-weight: 700;\">おんな</span>のせんせいがきました。<br>Arti: Seorang guru <span style=\"font-weight: 700;\">perempuan</span> baru datang pada hari Jumat.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. 女<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 安 (あん): berarti 'aman, tenang'.<br>2. 立 (りつ): berarti 'berdiri'.<br>3. 女 (おんな): berarti 'wanita', yang merupakan kata yang tepat.<br>4. 文 (ぶん): berarti 'kalimat, teks'.<br>Pilihan dibuat agar membingungkan karena keempat pilihan memiliki fitur serupa. Oleh karena itu, pelajar perlu memahami penulisan dan struktur kata 女 yang tepat untuk menghindari kesalahan dalam memilih.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 女 (おんな) dalam bahasa Jepang digunakan untuk merujuk kepada wanita atau perempuan secara umum. Kata ini sering digunakan dalam konteks umum untuk menunjukkan jenis kelamin perempuan.<br>- Contoh:<br>+ 彼女は優しい女です。<br>かのじょ は やさしい おんな です。<br>Dia adalah wanita yang lembut.<br>+ 女の子が遊んでいる。<br>おんなのこ が あそんでいる。<br>Seorang gadis sedang bermain."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.068390325,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10401,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "わたしは　にほんごが　<u>すこし</u>　わかります。",
+                    "answers": [
+                      "大し",
+                      "小し",
+                      "少し",
+                      "水し"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "<p>少し（すこし）：(Thiểu) &iacute;t</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: わたしは　にほんごが　<span style=\"font-weight: 700;\"><u>すこし</u></span>　わかります。<br>Meaning: I understand&nbsp;<span style=\"font-weight: 700;\"><u>a little</u></span>&nbsp;Japanese.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. 少し<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 大し: Does not exist in Japanese. The correct word is 大きい (おおきい), which means 'big'.   <br>2. 小し: Does not exist in Japanese. The correct word is 小さい (ちいさい), which means 'small'.   <br>3. 少し: Read as すこし, meaning 'a little', which is accurate and fits the context.<br>4. 水し: Does not exist in Japanese. The correct word is 水 (みず), which means 'water'.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 少し (すこし) in Japanese means 'a little'. It expresses a small amount or degree of something. It is often used to indicate a small amount of time, quantity, or level. This word is commonly used in situations where you want to speak modestly or lightly about something.<br>Example:<br>+ 少し待ってください。<br>How to read: すこし まって ください。<br>Please wait a moment.<br>+ 少しだけ食べました。<br>How to read: すこし だけ たべました。<br>I only ate a little.",
+                      "id_auto": "Pertanyaan: わたしは　にほんごが　<span style=\"font-weight: 700;\"><u>すこし</u></span>　わかります。<br>Arti: Saya mengerti bahasa Jepang&nbsp;<span style=\"font-weight: 700;\"><u>sedikit</u></span>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. 少し<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 大し: Tidak ada dalam bahasa Jepang. Kata yang benar adalah 大きい (おおきい), yang berarti \"besar\".  <br>2. 小し: Tidak ada dalam bahasa Jepang. Kata yang benar adalah 小さい (ちいさい), yang berarti \"kecil\".  <br>3. 少し: Dibaca sebagai すこし, berarti \"sedikit\", yang akurat dan sesuai dengan konteks.<br>4. 水し: Tidak ada dalam bahasa Jepang. Kata yang benar adalah 水 (みず), yang berarti \"air\".<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 少し (すこし) dalam bahasa Jepang berarti \"sedikit\". Ini mengungkapkan jumlah atau tingkat sesuatu yang kecil. Sering digunakan untuk menunjukkan sedikit waktu, kuantitas, atau tingkat. Kata ini umum digunakan dalam situasi di mana Anda ingin berbicara dengan sederhana atau ringan tentang sesuatu.<br>Contoh:<br>+ 少し待ってください。<br>Cara membaca: すこし まって ください。<br>Mohon tunggu sebentar.<br>+ 少しだけ食べました。<br>Cara membaca: すこし だけ たべました。<br>Saya hanya makan sedikit."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.12103594,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10407,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きのう　３ <u>じかん</u>　にほんごを　べんきょうしました。",
+                    "answers": [
+                      "時間",
+                      "時問",
+                      "待間",
+                      "待問"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "<p>時間（じかん）：(Thời Gian) thời gian</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>Question: きのう３&nbsp;<u>じかん</u>にほんごをべんきょうしました。<br>Meaning: Yesterday, I studied Japanese for 3&nbsp;<span style=\"font-weight: 700;\">hours</span>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. 時間<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 時間 (じかん): means 'time'.<br>2. 時問: does not exist in Japanese.<br>3. 待間: does not exist in Japanese.<br>4. 待問: does not exist in Japanese.<br>The options are designed to be confusing based on the way kanji are written. 間 and 問 both have (門) radical, and 時 and 待 share (寺) radical. Therefore, learners need to understand the correct writing and radicals that make up the word 時間 to avoid confusion.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 時間 (じかん) in Japanese has the following meanings and usage contexts:<br>1. Time:<br>- This word is often used to indicate a period of time or the time required to do something.<br>- Example:<br>+ 時間がない。<br>じかん が ない。<br>I don't have time.<br>+ 何時間かかりますか？<br>なんじかん かかりますか？<br>How much time will it take?<br>2. Hour(s):<br>- Used to indicate a specific hour of the day, usually accompanied by a number to indicate the specific hour.<br>+ 午後三時間の会議があります。<br>ごご さんじかん の かいぎ が あります。<br>There is a three-hour meeting in the afternoon.<br>+ 映画は二時間です。<br>えいが は にじかん です。<br>The movie is two hours long.</div>",
+                      "id_auto": "```html<br><div>Pertanyaan: きのう３&nbsp;<u>じかん</u>にほんごをべんきょうしました。<br>Arti: Kemarin, saya belajar bahasa Jepang selama 3&nbsp;<span style=\"font-weight: 700;\">jam</span>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. 時間<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 時間 (じかん): berarti \"waktu\".<br>2. 時問: tidak ada dalam bahasa Jepang.<br>3. 待間: tidak ada dalam bahasa Jepang.<br>4. 待問: tidak ada dalam bahasa Jepang.<br>Pilihan-pilihan ini sengaja dibuat membingungkan berdasarkan cara penulisan kanji. 間 dan 問 keduanya memiliki radikal (門), dan 時 dan 待 berbagi radikal (寺). Oleh karena itu, pelajar perlu memahami penulisan dan radikal yang benar yang membentuk kata 時間 untuk menghindari kebingungan.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kata 時間 (じかん) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Waktu:<br>- Kata ini sering digunakan untuk menunjukkan jangka waktu atau waktu yang dibutuhkan untuk melakukan sesuatu.<br>- Contoh:<br>+ 時間がない。<br>じかん が ない。<br>Saya tidak punya waktu.<br>+ 何時間かかりますか？<br>なんじかん かかりますか？<br>Berapa lama waktu yang dibutuhkan?<br>2. Jam:<br>- Digunakan untuk menunjukkan jam tertentu dalam sehari, biasanya disertai dengan angka untuk menunjukkan jam tertentu.<br>+ 午後三時間の会議があります。<br>ごご さんじかん の かいぎ が あります。<br>Ada rapat tiga jam di sore hari.<br>+ 映画は二時間です。<br>えいが は にじかん です。<br>Filmnya berdurasi dua jam.</div><br>```"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.086040386,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "điền từ theo văn cảnh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3147,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "あの&nbsp;________&nbsp;を かぶって いる ひとが たなかさんです。",
+                    "answers": [
+                      "くつした",
+                      "とけい",
+                      "ぼうし",
+                      "めがね"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "あの________を かぶって いる ひとが たなかさんです。<br>Meaning: The person wearing that ________ is Mr. Tanaka.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. くつした (靴下): Means 'socks'. This choice is not suitable because 'socks' are not something you 'wear' on your head. The common phrase is '靴下を履く' (くつしたをはく), which means 'to wear socks'.<br>2. とけい (時計): Means 'watch'. This choice is not suitable because a 'watch' is not something you 'wear' on your head. The common phrase is '時計をつける' (とけいをつける), which means 'to wear a watch'.<br>3. ぼうし (帽子): Means 'hat'. This is the correct choice.<br>4. めがね (眼鏡): Means 'glasses'. This choice is not suitable because 'glasses' are not something you 'wear' on your head. The common phrase is '眼鏡をかける' (めがねをかける), which means 'to wear glasses'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>3. ぼうし<br>Complete sentence: あのぼうしを かぶって いる ひとが たなかさんです。<br>Meaning: The person wearing that hat is Mr. Tanaka.",
+                      "id_auto": "あの________を かぶって いる ひとが たなかさんです。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. くつした (靴下): Artinya \"kaus kaki\". Pilihan ini tidak sesuai karena \"kaus kaki\" bukanlah sesuatu yang \"dipakai\" di kepala. Frasa yang umum adalah '靴下を履く' (くつしたをはく), yang berarti \"memakai kaus kaki\". Dalam konteks pertanyaan ini、tidak cocok dengan kalimat tersebut.<br>2. とけい (時計): Artinya \"jam tangan\". Pilihan ini tidak sesuai karena \"jam tangan\" bukanlah sesuatu yang \"dipakai\" di kepala. Frasa yang umum adalah '時計をつける' (とけいをつける), yang berarti \"memakai jam tangan\". Dalam konteks pertanyaan ini、tidak cocok dengan kalimat tersebut.<br>3. ぼうし (帽子): Artinya \"topi\". Ini adalah pilihan yang tepat.<br>4. めがね (眼鏡): Artinya \"kacamata\". Pilihan ini tidak sesuai karena \"kacamata\" bukanlah sesuatu yang \"dipakai\" di kepala. Frasa yang umum adalah '眼鏡をかける' (めがねをかける), yang berarti \"memakai kacamata\". Dalam konteks pertanyaan ini、tidak cocok dengan kalimat tersebut.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>3. ぼうし<br>Kalimat lengkap: あのぼうしを かぶって いる ひとが たなかさんです。"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.175406871,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3105,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "へやにはひとが&nbsp;________&nbsp;いてあついです。",
+                    "answers": [
+                      "とても",
+                      "おおきく",
+                      "おおぜい",
+                      "たいへん"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "へやにはひとが________いてあついです。<br>Meaning: It's hot because there are________people in the room.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. とても: Means 'very'. This word is often used to emphasize the degree of adjectives or verbs. 'There are very people' is not a natural expression in this context.<br>2. おおきく (大きく): Means 'big' or 'large'. This word is usually used to indicate size or volume. 'There are big people' is not a natural expression in this context.<br>3. おおぜい (大勢): Means 'many people'. This word is often used to indicate a large number of people. 'There are many people' is a natural expression in this context.<br>4. たいへん (大変): Means 'very', 'difficult', or 'tough'. This word is often used to indicate the severity or difficulty of a situation. 'There are very people' is not a natural expression in this context.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>3. おおぜい<br>Complete sentence: へやにはひとがおおぜいいてあついです。<br>Meaning: It's hot because there are many people in the room.",
+                      "id_auto": "へやにはひとが________いてあついです。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. とても: Artinya \"sangat\". Kata ini sering digunakan untuk menekankan tingkat dari kata sifat atau kata kerja. \"Ada sangat orang\" bukanlah ekspresi yang alami dalam konteks ini.<br>2. おおきく (大きく): Artinya \"besar\". Kata ini biasanya digunakan untuk menunjukkan ukuran atau volume. \"Ada orang besar\" bukanlah ekspresi yang alami dalam konteks ini.<br>3. おおぜい (大勢): Artinya \"banyak orang\". Kata ini sering digunakan untuk menunjukkan jumlah orang yang besar. \"Ada banyak orang\" adalah ekspresi yang alami dalam konteks ini.<br>4. たいへん (大変): Artinya \"sangat\", \"sulit\", atau \"berat\". Kata ini sering digunakan untuk menunjukkan tingkat keparahan atau kesulitan suatu situasi. \"Ada sangat orang\" bukanlah ekspresi yang alami dalam konteks ini.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>3. おおぜい<br>Kalimat lengkap: へやにはひとがおおぜいいてあついです。"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.369565217,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3226,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "さむいですね。まどを&nbsp;________&nbsp;ください。",
+                    "answers": [
+                      "おして",
+                      "きって",
+                      "けして",
+                      "しめて"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "さむいですね。まどを________ください。<br>Meaning: It's cold, isn't it. Please ________ the window.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. おして (押して): The dictionary form of the verb 押す means 'to push'. This verb is often used when you want to push something away. In this context, 'pushing the window' is not appropriate because it is not related to opening or closing the window to avoid the cold.<br>2. きって (切って): The dictionary form of the verb 切る means 'to cut'. This verb is often used when talking about cutting something. 'Cutting the window' does not make sense in this context.<br>3. けして (消して): The dictionary form of the verb 消す means 'to turn off' (like turning off a light, turning off a fire). This verb is not suitable for 'window' because windows cannot be 'turned off'.<br>4. しめて (閉めて): The dictionary form of the verb 閉める means 'to close'. This verb is appropriate in the context because when it is cold, people often close the window to keep warm.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>4. しめて<br>Complete sentence: さむいですね。まどをしめてください。<br>Meaning: It's cold, isn't it. Please close the window.",
+                      "id_auto": "さむいですね。まどをしめてください。<br>###<br><br><span style=\"font-weight: 700;\">ANALISIS</span><br><br>1. おして (押して): Bentuk kamus dari kata kerja 押す berarti 'mendorong'. Kata kerja ini sering digunakan ketika Anda ingin mendorong sesuatu menjauh. Dalam konteks ini, 'mendorong jendela' tidak sesuai karena tidak berhubungan dengan membuka atau menutup jendela untuk menghindari dingin.<br><br>2. きって (切って): Bentuk kamus dari kata kerja 切る berarti 'memotong'. Kata kerja ini sering digunakan ketika berbicara tentang memotong sesuatu. 'Memotong jendela' tidak masuk akal dalam konteks ini.<br><br>3. けして (消して): Bentuk kamus dari kata kerja 消す berarti 'mematikan' (seperti mematikan lampu, memadamkan api). Kata kerja ini tidak cocok untuk 'jendela' karena jendela tidak bisa 'dimatikan'.<br><br>4. しめて (閉めて): Bentuk kamus dari kata kerja 閉める berarti 'menutup'. Kata kerja ini tepat dalam konteks ini karena ketika dingin, orang sering menutup jendela agar tetap hangat.<br><br>###<br><br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br><br>4. しめて<br><br>Kalimat lengkap: さむいですね。まどをしめてください。<br>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.192883895,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "thay đổi cách nói",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 19372,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p><u>このカタログをもってもいいですか。</u></p>",
+                    "image": "",
+                    "answers": [
+                      "わたしはカタログをもらっています",
+                      "私(わたし)はカタログを持(も)っています",
+                      "あなたはカタログを取(と)っています",
+                      "このカタログを取(と)ってもいいですか"
+                    ],
+                    "correctAnswer": 3,
+                    "explain_vn": "<p>もって=取(と)って: cầm, lấy</p><p>Cuốn lịch n&agrave;y t&ocirc;i cầm được kh&ocirc;ng?</p><p>1.T&ocirc;i đang nhận lịch</p><p>2.T&ocirc;i đang cầm lịch</p><p>3.Bạn đang cầm lịch</p><p>4.T&ocirc;i cầm lịch n&agrave;y được kh&ocirc;ng?</p>",
+                    "explainAll": {
+                      "en": "<span style=\"font-weight: 700;\">このカタログをもってもいいですか。<br></span>How to read:&nbsp;<span style=\"font-weight: 700;\">このカタログをもってもいいですか。</span><br>Meaning:&nbsp;<span style=\"font-weight: 700;\">May I have this catalog?</span><br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. わたしはカタログをもらっています: Means 'I have the catalog'. This choice is not synonymous with the original sentence because the original sentence is a question asking for permission.<br>2. 私(わたし)はカタログを持(も)っています: Means 'I have the catalog.' This sentence is not a question like the original sentence, so it is not a synonymous answer.<br>3. あなたはカタログを取(と)っています: Means 'You are taking the catalog.' This sentence is also not synonymous.<br>4. このカタログを取(と)ってもいいですか: Means 'Can I take this catalog?'. This sentence completely expresses the meaning of asking for permission like the original sentence, so this is the correct answer.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. このカタログを取(と)ってもいいですか<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Some words that are synonymous or related to '持つ' (もつ) in this context may include:<br>1. 持ち運ぶ (もちはこぶ): To carry, to transport. This word is often used when referring to carrying objects from one place to another.<br>2. つかむ: To grab, to grasp. This word emphasizes the action of firmly holding an object in your hand.<br>3. 所持する (しょじする): To possess, to hold. This word has a more formal feel and is often used in formal or legal contexts.<br>4. 提げる (さげる): To hang, to carry. This word usually refers to the action of carrying an object by hanging it, such as a handbag.",
+                      "id_auto": "<span style=\"font-weight: 700;\">このカタログをもってもいいですか。<br></span>Cara membaca:&nbsp;<span style=\"font-weight: 700;\">このカタログをもってもいいですか。</span><br>Arti:&nbsp;<span style=\"font-weight: 700;\">Bolehkah saya memiliki katalog ini?</span><br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. わたしはカタログをもらっています: Artinya 'Saya memiliki katalog'. Pilihan ini tidak memiliki arti yang sama dengan kalimat aslinya karena kalimat aslinya adalah pertanyaan yang meminta izin.<br>2. 私(わたし)はカタログを持(も)っています: Artinya 'Saya memiliki katalog'. Kalimat ini bukan pertanyaan seperti kalimat aslinya, jadi ini bukan jawaban yang sinonim.<br>3. あなたはカタログを取(と)っています: Artinya 'Kamu sedang mengambil katalog'. Kalimat ini juga tidak sinonim.<br>4. このカタログを取(と)ってもいいですか: Artinya 'Bolehkah saya mengambil katalog ini?'. Kalimat ini sepenuhnya mengungkapkan makna meminta izin seperti kalimat aslinya, jadi ini adalah jawaban yang benar.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. このカタログを取(と)ってもいいですか<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Beberapa kata yang sinonim atau terkait dengan '持つ' (もつ) dalam konteks ini mungkin termasuk:<br>1. 持ち運ぶ (もちはこぶ): Membawa, mengangkut. Kata ini sering digunakan ketika merujuk pada membawa benda dari satu tempat ke tempat lain.<br>2. つかむ: Meraih, menggenggam. Kata ini menekankan tindakan memegang benda dengan kuat di tangan Anda.<br>3. 所持する (しょじする): Memiliki, memegang. Kata ini memiliki nuansa yang lebih formal dan sering digunakan dalam konteks formal atau hukum.<br>4. 提げる (さげる): Menggantung, membawa. Kata ini biasanya mengacu pada tindakan membawa benda dengan menggantungnya, seperti tas tangan."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.235023041,
+                "scores": [
+                  5
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 19543,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p>今、みちにはのりものが　たくさんあるので、<u>きをつけた</u>ほうがいいです。</p>",
+                    "image": "",
+                    "answers": [
+                      "ちゅういした",
+                      "きにした",
+                      "みつけた",
+                      "きになった"
+                    ],
+                    "correctAnswer": 0,
+                    "explain_vn": "<p>きをつけた&nbsp;= ちゅういした: ch&uacute; &yacute;, cẩn thận</p><p>1. ch&uacute; &yacute;</p><p>2. quan t&acirc;m</p><p>3. ph&aacute;t hiện</p><p>4. lo lắng</p>",
+                    "explainAll": {
+                      "en": "今、みちにはのりものが　たくさんあるので、<span style=\"font-weight: 700;\">きをつけた</span>ほうがいいです。<br>How to read: いま、みちにはのりものが　たくさんあるので、<span style=\"font-weight: 700;\">きをつけた</span>ほうがいいです。<br>Meaning: Currently, there are many vehicles on the road, so you&nbsp;<span style=\"font-weight: 700;\">should be careful</span>.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. ちゅういした (注意した): Means 'paid attention' or 'was cautious'. This is a direct synonym for 'きをつけた'.<br>2. きにした (気にした): Means 'cared about' or 'was concerned about'. This word is not synonymous with 'きをつけた' because it usually means caring about something that is not related to caution.<br>3. みつけた (見つけた): Means 'found'. This word is unrelated and not synonymous with 'きをつけた'. It describes the action of searching for and discovering something.<br>4. きになった (気になった): Means 'became concerned about' or 'started to worry'. Although related to paying attention, it is not synonymous with being careful or cautious.<br>Therefore, the correct choice is ちゅういした.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. ちゅういした<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>In this sentence, '気をつけた' (きをつけた) means 'be careful' or 'pay attention'. Some synonyms that you can use to replace '気をつけた' include:<br>1. 注意した (ちゅういした): Pay attention, be cautious. This word expresses a bit more vigilance than '気をつけた'.<br>2. 用心した (ようじんした): Be careful, take precautions. This word emphasizes taking precautions against risks or dangers.<br>3. 気配りした (きくばりした): Be considerate, pay attention to your surroundings. This word has a softer nuance, reflecting concern for others and circumstances.<br>4. 警戒した (けいかいした): Be vigilant, be on guard. This word is often used in situations where you need to be much more careful.<br>5. 注意深い (ちゅういぶかい): Careful, deeply attentive. This is not a verb but can be used to describe a state of caution in action.",
+                      "id_auto": "今、みちにはのりものが　たくさんあるので、<span style=\"font-weight: 700;\">きをつけた</span>ほうがいいです。<br>Cara membaca: いま、みちにはのりものが　たくさんあるので、<span style=\"font-weight: 700;\">きをつけた</span>ほうがいいです。<br>Arti: Sekarang, ada banyak kendaraan di jalan, jadi kamu&nbsp;<span style=\"font-weight: 700;\">sebaiknya berhati-hati</span>.<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. ちゅういした (注意した): Artinya \"memberi perhatian\" atau \"berhati-hati\". Ini adalah sinonim langsung untuk 'きをつけた'.<br>2. きにした (気にした): Artinya \"peduli tentang\" atau \"mengkhawatirkan tentang\". Kata ini tidak sinonim dengan 'きをつけた' karena biasanya berarti peduli tentang sesuatu yang tidak berhubungan dengan kehati-hatian.<br>3. みつけた (見つけた): Artinya \"menemukan\". Kata ini tidak terkait dan tidak sinonim dengan 'きをつけた'. Ini menggambarkan tindakan mencari dan menemukan sesuatu.<br>4. きになった (気になった): Artinya \"mulai khawatir tentang\" atau \"menjadi khawatir\". Meskipun terkait dengan memberi perhatian, itu tidak sinonim dengan berhati-hati.<br>Oleh karena itu, pilihan yang tepat adalah ちゅういした.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. ちゅういした<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Dalam kalimat ini, '気をつけた' (きをつけた) berarti \"berhati-hati\" atau \"perhatikan\". Beberapa sinonim yang dapat Anda gunakan untuk menggantikan '気をつけた' meliputi:<br>1. 注意した (ちゅういした): Perhatikan, berhati-hatilah. Kata ini mengungkapkan sedikit lebih banyak kewaspadaan daripada '気をつけた'.<br>2. 用心した (ようじんした): Berhati-hatilah, ambil tindakan pencegahan. Kata ini menekankan pengambilan tindakan pencegahan terhadap risiko atau bahaya.<br>3. 気配りした (きくばりした): Pertimbangkan, perhatikan lingkungan sekitar Anda. Kata ini memiliki nuansa yang lebih lembut, yang mencerminkan perhatian terhadap orang lain dan keadaan.<br>4. 警戒した (けいかいした): Waspadalah, berjaga-jagalah. Kata ini sering digunakan dalam situasi di mana Anda harus jauh lebih berhati-hati.<br>5. 注意深い (ちゅういぶかい): Hati-hati, sangat perhatian. Ini bukan kata kerja tetapi dapat digunakan untuk menggambarkan keadaan kehati-hatian dalam tindakan."
+                    },
+                    "explain_en": "<p>きをつけた&nbsp;= ちゅういした:</p><p>1. look out, be careful</p><p>2. take care of</p><p>3. relize</p><p>4. worry about</p>"
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.400966183,
+                "scores": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-05-09T06:49:22.000Z",
+    "updated_at": "2025-06-06T01:02:52.000Z"
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "Questions": {
+    "id": 6575,
+    "type": 3,
+    "title": "Vocabulary Test 5",
+    "level": 5,
+    "time": 10,
+    "score": 40,
+    "pass_score": 19,
+    "parts": [
+      {
+        "time": 10,
+        "min_score": 19,
+        "max_score": 40,
+        "name": "文字・語彙",
+        "content": [
+          {
+            "kind": "cách đọc kanji",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 10394,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "これはたんじょうびにははが<u>買った</u>かばんです。",
+                    "answers": [
+                      "かった",
+                      "きった",
+                      "あった",
+                      "だった"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "<p>買います（かいます）：(Mại) mua</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 買った<br>How to read: かった<br>Dictionary form: 買う(かう)<br>Meaning: to buy<br>Question: これはたんじょうびにははが<u>買った</u>かばんです。<br>How to read: これはたんじょうびにははが<u>かった</u>かばんです。<br>Meaning: This is the bag that my mother&nbsp;<u>bought</u>&nbsp;for my birthday.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. かった<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>2. きった: This is the past form of the verb '切る' (kiru), which means 'to cut'.<br>3. あった: This is the past form of the verb 'ある' (aru), which means 'to exist' (used for inanimate objects).<br>4. だった: This is the past form of 'です' (desu).<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The kanji '買' has two main readings:<br>1. Kun'yomi: 'か-う'.&nbsp;<div>Example:<br>買い物 (かいもの) meaning 'shopping'.<br>2. On'yomi: 'ばい'.&nbsp;</div><div>Example:<br>買収 (ばいしゅう) meaning 'acquisition' (often used in a business context, like acquiring a company).</div>",
+                      "id_auto": "Kata: 買った<br>Cara membaca: かった<br>Bentuk kamus: 買う(かう)<br>Arti: membeli<br>Pertanyaan: これはたんじょうびにははが<u>買った</u>かばんです。<br>Cara membaca: これはたんじょうびにははが<u>かった</u>かばんです。<br>Arti: Ini adalah tas yang <u>dibeli</u> ibuku untuk ulang tahunku.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. かった <br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>2. きった: Ini adalah bentuk lampau dari kata kerja '切る' (kiru), yang berarti 'memotong'.<br>3. あった: Ini adalah bentuk lampau dari kata kerja 'ある' (aru), yang berarti 'ada' (digunakan untuk benda mati).<br>4. だった: Ini adalah bentuk lampau dari 'です' (desu).<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji '買' memiliki dua bacaan utama:<br>1. Kun'yomi: 'か-う'.&nbsp;<div>Contoh:<br>買い物 (かいもの) berarti 'berbelanja'.<br>2. On'yomi: 'ばい'.&nbsp;</div><div>Contoh:<br>買収 (ばいしゅう) berarti 'akuisisi' (sering digunakan dalam konteks bisnis, seperti mengakuisisi perusahaan).</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.126446406,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3050,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "きょうの午後は、<u>一人</u>でほんを読みます。",
+                    "answers": [
+                      "いちじん",
+                      "いちにん",
+                      "ひとり",
+                      "ふたり"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "一人 [ひとり]: Một người",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div><div>Word: 一人<br>How to read: ひとり<br>Meaning: one person<br>Question: きょうの午後は、<u>一人</u>でほんを読みます。<br>How to read: きょうのごごは、<u>ひとり</u>でほんをよみます。<br>Meaning: This afternoon, I will read a book&nbsp;<u>alone</u>.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. ひとり<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. いちじん: This answer is incorrect because it mistakes another reading of '一' and '人' that is not suitable in this case.<br>2. いちにん: This answer is incorrect because it mistakes another reading of '一' and '人' that is not suitable in this case.<br>4. ふたり: This is the reading for the word '二人' (two people).<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>'一人' is made up of 2 kanji:<br>1. 一 (いち, いつ, ひと): one<br>2. 人 (ひと, にん, じん): person<br>Combined, '一人' is read as 'ひとり' and means 'alone, one person'. This word can be applied in some of the following cases:<br><ul><li>一人暮らし (ひとりぐらし): living alone</li><li>一人旅 (ひとりたび): traveling alone</li></ul>When counting the number of people in Japanese, there are 2 cases with special readings to note:<br><ul><li>1 person: 一人 (ひとり)</li><li>2 people: 二人 (ふたり)</li></ul>For the remaining cases, we take the corresponding number plus the kanji '人' (にん) at the end.</div></div>",
+                      "id_auto": "```html<br><div><div>Kata: 一人<br>Cara membaca: ひとり<br>Arti: satu orang<br>Pertanyaan: きょうの午後は、<u>一人</u>でほんを読みます。<br>Cara membaca: きょうのごごは、<u>ひとり</u>でほんをよみます。<br>Arti: Sore ini, saya akan membaca buku <u>sendirian</u>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. ひとり<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. いちじん: Jawaban ini salah karena tertukar dengan cara baca lain dari '一' dan '人' yang tidak sesuai dalam konteks ini.<br>2. いちにん: Jawaban ini salah karena tertukar dengan cara baca lain dari '一' dan '人' yang tidak sesuai dalam konteks ini.<br>4. ふたり: Ini adalah cara membaca untuk kata '二人' (dua orang).<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>'一人' terdiri dari 2 kanji:<br>1. 一 (いち, いつ, ひと): satu<br>2. 人 (ひと, にん, じん): orang<br>Jika digabungkan, '一人' dibaca sebagai 'ひとり' dan berarti 'sendirian, satu orang'. Kata ini dapat diterapkan dalam beberapa kasus berikut:<br><ul><li>一人暮らし (ひとりぐらし): hidup sendiri</li><li>一人旅 (ひとりたび): bepergian sendiri</li></ul>Saat menghitung jumlah orang dalam bahasa Jepang, ada 2 kasus dengan bacaan khusus yang perlu diperhatikan:<br><ul><li>1 orang: 一人 (ひとり)</li><li>2 orang: 二人 (ふたり)</li></ul>Untuk kasus lainnya, kita menggunakan angka yang sesuai ditambah kanji '人' (にん) di akhir.</div></div><br>```"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.121959194,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3248,
+                "title": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "この山には百本のさくらがあります。<u>春</u>にはおおぜいの人が花見に来ます。",
+                    "answers": [
+                      "はる",
+                      "なつ",
+                      "あき",
+                      "ふゆ"
+                    ],
+                    "correctAnswer": 0,
+                    "explain": "春 [はる]:<br><ul><li>Xuân</li><li>Mùa xuân</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Word: 春<br>How to read: はる<br>Meaning: spring<br>Question: この山には百本のさくらがあります。<u>春</u>にはおおぜいの人が花見に来ます。<br>How to read: このやまにはひゃっぽんのさくらがあります。<u>はる</u>にはおおぜいのひとがはなみにきます。<br>Meaning: There are 100 cherry trees on this mountain. In&nbsp;<u>spring</u>, many people come to see the cherry blossoms.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. はる<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>2. なつ: This is how to read the kanji 夏, which means summer.<br>3. あき: This is how to read the kanji 秋, which means autumn.<br>4. ふゆ: This is how to read the kanji 冬, which means winter.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The kanji '春' meaning 'spring' has the following readings:<br>1. Kun'yomi: はる<br>Example:<br><ul><li>春 (はる): spring</li><li>春休み (はるやすみ): spring break</li><li>春風 (はるかぜ): spring breeze</li></ul>2. On'yomi: しゅん<br>Example:<br><ul><li>青春 (せいしゅん): youth, adolescence</li><li>春分 (しゅんぶん): vernal equinox</li><li>立春 (りっしゅん): the first day of spring</li></ul>Here are the other kanji representing the seasons:<br>Below are the kanji representing the seasons in Japanese:<br><p style=\"display: inline !important;\">夏 (か / なつ): summer.<br></p>Example:<br><ul><li>夏休み (なつやすみ): summer vacation</li><li><p style=\"display: inline !important;\">初夏 (しょか): early summer</p></li></ul><p style=\"display: inline !important;\">秋 (しゅう / あき): autumn.<br></p><p style=\"display: inline !important;\">Example:</p><br><ul><li><p style=\"display: inline !important;\">秋風 (あきかぜ): autumn wind</p></li><li><p style=\"display: inline !important;\">秋分 (しゅうぶん): autumnal equinox</p></li></ul><p style=\"display: inline !important;\">冬 (とう / ふゆ): winter.&nbsp;</p><div><p style=\"display: inline !important;\">Example:<br></p><ul><li>冬休み (ふゆやすみ): winter vacation</li><li>冬季 (とうき): winter season</li></ul></div>",
+                      "id_auto": "Kata: 春<br>Cara membaca: はる<br>Arti: musim semi<br>Pertanyaan: この山には百本のさくらがあります。<u>春</u>にはおおぜいの人が花見に来ます。<br>Cara membaca: このやまにはひゃっぽんのさくらがあります。<u>はる</u>にはおおぜいのひとがはなみにきます。<br>Arti: Di gunung ini terdapat seratus pohon sakura. Di musim <u>semi</u>, banyak orang datang untuk melihat bunga sakura.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. はる<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>2. なつ: Ini adalah cara membaca kanji 夏, yang berarti musim panas.<br>3. あき: Ini adalah cara membaca kanji 秋, yang berarti musim gugur.<br>4. ふゆ: Ini adalah cara membaca kanji 冬, yang berarti musim dingin.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Kanji '春' yang berarti 'musim semi' memiliki bacaan sebagai berikut:<br>1. Kun'yomi: はる<br>Contoh:<br><ul><li>春 (はる): musim semi</li><li>春休み (はるやすみ): libur musim semi</li><li>春風 (はるかぜ): angin musim semi</li></ul>2. On'yomi: しゅん<br>Contoh:<br><ul><li>青春 (せいしゅん): masa muda, pubertas</li><li>春分 (しゅんぶん): ekuinoks musim semi</li><li>立春 (りっしゅん): hari pertama musim semi</li></ul>Berikut adalah kanji lain yang mewakili musim:<br>Di bawah ini adalah kanji yang mewakili musim dalam bahasa Jepang:<br><p style=\"display: inline !important;\">夏 (か / なつ): musim panas.</p><br>Contoh:<br><ul><li>夏休み (なつやすみ): liburan musim panas</li><br><li><p style=\"display: inline !important;\">初夏 (しょか): awal musim panas</p></li></ul><br><p style=\"display: inline !important;\">秋 (しゅう / あき): musim gugur.</p><br><p style=\"display: inline !important;\">Contoh:</p><br><ul><li><p style=\"display: inline !important;\">秋風 (あきかぜ): angin musim gugur</p></li><br><li><p style=\"display: inline !important;\">秋分 (しゅうぶん): ekuinoks musim gugur</p></li></ul><br><p style=\"display: inline !important;\">冬 (とう / ふゆ): musim dingin.&nbsp;</p><br><div><p style=\"display: inline !important;\">Contoh:<br></p><br><ul><li>冬休み (ふゆやすみ): liburan musim dingin</li><br><li>冬季 (とうき): musim dingin</li></ul></div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách đọc kanji",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.208364966,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "cách viết từ",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3144,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "まちの みなみがわは みどりが <u>おおい</u>。",
+                    "answers": [
+                      "大い",
+                      "太い",
+                      "広い",
+                      "多い"
+                    ],
+                    "correctAnswer": 3,
+                    "explain": "多い [おおい]:<br><ul><li>Bộn</li><li>Nhiều</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: まちの みなみがわは みどりが<u>おおい</u>。<br>Meaning: There is a lot of greenery in the south of the city.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>4. 多い<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 大い: This form does not exist in Japanese. The correct word is 大きい (おおきい), which means 'big' and refers to space, size, or sound.<br>2. 太い (ふとい): Means 'fat' or 'thick'.<br>3. 広い (ひろい): Means 'wide' and describes space.<br>4. 多い (おおい): Means 'many' or 'much', referring to quantity. This is the correct choice.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>多い (おおい) in Japanese has the following meanings and usage contexts:<br>1. Many, much:<br>- Expresses a large quantity or crowdedness of something. This word is often used to indicate a large number of people, objects, events, or phenomena. It can be used in various contexts, from describing the number of people at an event to the number of objects in a space.<br>- Example:<br>+ 人が多い。<br>ひと が おおい。<br>There are many people.<br>+ この町は車が多い。<br>このまち は くるま が おおい。<br>There are many cars in this town.<br>2. Often, frequently:<br>- Used to indicate a high frequency of an action or event. In this context, '多い' can be used to describe an action that occurs frequently or a common habit.<br>- Example:<br>+ 彼は遅刻が多い。<br>かれ は ちこく が おおい。<br>He is often late.<br>+ 雨の日が多い。<br>あめ の ひ が おおい。<br>It rains a lot.",
+                      "id_auto": "Pertanyaan: まちの みなみがわは みどりが<u>おおい</u>。<br>Arti: Di selatan kota, tumbuh-tumbuhan <u>banyak</u>.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>4. 多い<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. 大い: Bentuk ini tidak ada dalam bahasa Jepang. Kata yang benar adalah 大きい (おおきい), yang berarti \"besar\" dan merujuk pada ruang, ukuran, atau suara.<br>2. 太い (ふとい): Artinya \"gemuk\" atau \"tebal\".<br>3. 広い (ひろい): Artinya \"lebar\" dan menggambarkan ruang.<br>4. 多い (おおい): Artinya \"banyak\", merujuk pada kuantitas. Ini adalah pilihan yang tepat.<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>多い (おおい) dalam bahasa Jepang memiliki arti dan konteks penggunaan sebagai berikut:<br>1. Banyak:<br>- Mengungkapkan kuantitas besar atau keramaian dari sesuatu. Kata ini sering digunakan untuk menunjukkan sejumlah besar orang, benda, kejadian, atau fenomena. Dapat digunakan dalam berbagai konteks, dari menggambarkan jumlah orang di suatu acara hingga jumlah benda di suatu ruang.<br>- Contoh:<br>+ 人が多い。 <br>ひと が おおい。 <br>Banyak orang.<br>+ この町は車が多い。 <br>このまち は くるま が おおい。 <br>Di kota ini banyak mobil.<br>2. Sering:<br>- Digunakan untuk menunjukkan frekuensi tinggi dari suatu tindakan atau kejadian. Dalam konteks ini, '多い' dapat digunakan untuk menggambarkan tindakan yang sering terjadi atau kebiasaan umum.<br>- Contoh:<br>+ 彼は遅刻が多い。 <br>かれ は ちこく が おおい。 <br>Dia sering terlambat.<br>+ 雨の日が多い。 <br>あめ の ひ が おおい。 <br>Sering hujan."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  3
+                ],
+                "score_difficult": 0.341614906,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3257,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "はははまいにち、だいがくの<u>としょかん</u>ではたらいています。",
+                    "answers": [
+                      "図所館",
+                      "図書館",
+                      "読所館",
+                      "読書館"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "図書館 [としょかん]:<br><ul><li>Thư quán</li><li>Thư viện</li></ul>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "Question: はははまいにち、だいがくの<span style=\"font-weight: 700;\">としょかん</span>ではたらいています。<br>Meaning: My mother works at the university&nbsp;<span style=\"font-weight: 700;\">library</span>&nbsp;every day.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. 図書館<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. 図所館: Does not exist in Japanese.<br>2. 図書館 (としょかん): Means 'library'.<br>3. 読所館: Does not exist in Japanese.<br>4. 読書館: Does not exist in Japanese.<br>The options are designed to be confusing based on similar onyomi sounds. 図 has the onyomi sound と, 読 has the on sound とう. 所 and 書 share the onyomi しょ.<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>The word 図書館 (としょかん) in Japanese refers to a library - a place where people can go to read, borrow books and materials, and find information.<br>- Example:<br>+ 図書館で本を借りる。<br>としょかん で ほん を かりる。<br>I borrow books from the library.<br>+ 図書館は静かにしなければならない。<br>としょかん は しずか に しなければならない。<br>You must be quiet in the library.<br>+ 学校の図書館で勉強する。<br>がっこう の としょかん で べんきょう する。<br>I study in the school library.",
+                      "id_auto": "Pertanyaan: はははまいにち、だいがくの<span style=\"font-weight: 700;\">としょかん</span>ではたらいています。<br>Arti: Ibuku bekerja di universitas <span style=\"font-weight: 700;\">perpustakaan</span> setiap hari.<br><br>###<br><br><span style=\"font-weight: 700;\">PILIHAN YANG BENAR:</span><br><br>2. 図書館<br><br>###<br><br><span style=\"font-weight: 700;\">ANALISIS:</span><br><br>1. 図所館: Tidak ada dalam bahasa Jepang.<br><br>2. 図書館 (としょかん): Artinya 'perpustakaan'.<br><br>3. 読所館: Tidak ada dalam bahasa Jepang.<br><br>4. 読書館: Tidak ada dalam bahasa Jepang.<br><br>Pilihan-pilihan tersebut dirancang untuk membingungkan berdasarkan bunyi onyomi yang mirip. 図 memiliki bunyi onyomi と, 読 memiliki bunyi on とう. 所 dan 書 memiliki bunyi onyomi yang sama, yaitu しょ.<br><br>###<br><br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br><br>Kata 図書館 (としょかん) dalam bahasa Jepang merujuk pada perpustakaan - tempat di mana orang dapat pergi untuk membaca, meminjam buku dan materi, dan mencari informasi.<br><br>- Contoh:<br><br>+ 図書館で本を借りる。<br><br>としょかん で ほん を かりる。<br><br>Saya meminjam buku dari perpustakaan.<br><br>+ 図書館は静かにしなければならない。<br><br>としょかん は しずか に しなければならない。<br><br>Anda harus tenang di perpustakaan.<br><br>+ 学校の図書館で勉強する。<br><br>がっこう の としょかん で べんきょう する。<br><br>Saya belajar di perpustakaan sekolah."
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.246831955,
+                "scores": [
+                  2
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3098,
+                "title": "もんだい＿＿＿のことばは　どう　かきますか。１・２・３・４から　いちばん　いいものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "てんきがわるくて、そとで<u>すぽーつ</u>ができません。",
+                    "answers": [
+                      "スポーシ",
+                      "スポーツ",
+                      "ヌポーシ",
+                      "ヌポーツ"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "<div>Question: てんきがわるくて、そとで<span style=\"font-weight: 700;\">すぽーつ</span>ができません。</div>Meaning: Because the weather is bad, I can't do&nbsp;<span style=\"font-weight: 700;\">sports</span>&nbsp;outside.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>2. スポーツ<br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. スポーシ: This does not exist in Japanese.<br>2. スポーツ: This is the correct way to write 'sports' in Japanese.<br>3. ヌポーシ: This does not exist in Japanese.<br>4. ヌポーツ: This does not exist in Japanese.<br>The choices are designed to be confusing due to similar writing styles. ス and ヌ, シ and ツ look quite similar, so pay attention when choosing.<div>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>スポーツ in Japanese refers to physical activities or competitive games, usually conducted under specific rules. This word is widely used to refer to sports such as soccer, basketball, swimming, etc. It can be used in various contexts, from professional competitions to recreational sports activities.<br>- Example:<br>+ 彼はスポーツが得意です。<br>かれ は スポーツ が とくい です。<br>He is good at sports.<br>+ スポーツをするのは健康に良い。<br>スポーツ を する の は けんこう に よい。<br>Doing sports is good for your health.<br>+ スポーツクラブに通っています。<br>スポーツクラブ に かよって います。<br>I am attending a sports club.</div>",
+                      "id_auto": "<div>Pertanyaan: てんきがわるくて、そとで<span style=\"font-weight: 700;\">すぽーつ</span>ができません。</div>Arti: Karena cuacanya buruk, saya tidak bisa melakukan&nbsp;<span style=\"font-weight: 700;\">olahraga</span>&nbsp;di luar.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>2. スポーツ<br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. スポーシ: Ini tidak ada dalam bahasa Jepang.<br>2. スポーツ: Ini adalah cara yang benar untuk menulis 'olahraga' dalam bahasa Jepang.<br>3. ヌポーシ: Ini tidak ada dalam bahasa Jepang.<br>4. ヌ포츠: Ini tidak ada dalam bahasa Jepang.<br>Pilihan-pilihan ini dirancang untuk membingungkan karena gaya penulisan yang mirip. ス dan ヌ, シ dan ツ terlihat sangat mirip, jadi perhatikan saat memilih.<div>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>スポーツ dalam bahasa Jepang mengacu pada aktivitas fisik atau permainan kompetitif, biasanya dilakukan di bawah aturan tertentu. Kata ini banyak digunakan untuk menyebut olahraga seperti sepak bola, bola basket, renang, dll. Dapat digunakan dalam berbagai konteks, dari kompetisi profesional hingga aktivitas olahraga rekreasi.<br>- Contoh:<br>+ 彼はスポーツが得意です。<br>かれ は スポーツ が とくい です。<br>Dia pandai olahraga.<br>+ スポーツをするのは健康に良い。<br>スポーツ を する の は けんこう に よい。<br>Berolahraga itu baik untuk kesehatan.<br>+ スポーツクラブに通っています。<br>スポーツクラブ に かよって います。<br>Saya menghadiri klub olahraga.</div>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "cách viết từ",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.148330058,
+                "scores": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "điền từ theo văn cảnh",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 3229,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "2０００ねんに&nbsp;________。いま　こどもは　3にんです。",
+                    "answers": [
+                      "けんかしました",
+                      "さんぽしました",
+                      "けっこんしました",
+                      "しつもんしました"
+                    ],
+                    "correctAnswer": 2,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "2０００ねんに________。いま　こどもは　3にんです。<br>Meaning: In 2000, ________. Now I have 3 children.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. けんかしました (喧嘩しました): The dictionary form is 喧嘩する, which means 'to quarrel'. Arguing is not related to having children, so it does not fit the context of the sentence.<br>2. さんぽしました (散歩しました): The dictionary form is 散歩する, which means 'to take a walk'. Taking a walk is not directly related to having children, so it does not fit the context of the sentence.<br>3. けっこんしました (結婚しました): The dictionary form is 結婚する, which means 'to marry'. Getting married is often the first step toward having children, so it fits the context of the sentence very well.<br>4. しつもんしました (質問しました): The dictionary form is 質問する, which means 'to ask a question'. Asking a question is not related to having children, so it does not fit the context of the sentence.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>3. けっこんしました<br>Complete sentence: 2０００ねんにけっこんしました。いま　こどもは　3にんです。<br>Meaning: In 2000, I got married. Now I have 3 children.",
+                      "id_auto": "2０００ねんに________。いま　こどもは　3にんです。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. けんかしました (喧嘩しました): Bentuk kamus adalah 喧嘩する, yang berarti \"bertengkar\". Bertengkar tidak berhubungan dengan memiliki anak, jadi tidak sesuai dengan konteks kalimat.<br>2. さんぽしました (散歩しました): Bentuk kamus adalah 散歩する, yang berarti \"jalan-jalan\". Jalan-jalan tidak berhubungan langsung dengan memiliki anak, jadi tidak sesuai dengan konteks kalimat.<br>3. けっこんしました (結婚しました): Bentuk kamus adalah 結婚する, yang berarti \"menikah\". Menikah seringkali menjadi langkah pertama untuk memiliki anak, jadi sangat sesuai dengan konteks kalimat.<br>4. しつもんしました (質問しました): Bentuk kamus adalah 質問する, yang berarti \"bertanya\". Bertanya tidak berhubungan dengan memiliki anak, jadi tidak sesuai dengan konteks kalimat.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>3. けっこんしました<br>Kalimat lengkap: 2０００ねんにけっこんしました。いま　こどもは　3にんです。<br>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.176229508,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 3464,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "&nbsp;________&nbsp;のなつもきょねんのなつもとてもあつかったです。",
+                    "answers": [
+                      "おととい",
+                      "おととし",
+                      "まいとし",
+                      "らいねん"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "",
+                    "image": "",
+                    "explainAll": {
+                      "en": "________のなつもきょねんのなつもとてもあつかったです。<br>How to read: ________のなつもきょねんのなつもとてもあつかったです。<br>Meaning: The summer of ________ and last year's summer were very hot.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. おととい: Means 'the day before yesterday'. Summer is a season, so 'the summer of the day before yesterday' is not appropriate.<br>2. おととし: Means 'the year before last'. Saying 'the summer of the year before last' is completely appropriate.<br>3. まいとし: Means 'every year'. The phrase 'the summer of every year' does not fit the context of a specific comparison between two years.<br>4. らいねん: Means 'next year'. 'The summer of next year' refers to the future, so it cannot be compared with 'last year's summer'.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>2. おととし<br>Complete sentence: おととしのなつもきょねんのなつもとてもあつかったです。<br>Meaning: The summer of the year before last and last year's summer were very hot.",
+                      "id_auto": "<p>________のなつもきょねんのなつもとてもあつかったです。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. おととい: Artinya 'kemarin lusa'. Musim panas adalah sebuah musim, jadi 'musim panas kemarin lusa' tidak sesuai.<br>2. おととし: Artinya 'tahun sebelum tahun lalu'. Menyatakan 'musim panas tahun sebelum tahun lalu' sangat sesuai.<br>3. まいとし: Artinya 'setiap tahun'. Frasa 'musim panas setiap tahun' tidak cocok dengan konteks perbandingan spesifik antara dua tahun.<br>4. らいねん: Artinya 'tahun depan'. 'Musim panas tahun depan' mengacu pada masa depan, jadi tidak dapat dibandingkan dengan 'musim panas tahun lalu'.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>2. おととし<br>Kalimat lengkap: おととしのなつもきょねんのなつもとてもあつかったです。</p>"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.284820031,
+                "scores": [
+                  3
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 10448,
+                "title": "もんだい（　　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "つぎの　えきで　でんしゃを&nbsp;________&nbsp;ください。",
+                    "answers": [
+                      "かりて",
+                      "おりて",
+                      "たって",
+                      "のって"
+                    ],
+                    "correctAnswer": 1,
+                    "explain": "<p>でんしゃを　おります：Xuống xe điện</p>\n<p>T&ocirc;i sẽ xuống xe ở nh&agrave; ga tiếp theo.</p>\n<p>Lưu &yacute;: でんしゃに　のります：L&ecirc;n xe điện</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+                    "image": "",
+                    "explainAll": {
+                      "en": "つぎの　えきで　でんしゃを________ください。<br>Meaning: Please get ________ off the train at the next station.<br>###<br><span style=\"font-weight: 700;\">ANALYSIS</span><br>1. かりて (借りて): て-form of the verb 借りる, meaning 'to borrow' or 'to rent'. This is not suitable in the context because you cannot 'borrow' a train at the station.<br>2. おりて (降りて): て-form of the verb 降りる, meaning 'to get off' (a train, car). This is the most suitable choice because the sentence asks to get off the train at the next station.<br>3. たって (立って): て-form of the verb 立つ, meaning 'to stand'. This is not suitable because it doesn't make sense in the context of getting off the train.<br>4. のって (乗って): て-form of the verb 乗る, meaning 'to get on' (a train, car). This is not suitable because the context (staff or announcement) is asking passengers on the train to get off at the next station. Also, を particle should not be used with のって, but に particle.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE</span><br>2. おりて<br>Complete sentence: つぎのえきででんしゃをおりてください。<br>Meaning: Please get off the train at the next station.",
+                      "id_auto": "つぎの　えきで　でんしゃをおりてください。<br>###<br><span style=\"font-weight: 700;\">ANALISIS</span><br>1. かりて (借りて): Bentuk -te dari kata kerja 借りる, yang berarti \"meminjam\" atau \"menyewa\". Ini tidak sesuai dalam konteks ini karena Anda tidak bisa \"meminjam\" kereta di stasiun.<br>2. おりて (降りて): Bentuk -te dari kata kerja 降りる, yang berarti \"turun\" (dari kereta, mobil). Ini adalah pilihan yang paling sesuai karena kalimat tersebut meminta untuk turun dari kereta di stasiun berikutnya.<br>3. たって (立って): Bentuk -te dari kata kerja 立つ, yang berarti \"berdiri\". Ini tidak sesuai karena tidak masuk akal dalam konteks turun dari kereta.<br>4. のって (乗って): Bentuk -te dari kata kerja 乗る, yang berarti \"naik\" (kereta, mobil). Ini tidak sesuai karena konteksnya (staf atau pengumuman) meminta penumpang di kereta untuk turun di stasiun berikutnya. Juga, partikel を seharusnya tidak digunakan dengan のって, tetapi partikel に.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT</span><br>2. おりて<br>Kalimat lengkap: つぎのえきででんしゃをおりてください。"
+                    }
+                  }
+                ],
+                "level": 5,
+                "kind": "điền từ theo văn cảnh",
+                "correct_answers": [
+                  1
+                ],
+                "score_difficult": 0.366541353,
+                "scores": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "thay đổi cách nói",
+            "Questions": [
+              {
+                "count_question": 1,
+                "id": 19352,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p><u>ともだちがひとりもいません。</u></p>",
+                    "image": "",
+                    "answers": [
+                      "ともだちがひとりしかいません",
+                      "ともだちがひとりだけいます",
+                      "ともだちがぜんぜんいません",
+                      "ともだちがあまりいません"
+                    ],
+                    "correctAnswer": 2,
+                    "explain_vn": "<p>ともだちがひとりもいません=ともだちがぜんぜんいません : Kh&ocirc;ng c&oacute; 1 ai</p><p>Kh&ocirc;ng c&oacute; 1 người bạn n&agrave;o</p><p>1.Chỉ c&oacute; 1 người bạn</p><p>2.Chỉ c&oacute; 1 bạn</p><p>3.Kh&ocirc;ng c&oacute; bạn n&agrave;o</p><p>4.Kh&ocirc;ng c&oacute; nhiều bạn lắm</p>",
+                    "explainAll": {
+                      "en": "<span style=\"font-weight: 700;\">友達がひとりもいません</span>。<br>How to read:<span style=\"font-weight: 700;\">ともだちがひとりもいません。</span><br>Meaning:&nbsp;<span style=\"font-weight: 700;\">I don't have any friends.</span><br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. ともだちがひとりしかいません: Means 'I only have one friend.' Having 'one friend' cannot be synonymous with the original sentence 'I don't have any friends.' Therefore, this choice is incorrect.<br>2. ともだちがひとりだけいます: Means 'I only have one friend,' which confirms having one friend, and is not synonymous with the original question.<br>3. ともだちがぜんぜんいません: Means 'I don't have any friends at all,' which is another way of expressing the original sentence, so this is the correct answer.<br>4. ともだちがあまりいません: Means 'I don't have many friends.' This sentence expresses the meaning of 'having friends but not many,' which is also not synonymous.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>3. ともだちがぜんぜんいません<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>Below are some synonyms or near synonyms for ともだち in this sentence:<br>1. 友人 (ゆうじん): friend, pal, often used in writing.<br>2. 仲間 (なかま): colleague, friend, often used in the context of friends with the same aspirations or working together.",
+                      "id_auto": "<span style=\"font-weight: 700;\">友達がひとりもいません</span>。<br>Cara membaca:<span style=\"font-weight: 700;\">ともだちがひとりもいません。</span><br>Arti:&nbsp;<span style=\"font-weight: 700;\">Saya tidak punya teman sama sekali.</span><br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. ともだちがひとりしかいません: Artinya 'Saya hanya punya satu teman'. Memiliki 'satu teman' tentu tidak sama artinya dengan kalimat aslinya 'Saya tidak punya teman sama sekali'. Oleh karena itu, pilihan ini salah.<br>2. ともだちがひとりだけいます: Artinya 'Saya hanya punya satu teman,' yang menegaskan bahwa ada satu teman, dan ini tidak sama dengan pertanyaan aslinya.<br>3. ともだちがぜんぜんいません: Artinya 'Saya sama sekali tidak punya teman,' yang merupakan cara lain untuk mengungkapkan kalimat aslinya, jadi ini adalah jawaban yang benar.<br>4. ともだちがあまりいません: Artinya 'Saya tidak punya banyak teman'. Kalimat ini mengungkapkan makna 'punya teman tapi tidak banyak,' yang juga tidak sama.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>3. ともだちがぜんぜんいません<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Di bawah ini adalah beberapa sinonim atau hampir sinonim untuk ともだち dalam kalimat ini:<br>1. 友人 (ゆうじん): teman, sahabat, sering digunakan dalam tulisan.<br>2. 仲間 (なかま): kolega, teman, sering digunakan dalam konteks teman dengan aspirasi yang sama atau bekerja bersama."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  2
+                ],
+                "score_difficult": 0.208480565,
+                "scores": [
+                  5
+                ]
+              },
+              {
+                "count_question": 1,
+                "id": 19380,
+                "title": "もんだい　＿＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+                "general": {
+                  "audio": "",
+                  "image": "",
+                  "txt_read": "",
+                  "audios": {
+                    "audio_time": null
+                  },
+                  "text_read_id": ""
+                },
+                "content": [
+                  {
+                    "question": "<p>アンさんは　<u>学生(がくせい)じゃありません。</u></p>",
+                    "image": "",
+                    "answers": [
+                      "アンさんは　学生(がくせい)ではありません",
+                      "アンさんは　学生(がくせい)です",
+                      "アンさんは　学生(がくせい)でした",
+                      "アンさんは　学生(がくせい)ません"
+                    ],
+                    "correctAnswer": 0,
+                    "explain_vn": "<p>学生(がくせい)じゃありません=学生(がくせい)ではありません: kh&ocirc;ng phải học sinh</p><p>An kh&ocirc;ng phải l&agrave; học sinh</p><p>1.An kh&ocirc;ng phải l&agrave; học sinh</p><p>2.An l&agrave; học sinh</p><p>3.An đ&atilde; l&agrave; học sinh</p><p>4.An kh&ocirc;ng l&agrave;m học sinh</p>",
+                    "explainAll": {
+                      "en": "アンさんは&nbsp;<span style=\"font-weight: 700;\">学生じゃありません。</span><br>How to read: アンさんは&nbsp;<span style=\"font-weight: 700;\">がくせいじゃありません。</span><br>Meaning: An&nbsp;<span style=\"font-weight: 700;\">is not a student.</span><br>###<br><span style=\"font-weight: 700;\">ANALYSIS:</span><br>1. アンさんは　学生(がくせい)ではありません: Means 'An is not a student.' This expression is correct and synonymous with the original sentence.<br>2. アンさんは　学生(がくせい)です: Means 'An is a student.' This expression is the opposite of the original sentence and not synonymous.<br>3. アンさんは　学生(がくせい)でした: Means 'An was a student.' This is in the past tense, does not match the current original sentence, and is not synonymous.<br>4. アンさんは　学生(がくせい)ません: This sentence is grammatically incorrect. There is no verb or structure after '学生' to express meaning, and it is not synonymous with the original sentence.<br>###<br><span style=\"font-weight: 700;\">CORRECT CHOICE:</span><br>1. アンさんは　学生(がくせい)ではありません<br>###<br><span style=\"font-weight: 700;\">REFERENCE INFORMATION:</span><br>In this sentence, '学生(がくせい)' means 'student'. Some synonyms or related words:<br>1. 生徒 (せいと): This word specifically refers to students in junior high and elementary school.<br>2. 大学生 (だいがくせい): University student, this is a more specific term for students studying at the university level.<br>3. 学び手 (まなびて): Learner, can be used broadly to refer to people involved in learning.<br>4. 学者 (がくしゃ): Scholar, usually used to refer to people with high knowledge in a certain field. Although this word is not exactly the same, it is related to learning.<br>5. 教徒 (きょうと): Disciple, used in the context of learning a trade or profession related to education.<br>These words will help you expand your vocabulary related to students in Japanese.",
+                      "id_auto": "アンさんは&nbsp;<span style=\"font-weight: 700;\">学生じゃありません。</span><br>Cara membaca: アンさんは&nbsp;<span style=\"font-weight: 700;\">がくせいじゃありません。</span><br>Arti: An&nbsp;<span style=\"font-weight: 700;\">bukan seorang siswa.</span><br>###<br><span style=\"font-weight: 700;\">ANALISIS:</span><br>1. アンさんは　学生(がくせい)ではありません: Artinya 'An bukan seorang siswa'. Ungkapan ini benar dan memiliki arti yang sama dengan kalimat aslinya.<br>2. アンさんは　学生(がくせい)です: Artinya 'An adalah seorang siswa'. Ungkapan ini berlawanan dengan kalimat aslinya dan tidak memiliki arti yang sama.<br>3. アンさんは　学生(がくせい)でした: Artinya 'An dulunya seorang siswa'. Ini dalam bentuk lampau, tidak sesuai dengan kalimat asli saat ini, dan tidak memiliki arti yang sama.<br>4. アンさんは　学生(がくせい)ません: Kalimat ini tidak gramatis. Tidak ada kata kerja atau struktur setelah '学生' untuk mengungkapkan makna, dan tidak memiliki arti yang sama dengan kalimat aslinya.<br>###<br><span style=\"font-weight: 700;\">PILIHAN YANG TEPAT:</span><br>1. アンさんは　学生(がくせい)ではありません<br>###<br><span style=\"font-weight: 700;\">INFORMASI REFERENSI:</span><br>Dalam kalimat ini, '学生(がくせい)' berarti 'siswa'. Beberapa sinonim atau kata terkait:<br>1. 生徒 (せいと): Kata ini secara khusus mengacu pada siswa di sekolah menengah pertama dan sekolah dasar.<br>2. 大学生 (だいがくせい): Mahasiswa, ini adalah istilah yang lebih spesifik untuk siswa yang belajar di tingkat universitas.<br>3. 学び手 (まなびて): Pembelajar, dapat digunakan secara luas untuk merujuk kepada orang-orang yang terlibat dalam pembelajaran.<br>4. 学者 (がくしゃ): Sarjana, biasanya digunakan untuk merujuk kepada orang-orang dengan pengetahuan tinggi di bidang tertentu. Meskipun kata ini tidak persis sama, itu terkait dengan pembelajaran.<br>5. 教徒 (きょうと): Murid, digunakan dalam konteks mempelajari perdagangan atau profesi yang berhubungan dengan pendidikan.<br>Kata-kata ini akan membantu Anda memperluas kosakata Anda yang berhubungan dengan siswa dalam bahasa Jepang."
+                    },
+                    "explain_en": ""
+                  }
+                ],
+                "level": 5,
+                "kind": "thay đổi cách nói",
+                "correct_answers": [
+                  0
+                ],
+                "score_difficult": 0.053521126,
+                "scores": [
+                  5
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-05-09T06:49:22.000Z",
+    "updated_at": "2025-06-06T01:02:52.000Z"
+  }
+}
